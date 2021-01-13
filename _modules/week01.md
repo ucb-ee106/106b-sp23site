@@ -1,7 +1,7 @@
 ---
 title: Week 1
 days:
-  - topic: Course Logistics, SO3, SE3, Exponentials, Twists, Wrenches, Forward Kinematics
+  - topic: Course Logistics, SO(3), SE(3), Exponentials, Twists, Wrenches, Forward Kinematics
     date: 2021-01-19
     description: 
   - topic: Jacobians, Lagrangian Equations of Motion, Dyanamics of Robots
@@ -14,4 +14,4 @@ days:
 - Project 1A
 - Lab 0
 - Homework 1 (due TBD)
-- sans
+- repl par

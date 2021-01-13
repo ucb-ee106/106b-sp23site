@@ -1,7 +1,7 @@
 ---
 name: Josephine Koe
 role: Teaching Assistant
-email: tiffanyec@
+email: koe@
 photo: assets/staff_pics/josephine.jpeg
 ---
 

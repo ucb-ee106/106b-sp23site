@@ -29,6 +29,9 @@ description: >-
 - [Linux Intro](assets/labs/resources/linux_intro.pdf)
 - [NumPy Notes](assets/labs/resources/numpy_notes.pdf)
 - [ROS Installation](assets/labs/resources/ROS_installation.pdf)
+- Tiffany's Python & NumPy Crash Course [Video](https://www.youtube.com/watch?v=VJqbBfldUA0) [Slides](https://docs.google.com/presentation/d/1eIrtNVbQjC0Q-ueunNR6APtRpLtZBzlFfeABmp63eNw/edit?usp=sharing)
+- Stella's Linux Bootcamp [Video](https://www.youtube.com/watch?v=fpt1wutdu10) [Slides](https://docs.google.com/presentation/d/1Yip52Hs7v36rLFD6M4RlU22KnoVtl5WQV0TBaejjsr0/edit?usp=sharing)
+- Ron's ROS Basics [Video](https://www.youtube.com/watch?v=qFVtJcGoJvw)
 
 ## Lecture Supplements 
 
@@ -38,34 +41,14 @@ description: >-
 - [The Kinematics of Contact and Grasp, Montana](assets/misc/David Montana.1988.pdf)
 
 ## Scribing
-- [Sign Up Sheet](https://docs.google.com/spreadsheets/d/1dXlZZlm5V6QEsS901nov2H1VLljAXhJ_PEAhDHvpVgE/edit?usp=sharing)
+- [Sign Up Sheet Coming Soon!]()
 - [LaTex Template](assets/template.tex)
 - [Scribing Notes Example](assets/Linear_Systems___Professor_Ma.pdf)
 
 ## Scribed Notes
-- [Lecture 1](assets/scribes/ee106b_lecture1.pdf)
-- [Lecture 2](assets/scribes/ee106b_lecture2.pdf)
-- [Lecture 3](assets/scribes/ee106b_lecture3.pdf)
-- [Lecture 4](assets/scribes/ee106b_lecture4.pdf)
-- [Lecture 5](assets/scribes/ee106b_lecture5.pdf)
-- [Lecture 6](assets/scribes/ee106b_lecture6.pdf)
-- [Lecture 7](assets/scribes/ee106b_lecture7.pdf)
-- [Lecture 8](assets/scribes/ee106b_lecture8.pdf)
-- [Lecture 9](assets/scribes/ee106b_lecture9.pdf)
-- [Lecture 10](assets/scribes/ee106b_lecture10.pdf)
-- [Lecture 11](assets/scribes/ee106b_lecture11.pdf)
-- [Lecture 12](assets/scribes/ee106b_lecture12.pdf)
-- [Lecture 13](assets/scribes/ee106b_lecture13.pdf)
-- [Lecture 14](assets/scribes/ee106b_lecture14.pdf)
-- [Lecture 15]
-- [Lecture 16](assets/scribes/ee106b_lecture16.pdf)
-- [Lecture 17](assets/scribes/ee106b_lecture17.pdf)
-- [Lecture 18]
-- [Lecture 19](assets/scribes/ee106b_lecture19.pdf)
-- [Lecture 20](assets/scribes/ee106b_lecture20.pdf)
-- [Lecture 21](assets/scribes/ee106b_lecture21.pdf)
+
 
 ## Final Project Resources
-- [Project Guidelines](assets/proj/ProjectGuidelines.pdf)
+- [Sp 2020 Project Guidelines](assets/proj/ProjectGuidelines.pdf)
 - [Previous Years' Final Projects](assets/proj/prevProjects.zip)
 

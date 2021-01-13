@@ -14,4 +14,4 @@ days:
 - Project 1A
 - Lab 0
 - Homework 1 (due TBD)
-- parentheses?
+- sans

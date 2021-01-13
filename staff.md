@@ -46,3 +46,11 @@ description: A listing of all the course staff members.
   {{ staffer }}
   {% endfor %}
 </div>
+
+## Moral Support
+<div class="role">
+  {% assign ms = site.staffers | where: 'role', 'Moral Support' %}
+  {% for staffer in ms %}
+  {{ staffer }}
+  {% endfor %}
+</div>

@@ -1,11 +1,11 @@
 ---
-title: Week 13
+title: Week 13 - SLAM, AR/VR
 days:
-  - topic: Special Topics (Vision and AR - Guest lecture by Yi Ma)
-    date: 2020-04-14
-    description: ([video](https://youtu.be/NbwJaCLxAiQ))
-  - topic: Special Topics (DexNet and Grasping - Guest lecture by Jeff Mahler)
-    date: 2020-04-16
-    description: ([video](https://youtu.be/ALWmMcOH8ko))
+  - topic: Simultaneous Localization and Mapping (SLAM), Applications to Augmented and Virtual Reality (Sastry, Saxena)
+    date: 2021-04-13
+    description: (Slides) (Video) (Scribe Notes)
+  - topic: Simultaneous Localization and Mapping (SLAM), Applications to Augmented and Virtual Reality (Sastry, Saxena)
+    date: 2021-04-15
+    description: (Slides) (Video) (Scribe Notes)
 ---
 

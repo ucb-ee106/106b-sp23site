@@ -1,15 +1,15 @@
 ---
-title: Week 9
+title: Week 9 - Introduction to Grasping
 days:
-  - topic: Soft Robotic Control and Modeling 
-    date: 2020-03-17
-    description: ([slides](../assets/lectures/softRoboticsLec3.pdf)) ([video](https://youtu.be/bZOhUjLOmng)) ([Scribe Notes](../assets/scribes/eecs106b_lecture17.pdf))
-  - topic: Soft Robotic Control and Modeling 
-    date: 2020-03-19
-    description: ([slides](../assets/lectures/softRoboticsLec4.pdf))([video](https://youtu.be/bBRFYMQ23-4))
+  - topic: Types and Models of Contact, Modeling Grasp by Multi-fingered Hands 
+    date: 2021-03-16
+    description: (Slides) (Video) (Scribe Notes) <br /> Reading - MLS
+  - topic: Grasp Stability, Manipulability, Grasp Planning
+    date: 2021-03-18
+    description: (Slides) (Video) (Scribe Notes) <br /> Reading - MLS
 ---
 
-- Discussion 9
-- [Project 3](../assets/projects/EECS_106b_Project3_REMOTE.pdf)
-- [Final Project Guidelines](../assets/proj/ProjectGuidelines.pdf)
+- Discussion 9: Planning grasps - singular value decomposition, grasp planning
+- Project 3
+- Final Project Guidelines
 - [Previous Years' Final Projects](../assets/proj/prevProjects.zip)

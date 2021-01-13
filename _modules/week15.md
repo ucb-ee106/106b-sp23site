@@ -1,12 +1,12 @@
 ---
-title: Week 15
+title: Week 15 - Advanced Topics
 days:
-  - topic: Senior Grad Student Panel (Justin Yim, Laura Hallock, Sarah Seko)
-    date: 2020-04-28
-    description: ([video](https://youtu.be/TSwl1JNbTD0))
-  - topic: Senior Grad Student Panel (David Fridovich-Keil, Carolyn Chen, Sylvia Herbert)
-    date: 2020-04-30
-    description: ([video](https://youtu.be/GtaYOyFHvYw))
+  - topic: Visual Motor Coordination (Ma, Sastry, and guest lecturers)
+    date: 2021-04-27
+    description: (Slides) (Video) (Scribe Notes)
+  - topic: isual Motor Coordination (Ma, Sastry, and guest lecturers)
+    date: 2021-04-29
+    description: (Slides) (Video) (Scribe Notes)
 ---
 
 

@@ -1,13 +1,13 @@
 ---
-title: Week 12
+title: Week 12 - An Introduction to Legged Locomotion with Professor Koushil Sreenath
 days:
-  - topic: Special Topics (Vision - Guest Lecture by Yi Ma)
-    date: 2020-04-07
-    description: ([slides](../assets/lectures/vision5.pdf)) ([video](https://youtu.be/j3zuBf6cB1E))  ([Scribe Notes](../assets/scribes/eecs106b_lecture21.pdf))
-  - topic: Special Topics (Vision - Guest Lecture by Yi Ma)
-    date: 2020-04-09
-    description: ([slides 1](../assets/lectures/vision6.pdf)) ([slides 2](../assets/lectures/vision7.pdf)) ([video](https://youtu.be/dbVs356r2w4))
+  - topic: Introduction to Legged Robots, Modeling and Dynamics of Legged Robots
+    date: 2021-04-06
+    description: (Slides) (Video) (Scribe Notes)
+  - topic: Control of Legged Robots
+    date: 2021-04-08
+    description: (Slides) (Video) (Scribe Notes)
 ---
 
-- [Discussion 11](../assets/discussions/D11.pdf) ([video](https://youtu.be/YLzdtLSZU_Q))
+- Discussion 12: Discussion of walking robot papers
 

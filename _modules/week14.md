@@ -1,13 +1,13 @@
 ---
-title: Week 14
+title: Week 14 - Advanced Topics
 days:
-  - topic: Special Topics (Intro to AR/VR - Guest lecture by Allen Yang)
-    date: 2020-04-21
-    description: ([video](https://youtu.be/CoFkBVHLrps))
-  - topic: Special Topics (SLAM and VR/AR - Guest lecture by Joe Menke)
-    date: 2020-04-23
-    description: ([video](https://youtu.be/xBux1ZzRHFU))
+  - topic: Learning-based Detection of Gemoetric Structures for 3D Parsing and Reconstruction (Ma)
+    date: 2020-04-20
+    description: (Slides) (Video) (Scribe Notes)
+  - topic: Learning-based Detection of Gemoetric Structures for 3D Parsing and Reconstruction (Ma)
+    date: 2020-04-22
+    description: (Slides) (Video) (Scribe Notes)
 ---
 
-- Intermediate project presentations due April 20th 11:59pm
-- Peer Reviews due April 24th 11:59pm
+- Intermediate project presentations due April 19th 11:59pm (TBC)
+- Peer Reviews due April 23th 11:59pm (TBC)

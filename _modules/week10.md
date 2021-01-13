@@ -1,10 +1,10 @@
 ---
-title: Week 10
+title: Week 10 - Spring Break
 days:
   - topic: Spring Break (No Class)
-    date: 2020-03-24
-    description:
+    date: 2020-03-23
+    description: Stay safe!
   - topic: Spring Break (No Class)
-    date: 2020-03-26
-    description: 
+    date: 2020-03-25
+    description: Stay safe!
 ---

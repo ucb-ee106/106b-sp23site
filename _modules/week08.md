@@ -1,12 +1,12 @@
 ---
-title: Week 8
+title: Week 8 - Camera Calibration and Image Reconstruction
 days:
-  - topic: Intro to Soft Robotics
-    date: 2020-03-10
-    description: ([slides](../assets/lectures/softRobotics1/softRoboticsLec1.pdf)) ([video](../assets/lectures/softRobotics1/softRoboticsLec1.mp4)) 
-  - topic: Intro to Soft Robotics
-    date: 2020-03-12
-    description: ([slides](../assets/lectures/softRobotics2/softRoboticsLec2.pdf)) ([video](https://youtu.be/0ovS_1HNwpw)) ([Scribe Notes](../assets/scribes/eecs106b_lecture16.pdf))
+  - topic: Kruppa's Equation for Calibration, Uncalibrated Epipolar Geometry
+    date: 2021-03-09
+    description: (Slides) (Video) (Scribe Notes) <br /> Reading - MaSKS Ch 6
+  - topic: ICalibration and Reconstruction a Geometric View
+    date: 2021-03-11
+    description: (Slides) (Video) (Scribe Notes) <br /> Reading - MaSKS Ch 6
 ---
 
-- Discussion 8: ([slides](../assets/discussions/Discussion-Soft-Robotics1.pdf)) ([video](https://youtu.be/h4Qc0dRQPZQ))
+- Discussion 8: Computations for Calibration 

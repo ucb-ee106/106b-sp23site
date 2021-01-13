@@ -1,13 +1,12 @@
 ---
-title: Week 2
+title: Week 2 - Introduction to Basic Lyapunov Stability and Nonlinear Control
 days:
-  - topic: Linear Autonomous Systems and Stability
-    date: 2020-01-28
-    description: ([slides](../assets/lectures/lec3.pdf)) ([Scribe Notes](../assets/scribes/ee106b_lecture3.pdf))
-  - topic: Nonlinear Systems and Lyapunov stability
-    date: 2020-01-30
-    description: ([slides](../assets/lectures/lec4.pdf)) ([Scribe Notes](../assets/scribes/ee106b_lecture4.pdf))
+  - topic: Introduction to Control - Stability, Lyapunov Methods
+    date: 2021-01-26
+    description: (Slides) (Video) (Scribe Notes) <br /> Reading - MLS 
+  - topic: Feedback Linearization, Computed Torque Control, Robust Control
+    date: 2021-01-28
+    description: (Slides) (Video) (Scribe Notes) <br /> Reading - MLS
 ---
 
-- Readings: MLS 4.4
-- [Discussion 2](../assets/discussions/106B_Dis_2_Worksheet.pdf)
+- Discussion 2: Linear control, use of Lyapunov stability, transient behavior 

@@ -1,14 +1,13 @@
 ---
-title: Week 6
+title: Week 6 - Two View Geometry and Structure from Motion
 days:
-  - topic: Optimization in Path Planning
-    date: 2020-02-25
-    description: ([slides](../assets/lectures/optimization-based-planning-control.pdf)) ([Scribe Notes](../assets/scribes/eecs106b_lecture11.pdf))
-  - topic: Introduction to Grasping
-    date: 2020-02-27
-    description: ([slides](../assets/lectures/GraspingLec1.pdf)) ([Scribe Notes](../assets/scribes/eecs106b_lecture12.pdf))
+  - topic: Epipolar Equations, Two View Geometry, Linear and Nonlinear Two View Geometry
+    date: 2021-02-23
+    description: (Slides) (Video) (Scribe Notes) <br /> Reading - MaSKS Ch 5
+  - topic: Structure from Motion for 2 Views, Planar Motions, Homographies
+    date: 2021-02-25
+    description: (Slides) (Video) (Scribe Notes) <br /> Reading - MaSKS Ch 5
 ---
 
-- Discussion 6
- - [ROAR.pdf](../assets/lectures/ROAR.pdf)
+- Discussion 6: Computations for two view geometry
 

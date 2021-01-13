@@ -1,14 +1,14 @@
 ---
-title: Week 5
+title: Week 5 - Image Formation and Photometry
 days:
-  - topic: Optimization-Based Path Planning 
-    date: 2020-02-18
-    description:  ([Scribe Notes](../assets/scribes/eecs106b_lecture9.pdf))
-  - topic: Path Planning and MPC
-    date: 2020-02-20
-    description:  ([Scribe Notes](../assets/scribes/eecs106b_lecture10.pdf))
+  - topic: Chapters 1 and 2 of MaSKS 
+    date: 2021-02-16
+    description:  (Slides) (Video) (Scribe Notes) <br /> Reading - MaSKS Ch 1, 2
+  - topic: Feature Detection, Chapter 4 of MaSKS
+    date: 2021-02-18
+    description:  (Slides) (Video) (Scribe Notes) <br /> Reading - MaSKS Ch 4
 ---
 
-- Discussion 5
-- [Project 2](../assets/projects/EECS_106B_project2.pdf)
-- [Homework 3](../assets/hw/HW3.zip) (due 2/28 11:59 pm)
+- Discussion 5: Image formation, computations, and convolutions
+- Project 2
+- Homework 3 (due TBA)

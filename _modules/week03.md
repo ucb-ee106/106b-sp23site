@@ -1,14 +1,14 @@
 ---
-title: Week 3
+title: Week 3 - Concepts for Steering Nonholonomic Systems
 days:
-  - topic: Nonlinear Control
-    date: 2020-02-04
-    description: ([slides](../assets/lectures/lec5.pdf)) ([Scribe Notes](../assets/scribes/ee106b_lecture5.pdf))
-  - topic: Linear Practical Control Methods
-    date: 2020-02-06
-    description: ([slides](../assets/lectures/lec6.pdf)) ([Scribe Notes](../assets/scribes/ee106b_lecture6.pdf))
+  - topic: Nonholonomic Systems, Path Planning, and Constructive Controllability
+    date: 2021-02-02
+    description: (Slides) (Video) (Scribe Notes) <br /> Reading - MLS
+  - topic: Steering Model Control Systems - Sinusoids and Constructive Controllability
+    date: 2021-02-04
+    description: (Slides) (Video) (Scribe Notes) <br /> Reading - MLS
 ---
 
-- [Discussion 3](../assets/discussions/106B_Dis_3_Worksheet.pdf)
-- [Project 1B](../assets/projects/proj1b.zip)
-- [Homework 2](../assets/hw/HW2.zip) (due 2/14 11:59 pm)
+- Discussion 3: Nonlinear control of manipulators, steering nonholonomic systems
+- Project 1B
+- Homework 2 (due TBA)

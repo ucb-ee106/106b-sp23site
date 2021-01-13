@@ -6,7 +6,7 @@ days:
     description: (Slides) (Scribe Notes) <br /> Reading - MLS 2.1-2.5, 3.1-3.3
   - topic: Jacobians, Lagrangian Equations of Motion, Dyanamics of Robots
     date: 2021-01-22
-    description: 
+    description: Slides Scribe Notes <br /> Reading - MLS Ch 3.4, 4.1-4.3
 ---
 
 - Optional extra reading: MLS Appendix A.3
@@ -14,4 +14,3 @@ days:
 - Project 1A
 - Lab 0
 - Homework 1 (due TBD)
-- repl par

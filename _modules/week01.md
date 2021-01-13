@@ -11,8 +11,8 @@ days:
 ---
 
 - Optional extra reading: MLS Appendix A.3
-- Discussion 1: Review of rotations, rigid body motions, kinematics, inverse kinematics
+- Discussion 1 - Review of rotations, rigid body motions, kinematics, inverse kinematics
 - Project 1A
 - Lab 0
 - Homework 1 (due TBD)
-- excuse me wtf 
+- pls

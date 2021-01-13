@@ -1,5 +1,5 @@
 ---
-title: Week 1 Rigid Body Motion, Kinematics, Lagrangian Dynamics of Robots
+title: noot
 days:
   - topic: Course Logistics, SO(3), SE(3), Exponentials, Twists, Wrenches, Forward Kinematics
     date: 2020-01-19
@@ -15,4 +15,4 @@ days:
 - Project 1A
 - Lab 0
 - Homework 1 (due TBD)
-- beep 
+- boop 

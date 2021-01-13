@@ -12,8 +12,8 @@ schedule:
     events:
       - name: Lecture
         class: lecture
-        start: 3:30 PM
-        end: 5:00 PM
+        start: 9:30 AM
+        end: 11:00 AM
         # location: Etcheverry 3106
   - name: Wednesday
     events:
@@ -31,15 +31,15 @@ schedule:
     events:
       - name: Lecture
         class: lecture
-        start: 3:30 PM
-        end: 5:00 PM
+        start: 9:30 AM
+        end: 11:00 AM
         # location: Etcheverry 3106
       - name: Lab
         class: lab
         start: 5:00 PM
         end: 8:00 PM
         # location: Cory 111
-        tas: Tiffany
+        tas: Ron
   - name: Friday
     events:
       - name: Lab
@@ -47,10 +47,10 @@ schedule:
         start: 8:00 AM
         end: 11:00 AM
         # location: Cory 111
-        tas: Amay
+        tas: J
       - name: Lab
         class: lab
         start: 2:00 PM
         end: 5:00 PM
         # location: Cory 111
-        tas: Jun
+        tas: J

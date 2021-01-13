@@ -47,10 +47,10 @@ schedule:
         start: 8:00 AM
         end: 11:00 AM
         # location: Cory 111
-        tas: J
+        tas: Jay
       - name: Lab
         class: lab
         start: 2:00 PM
         end: 5:00 PM
         # location: Cory 111
-        tas: J
+        tas: Josephine

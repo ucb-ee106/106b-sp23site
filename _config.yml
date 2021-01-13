@@ -17,7 +17,7 @@ title: EECS C106B
 description: Course site for EECS 106B
 author: Tiffany
 email: tiffanyec@berkeley.edu
-baseurl: '/106b-sp20site/' # the subpath of your site, e.g. /blog
+baseurl: '/106b-sp21site/' # the subpath of your site, e.g. /blog
 url: 'https://ucb-ee106.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 
 # Theme settings

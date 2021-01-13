@@ -3,7 +3,7 @@ title: Week 1
 days:
   - topic: Course Logistics, SO(3), SE(3), Exponentials, Twists, Wrenches, Forward Kinematics
     date: 2021-01-19
-    description: (Slides) (Scribe Notes)
+    description: (Slides) (Scribe Notes) <br /> Reading - MLS 2.1-2.5, 3.1-3.3
   - topic: Jacobians, Lagrangian Equations of Motion, Dyanamics of Robots
     date: 2021-01-22
     description: 

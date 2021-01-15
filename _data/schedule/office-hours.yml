@@ -7,73 +7,21 @@ timeline: [
 schedule:
   - name: Monday
     events:
-      - name: Amay Saxena
-        class: office-hours
-        start: 9:00 AM
-        end: 10:00 AM
-        # location: Cory 111
-      - name: Jun Zeng
-        class: office-hours
-        start: 5:00 PM
-        end: 6:00 PM
-        # location: Cory 111
   - name: Tuesday
     events:
-      - name: Tiffany Cappellari
-        class: office-hours
-        start: 11:00 AM
-        end: 12:00 PM
-        # location: Cory 111
-      - name: Valmik Prabhu
-        class: office-hours
-        start: 5:00 PM
-        end: 6:00 PM
-        # location: Cory 111
-      - name: Prof. Sastry
-        class: office-hours
-        start: 1:15 PM
-        end: 2:30 PM
-        # location: Cory 333B
-      - name: Ron Thalanki
-        class: office-hours
-        start: 6:00 PM
-        end: 8:00 PM
-        # location: Cory 111
+      - name: Amay
+        class: coh
+        start: 3:30 PM 
+        end: 5:00 PM
   - name: Wednesday
     events:
-      # - name: Prof. Bajcsy
-      #   class: office-hours
-      #   start: 11:00 AM
-      #   end: 12:00 PM
-      #   location: SDH 719
-      - name: Prof. Sastry
-        class: office-hours
-        start: 3:00 PM
-        end: 4:00 PM
-        # location: Cory 333B
-      - name: Valmik Prabhu
-        class: office-hours
-        start: 5:00 PM
-        end: 6:00 PM
-        # location: Cory 111
   - name: Thursday
     events:
-      - name: Prof. Sastry
-        class: office-hours
-        start: 11:15 AM
-        end: 12:15 PM
-        # location: Cory 333B
-      # - name: Prof. Bajcsy
-      #   class: office-hours
-      #   start: 1:00 PM
-      #   end: 2:00 PM
-      #   location: SDH 719
+      - name: Amay
+        class: coh
+        start: 11:00 AM 
+        end: 12:30 AM
   - name: Friday
     events:
-      # - name: Amay
-      #   class: office-hours
-      #   start: 8:00 AM
-      #   end: 11:00 AM
-        # location: Cory 111
   
 

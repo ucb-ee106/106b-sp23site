@@ -7,6 +7,10 @@ timeline: [
 schedule:
   - name: Monday
     events:
+      - name: Haozhi
+        class: coh
+        start: 4:00 PM 
+        end: 6:00 PM
   - name: Tuesday
     events:
       - name: Amay
@@ -15,6 +19,10 @@ schedule:
         end: 5:00 PM
   - name: Wednesday
     events:
+      - name: Josephine
+        class: loh
+        start: 10:00 AM 
+        end: 12:00 PM
   - name: Thursday
     events:
       - name: Amay

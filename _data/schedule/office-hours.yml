@@ -20,7 +20,7 @@ schedule:
       - name: Amay
         class: coh
         start: 11:00 AM 
-        end: 12:30 AM
+        end: 12:30 PM
   - name: Friday
     events:
   

@@ -2,11 +2,10 @@
 title: Week 17
 days:
   - topic: Finals Week
-    date: 2021-05-11
-    description: Good luck on your exams! 
+    date: 2021-05-14
+    description: Final Project Report and Website Due
   - topic: Finals Week
     date: 2021-05-13
-    description: Good luck on your exams!
 ---
 
-- Final Project Report and Website due on May 14th 11:59pm 
+- Good luck on your exams!

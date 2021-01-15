@@ -9,5 +9,5 @@ days:
     description: (Slides) (Video) (Scribe Notes)
 ---
 
-- Discussion 12: Discussion of walking robot papers
+- Discussion 11: Discussion of walking robot papers
 

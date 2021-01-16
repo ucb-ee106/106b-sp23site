@@ -31,5 +31,9 @@ schedule:
         end: 12:30 PM
   - name: Friday
     events:
+      - name: Jay
+        class: loh
+        start: 11:00 AM 
+        end: 1:00 PM
   
 

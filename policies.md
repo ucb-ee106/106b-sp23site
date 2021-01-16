@@ -18,16 +18,56 @@ description: >-
 ---
 ## About the Course
 
-This course is an introduction to research in model-based robotics. It focuses on dynamics and control of robot manipulators, mobile robotics, grasping and manipulation, and soft robotics. 
+This course is an introduction to advanced topics and research in robotics and intelligent machines. The course is a sequel to EECS/Bioengineering/ME C106A and EECS C206A which covers the mathematical fundamentals of robotics including kinematics, dynamics and control as well as an introduction to path planning, obstacle avoidance, and computer vision This course will present several areas of robotics and active vision, at a deeper level and informed by current research.  Concepts will include the review at an advanced level of robot control, the kinematics, dynamics and control of multi-fingered hands, grasping and manipulation of objects, mobile robots: including non-holonomic motion planning and control, path planning, Simultaneous Localization And Mapping (SLAM), and active vision. Additional research topics to be covered at the instructor’s discretion include: locomotion and walking robots, Unmanned Aerial Vehicles, soft robotics, and Augmented/Virtual Reality. 
 
-The course is a sequel to EECS C106A/Bioengineering C106A and EECS C206A which covers the mathematical fundamentals of robotics including kinematics and dynamics. This course will delve deeper into several areas of robotics which are currently of research interest. Concepts will include manipulator dynamics and control, nonholonomic steering of mobile robots, path planning, grasp modeling with friction, grasp planning, and soft robotics.
+## Prerequisites
+Students are expected to have taken EECS C106A / BioE C106A / ME C106A / EECS C206A or an equivalent course. A strong programming background, knowledge of Python and Matlab, and some coursework in feedback controls (such as EE C128 / ME C134) are also useful. Students who have not taken EECS C106A / BioE C106A / ME C106A / EECS C206A should have a strong programming background, knowledge of Python and Matlab, and exposure to linear algebra, Lagrangian dynamics, and feedback controls at the intermediate level. 
+
+
+## Resources
+
+The required texts are
+- Richard Murray, Zexiang Li and S. Shankar Sastry, <a href="http://www.cds.caltech.edu/~murray/mlswiki/?title=First_edition">A Mathematical Introduction to Robotic Manipulation</a>, 1993. 
+- Y. Ma, S Soatto, J. Kosecka, and S. Sastry, An Invitation to 3-D Vision: From Images to Geometric Models, Springer Verlag 2004.
+
+Other material will be drawn from:
+- Nonlinear Systems: Analysis, Stability, and Control by S. Shankar Sastry, Springer Verlag, 1999. 
+- <a href="https://www.cds.caltech.edu/~murray/books/AM05/pdf/am08-complete_22Feb09.pdf">Feedback Systems: An Introduction for Scientists and Engineers</a> by Karl J. Astrom and Richard M. Murray, 2nd Edition, Princeton University Press, 2020.
+- Supplementary material in motion planning will be from K. Lynch and F. Park, Modern Robotics: Mechanics, Planning and Control, Cambridge University Press, 2017. 
+- Supplementary material on learning from J. Wright and Y. Ma, <a href="https://book-wright-ma.github.io/">High Dimensional Data Analysis with Low Dimensional Models: Principles, Computation and Application</a>, Cambridge University Press, 2021.
+- and numerous research papers
+
+##Desired Course Outcomes
+The primary objective of this course is to help students develop the academic maturity necessary to understand and conduct research in the field of robotics, vision, and intelligent machines. Along with surveying a breadth of topics relevant to modern robotics, this course also gives students the ability to implement the concepts taught in lecture through exploratory lab-based projects. Students will get practice reading and interpreting research papers through weekly paper presentations. The course culminates in a final project that allows students to conduct independent, original research on a topic of their choosing. Students who complete ME C106B should:
+- Be proficient at reading, comprehending, critiquing, and reimplementing research papers in the field of robotics.
+- Have experience conducting independent research in model-based robotics, vision and intelligent machines.
+- Have the tools necessary to reason about nonlinear control systems, robotic manipulators, steering systems subject to non-holonomy, path-planning, active vision, image reconstruction, active vision, robotic grasping, and other advances in robotics.
+
+Please see the Course Calendar page for a weekly breakdown of topics: Robotics and Manipulation (Weeks 1-4, 9-10), Computer Vision (Weeks 5-8), Mobile Robots (Weeks 11-12), and Advanced Topics (Weeks 13-15).
+
 
 ## Logistics
 
-This course will be taught in a seminar style, with homework, presentations, four small projects, and a final
-project. **All submissions will go through Gradescope (Course Entry Code: M45XDR)**. A piazza page has been created for students to discuss homeworks and projects. Note that there will be no exams in this course. 
+This course will be taught in a seminar style, with homework, presentations, four projects, and a final
+project. **All submissions will go through Gradescope (Course Entry Code: TBD)**. A Piazza page has been created for students to discuss homeworks and projects. Note that there will be no exams in this course. 
 
-Questions regarding **homeworks** should be directed to **Valmik**, **Amay** and **Jun**. Questions regarding projects should be directed to any TA. Questions regarding **course logistics** should be directed to **Tiffany**. All questions can and should be directed to **Piazza** for the fastest response. When emailing a GSI, please prefix the subject line with **[EECS 106B]**.
+Questions regarding **homeworks** should be directed to **Amay** and **Haozhi**. Questions regarding projects should be directed to any TA. Questions regarding **course logistics** should be directed to **Jaeyun Stella**. All questions can and should be directed to **Piazza** for the fastest response. When emailing staff, please prefix the subject line with **[EECS 106B]**.
+
+Each week, there are 3 hours of lecture, 1 hour of discussion, and 3 hours of organized lab time. All of these and office hours will be hosted on Zoom through the same class link. You are expected to work on lab assignments outside of designated lab times. Lecture and discussion sections will be recorded and posted, so you may attend these asynchronously. However, due to the journal club nature of lab sections, they will not be offered asynchronously, **and you are expected to attend your lab section every week.**
+
+## Disability Accommodations & Emergencies
+
+If you need disability-related accommodations in this class, please inform us immediately. Please see the professors or Stella privately after class or send us an email.
+
+## Grade Breakdown
+
+|Homeworks| 25%|
+|Scribing| 2%|
+|Paper Presentation| 3%|
+|Projects 1-4| 35%|
+|Final Project| 35%|
+
+Three feedback surveys will be posted, each worth an extra 0.25% of your grade. An additional extra 0.25% will be granted for completing the end-of-semester university feedback.
 
 ## Due Dates
 
@@ -36,90 +76,61 @@ All assignments are due at **11:59pm** on the due date listed.
 Homeworks:
 
 | **Homework** | **Date Assigned** | **Due Date** |
-|Homework 1| 1/22 | 2/3 |
-|Homework 2| 2/1 | 2/14 |
-|Homework 3| 2/15 | 2/28 |
-|Homework 4| 2/29 | 3/20 |
+|Homework 1: Review| 1/20 | 2/2 |
+|Homework 2: Controls| 2/3 | 2/12 |
+|Homework 3: Path Planning| 2/12 | 2/23 |
+|Homework 4: Vision| 3/3 | 3/16 |
+|Homework 5: Grasping| 3/17 | 3/30 |
 
 Projects:
 
 | **Project** | **Date Assigned** | **Due Date** |
-|Project 1a| 1/23 | 2/3 |
-|Project 1b| 2/3 | 2/18 |
-|Project 2| 2/19 | 3/9 |
-|Project 3| 3/10 | 4/6 |
+|Lab 0: Setup & Review| 1/19 | 1/29 |
+|Project 1a: Trajectory Tracking with Baxter| 1/21 | 2/1 |
+|Project 1b: Trajectory Tracking with Baxter| 2/1 | 2/15 |
+|Project 2: Nonholonomic Control with Turtlebots| 2/15 | 3/8 |
+|Project 3: Structure from Motion and Image Reconstruction| 3/8 | 3/22 |
+|Project 4: Hand-Eye Coordination| 3/22 | 4/5 |
 
 Final Project:
 
 | **Final Project Deliverables** | **Due Date** |
-|Final Project Proposal| 3/27 |
-|Intermediate Presentation| 4/20 |
-|Intermediate Presentation Peer Review| 4/24 |
-|Final Project Presentation| 5/7 |
-|Final Project Report and Website| 5/15|
+|Final Project Proposal| 3/29 |
+|Intermediate Presentation| 4/16 |
+|Intermediate Presentation Peer Review| 4/20 |
+|Final Project Showcase| 5/6 |
+|Final Project Report and Website| 5/14 |
 
-## Prerequisites
-
-Students are expected to have taken EECS C106A / BioE C106A / EECS C206A, which should be sufficient preparation for all material in this class. A strong programming background, knowledge of Python and Matlab, and some coursework in feedback controls (such as EE C128 / ME C134) are also useful. Students who have not taken EECS C106A / BioE C106A / EECS C206A should have a strong programming background, knowledge of Python and Matlab, and exposure to upper division linear algebra, Lagrangian dynamics, mechatronics, and feedback controls. This course will also be drawing from other disciplines including but not limited to optimization (EECS 127), nonlinear systems theory (EE 222 / ME 237), and continuum mechanics (ME 185).
-
-## Resources
-
-The required text is Richard Murray, Zexiang Li and S. Shankar Sastry's *A Mathematical Introduction to Robotic Manipulation* (first edition digitally available <a href="http://www.cds.caltech.edu/~murray/mlswiki/?title=First_edition">here</a>). 
-
-Other material will be drawn from:
-- *Nonlinear Systems: Analysis, Stability, and Control* by S. Shankar Sastry
-- *Feedback Systems: An Introduction for Scientists and Engineers* by Karl J. Astrom and Richard M. Murray.
-- and numerous research papers
-
-## Disability Accommodations & Emergencies
-
-If you need disability-related accommodations in this class, if you have emergency medical information you wish to share with us, or if you need special arrangements in case the building must be evacuated, please inform us immediately. Please see the professor or GSIs privately after class or send us an email.
-
-## Grade Breakdown
-
-|Homeworks| 15%|
-|Scribing| 2%|
-|Paper Presentation| 3%|
-|Project 1| 15%|
-|Project 2| 15%|
-|Project 3| 10%|
-|Project 4| 10%|
-|Final Project| 30%|
-
-Three feedback surveys will be posted, each worth an extra 0.25% of your grade. An additional extra 0.25% will be granted for completing the end-of-semester university feedback.
 
 ## Homeworks
 
-Homeworks will be collected and graded using the Gradescope system. Create an account on gradescope.com with your Berkeley email account and SID. Add this course with the code **M45XDR**.
+Homeworks will be collected and graded using the Gradescope system. Create an account on gradescope.com with your Berkeley email account and SID. Add this course with the code **TBD**.
 
-Each student is allocated **5 total days of extension**, to be used on any homework assignment with no loss of points. To allow for homework solutions to be released in a timely manner, **no more than 2 extension days may be used on a single assignment.** If you have used up all of your slip days you may still turn in homework up to 2 days late however turning it in 1 day late will result in half credit and 2 days late will result in quarter credit. We will try to allocate slip days in a way to maximize your overall points.  
+Each student is allocated **5 total days of extension**, to be used on any homework assignment with no loss of points. To allow for homework solutions to be released in a timely manner, **no more than 2 extension days may be used on a single assignment.** No homework will be accepted past two days of extension. 
 
 Collaboration on homework sets is encouraged, but all students must write up their own solution set. Additionally, every student is accountable for the solutions they submit and may be asked to discuss them with a GSI or instructor. **Please list all collaborators at the top of each submitted homework set.**
 
 ## Scribing
 Each student will need to scribe for one lecture for the semester. A LaTex template can be found in the Resources tab under Scribing. Students will need to sign up for scribing and submit their notes to Gradescope. Scribing notes are due by midnight the day after the lecture you scribed for. When submitting to Gradescope, please zip together the pdf and the .tex files to submit both of them.
 
-## Paper Presentation
+## Lab Sections and Paper Presentation
+Lab sections are not offered asynchronously. At the beginning of lab section, the GSI will go over any announcements, including introducing any new projects. Then there will be a discussion of an assigned paper.
 
-Each student will be responsible for presenting one paper to their lab section. This presentation should be between 15 and 25 minutes long and you will be graded based on your level of insight on the material and your ability to answer questions from course staff and other students.
+Each student will be responsible for presenting one paper to their lab section. This presentation should be between 15 and 25 minutes long and you will be graded based on your level of insight on the material and your ability to answer questions from course staff and other students. You have the option of working with a partner or two for this. Details are to be finalized by the second week of class.
+
+After the paper discussion, labs will be more free-form and similar in style to office hours. You are encouraged to use this time to work with your group on projects and ask questions. 
 
 ## Projects
 
-The lab in 111 Cory is open for use for the projects and the final project. **Please do not use the hardware until you have completed Lab 0**, which you will be doing in lab section on 1/23 or 1/24. The robots/hardware will be shared. 
+The Spring 2021 semester will be delivered entirely remotely as per guidance from the University. Instead of using hardware, you will complete the projects in simulation using a virtual machine. Lab 0 will walk you through the setup and give a quick review of ROS.
 
-**Each team may only reserve 3 hours at a time** and can only make a new reservation once all of the team's existing reservation times have ended. If a team is caught abusing this policy and overbooking, a **5% penalty** will be deducted from the group's project grade. Please reserve times on the following calendars:
-
-|**Robot**| **Calendar**|
-|Baxter/Sawyer| [Baxter Calendar](https://calendar.google.com/calendar/selfsched?sstoken=UUpnbjNSMlRpaF9CfGRlZmF1bHR8NThhZTc5ZjAxOWQ2NDdiNTlkNzZjMDY4NDEwMGZhZjE)|
-|Turtlebot| [Turtlebot Calendar](https://calendar.google.com/calendar/selfsched?sstoken=UUJjTTZwY0c2Z3pffGRlZmF1bHR8OGYyMzUwMTc5NzM2ZjJhNmM5OWFlMDIwOTU1ZDhjMTU)|
-|Soft Robots| [Soft Robots Calendar](https://calendar.google.com/calendar/selfsched?sstoken=UUt4bk5QbEZWb05VfGRlZmF1bHR8MDZmYjk0MGY1NmNlYjk1ZGVhN2U1YjIxMTg0YzYwZGE)|
-
-There are no official lab checkoffs, as there are in 106A. Instead, students will work on their own time and turn in a project report to Gradescope. Projects should be completed in groups of 3, but groups of 2 are also acceptable. Slack days may **not** be used on project submissions.
+There are no official lab checkoffs, as there are in 106A, with the exception of Lab 0, which must be checked off by the end of Week 2 in order to receive help on Projects 1-4. Instead, students will work on their own time and turn in a project report to Gradescope. Projects should be completed in groups of 3, but groups of 2 are also acceptable. Extension days may **not** be used on project submissions.
 
 ## Final Project
 
 The final project will constitute the largest single portion of your grade for this course and must include sensing, planning, and actuation components on real hardware. Whereas the 106A project was an implementation-based project, this project should be research-based. Project deliverables include a proposal, a live demo and poster session, an academic-style paper, a small website, and several intermediate check-ins. Further information will be forthcoming; in the meantime, feel free to explore the list of previous projects available on the website!
-Due to the types of deliverables involved (e.g., live demonstrations), slack days may **not** be used on project deliverables, and late work will not be accepted.
+
+Due to the types of deliverables involved (e.g., live demonstrations), extension days may **not** be used on project deliverables, and late work will not be accepted.
 
 ## Office Hours
 
@@ -147,3 +158,6 @@ The following tips are offered based on our experience.
 **Come to office hours!** We love to talk to you and do a deep dive to help you understand the material better.
 
 **Form study groups!** As stated above, you are encouraged to form small groups (two to four people) to work together on homeworks and on understanding the class material on a regular basis. In addition to being fun, this can save you a lot of time by generating ideas quickly and preventing you from getting hung up on some point or other. Of course, it is your responsibility to ensure that you contribute actively to the group; passive listening will likely not help you much. Also recall the caveat above, that you must write up your solutions on your own. We strongly advise you to spend some time on your own thinking about each problem before you meet with your study partners; this way, you will be in a position to compare ideas with your partners, and it will get you in practice for the exams. Make sure you work through all problems yourself, and that your final write-up is your own. Some groups try to split up the problems ("you do Problem 1, I'll do Problem 2, then we'll swap notes"); not only is this a punishable violation of our collaboration policies, it also ensures you will learn a lot less from this course.
+
+##This is not a usual semester.
+We understand that this semester will have its unique challenges. We are here to support you throughout the semester, both as students and as people. Life happens, and we want to make sure you are still receiving a quality education despite the current state of the world. **Please communicate with us if you are experiencing extenuating circumstances and need extra support. We’re here for you.**

@@ -104,7 +104,7 @@ Final Project:
 
 ## Homeworks
 
-Homeworks will be collected and graded using the Gradescope system. Create an account on gradescope.com with your Berkeley email account and SID. Add this course with the code **TBD**.
+Homeworks will be collected and graded using the Gradescope system. Create an account on gradescope.com with your Berkeley email account and SID. Add this course with the code **BP2JEK**.
 
 Each student is allocated **5 total days of extension**, to be used on any homework assignment with no loss of points. To allow for homework solutions to be released in a timely manner, **no more than 2 extension days may be used on a single assignment.** No homework will be accepted past two days of extension. 
 

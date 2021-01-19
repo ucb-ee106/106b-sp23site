@@ -34,6 +34,7 @@ description: >-
 ## Lecture Supplements 
 
 - The required text is Richard Murray, Zexiang Li and S. Shankar Sastry's *A Mathematical Introduction to Robotic Manipulation* (first edition digitally available <a href="http://www.cds.caltech.edu/~murray/mlswiki/?title=First_edition">here</a>)
+- The required text Y. Ma, S Soatto, J. Kosecka, and S. Sastry, An Invitation to 3-D Vision: From Images to Geometric Models, Springer Verlag 2004. can be accessed through the UCB Library. The textbook is <a href="https://link.springer.com/book/10.1007/978-0-387-21779-6">here</a>. You will need to use the <a href="https://www.lib.berkeley.edu/using-the-libraries/connect-off-campus">UCB Library VPN.</a>
 - [Modern Robotics by Park and Lynch](http://hades.mech.northwestern.edu/images/7/7f/MR.pdf) (another textbook that can help you with 106a material) 
 - [Modern Robotics: videos](https://www.youtube.com/watch?v=jVu-Hijns70&list=PLggLP4f-rq02vX0OQQ5vrCxbJrzamYDfx)
 - [The Kinematics of Contact and Grasp, Montana](assets/misc/David Montana.1988.pdf)

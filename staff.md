@@ -31,14 +31,6 @@ description: A listing of all the course staff members.
   {% endfor %}
 </div>
 
-## Readers
-<div class="role">
-  {% assign readers = site.staffers | where: 'role', 'Reader' %}
-  {% for staffer in readers %}
-  {{ staffer }}
-  {% endfor %}
-</div>
-
 ## Moral Support
 <div class="role">
   {% assign ms = site.staffers | where: 'role', 'Moral Support' %}

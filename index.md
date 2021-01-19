@@ -3,7 +3,7 @@ layout: home
 title: Home
 nav_order: 0
 description: >-
-    Course website for EECS 106/206B Spring 2020
+    Course website for EECS 106/206B Spring 2021
 ---
 <!-- <div class="parallax-window" data-parallax="scroll" data-image-src="/assets/background.png" data-speed="0.1">/div> -->
 # EECS C106B/206B | Robotic Manipulation and Interaction

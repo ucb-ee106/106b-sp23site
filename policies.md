@@ -37,7 +37,7 @@ Other material will be drawn from:
 - Supplementary material on learning from J. Wright and Y. Ma, <a href="https://book-wright-ma.github.io/">High Dimensional Data Analysis with Low Dimensional Models: Principles, Computation and Application</a>, Cambridge University Press, 2021.
 - and numerous research papers
 
-##Desired Course Outcomes
+## Desired Course Outcomes
 The primary objective of this course is to help students develop the academic maturity necessary to understand and conduct research in the field of robotics, vision, and intelligent machines. Along with surveying a breadth of topics relevant to modern robotics, this course also gives students the ability to implement the concepts taught in lecture through exploratory lab-based projects. Students will get practice reading and interpreting research papers through weekly paper presentations. The course culminates in a final project that allows students to conduct independent, original research on a topic of their choosing. Students who complete ME C106B should:
 - Be proficient at reading, comprehending, critiquing, and reimplementing research papers in the field of robotics.
 - Have experience conducting independent research in model-based robotics, vision and intelligent machines.
@@ -159,5 +159,5 @@ The following tips are offered based on our experience.
 
 **Form study groups!** As stated above, you are encouraged to form small groups (two to four people) to work together on homeworks and on understanding the class material on a regular basis. In addition to being fun, this can save you a lot of time by generating ideas quickly and preventing you from getting hung up on some point or other. Of course, it is your responsibility to ensure that you contribute actively to the group; passive listening will likely not help you much. Also recall the caveat above, that you must write up your solutions on your own. We strongly advise you to spend some time on your own thinking about each problem before you meet with your study partners; this way, you will be in a position to compare ideas with your partners, and it will get you in practice for the exams. Make sure you work through all problems yourself, and that your final write-up is your own. Some groups try to split up the problems ("you do Problem 1, I'll do Problem 2, then we'll swap notes"); not only is this a punishable violation of our collaboration policies, it also ensures you will learn a lot less from this course.
 
-##This is not a usual semester.
+## This is not a usual semester.
 We understand that this semester will have its unique challenges. We are here to support you throughout the semester, both as students and as people. Life happens, and we want to make sure you are still receiving a quality education despite the current state of the world. **Please communicate with us if you are experiencing extenuating circumstances and need extra support. We’re here for you.**

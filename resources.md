@@ -16,11 +16,9 @@ description: >-
 {:toc}
 
 ---
-## Robot Reservation Calendars
-
-- [Baxter Calendar](https://calendar.google.com/calendar/selfsched?sstoken=UUpnbjNSMlRpaF9CfGRlZmF1bHR8NThhZTc5ZjAxOWQ2NDdiNTlkNzZjMDY4NDEwMGZhZjE)
-- [Turtlebot Calendar](https://calendar.google.com/calendar/selfsched?sstoken=UUJjTTZwY0c2Z3pffGRlZmF1bHR8OGYyMzUwMTc5NzM2ZjJhNmM5OWFlMDIwOTU1ZDhjMTU)
-- [Soft Robots Calendar](https://calendar.google.com/calendar/selfsched?sstoken=UUt4bk5QbEZWb05VfGRlZmF1bHR8MDZmYjk0MGY1NmNlYjk1ZGVhN2U1YjIxMTg0YzYwZGE)
+## General
+- <a href="https://berkeley.zoom.us/s/91438087917">Class Zoom meetings</a>
+- <a href="https://docs.google.com/document/d/16PCs4Sbj7_umLd0PeCSyZXmgHYstW9cnrNjbURezPro/edit?usp=sharing">Self-care and wellness resources</a>
 
 ## Project Resources
 
@@ -41,7 +39,7 @@ description: >-
 - [The Kinematics of Contact and Grasp, Montana](assets/misc/David Montana.1988.pdf)
 
 ## Scribing
-- [Sign Up Sheet Coming Soon!]()
+- [Sign Up Sheet](https://docs.google.com/spreadsheets/d/19ZnrGzym7u1ieQ_kDXKwOcLRFRhPp-rywk5e4XF7gzs/edit?usp=sharing)
 - [LaTex Template](assets/template.tex)
 - [Scribing Notes Example](assets/Linear_Systems___Professor_Ma.pdf)
 

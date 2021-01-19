@@ -41,7 +41,4 @@ Looking for resources for projects, homeworks, and lecture? Check out the *Resou
 
 ## Course Description
 
-This course is an introduction to research in model-based robotics. It focuses on dynamics and control of
-robot manipulators, mobile robotics, grasping and manipulation, and soft robotics.
-
-The course is a sequel to EECS C106A/Bioengineering C106A and EECS C206A which covers the mathematical fundamentals of robotics including kinematics and dynamics. This course will delve deeper into several areas of robotics which are currently of research interest. Concepts will include manipulator dynamics and control, nonholonomic steering of mobile robots, path planning, grasp modeling with friction, grasp planning, and soft robotics.
+This course is an introduction to advanced topics and research in robotics and intelligent machines. The course is a sequel to EECS/Bioengineering/ME C106A and EECS C206A which covers the mathematical fundamentals of robotics including kinematics, dynamics and control as well as an introduction to path planning, obstacle avoidance, and computer vision This course will present several areas of robotics and active vision, at a deeper level and informed by current research. Concepts will include the review at an advanced level of robot control, the kinematics, dynamics and control of multi-fingered hands, grasping and manipulation of objects, mobile robots: including non-holonomic motion planning and control, path planning, Simultaneous Localization And Mapping (SLAM), and active vision. Additional research topics to be covered at the instructor’s discretion include: locomotion and walking robots, Unmanned Aerial Vehicles, soft robotics, and Augmented/Virtual Reality.

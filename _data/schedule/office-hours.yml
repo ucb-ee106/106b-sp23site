@@ -13,22 +13,38 @@ schedule:
         end: 6:00 PM
   - name: Tuesday
     events:
+      - name: Professor Sastry
+        class: coh
+        start: 2:00 PM 
+        end: 3:00 PM
       - name: Amay
         class: coh
         start: 3:30 PM 
         end: 5:00 PM
+      - name: Ron
+        class: loh
+        start: 5:00 PM 
+        end: 7:00 PM
   - name: Wednesday
     events:
       - name: Josephine
         class: loh
         start: 10:00 AM 
         end: 12:00 PM
+      - name: Professor Sastry
+        class: coh
+        start: 3:00 PM 
+        end: 4:00 PM
   - name: Thursday
     events:
       - name: Amay
         class: coh
         start: 11:00 AM 
         end: 12:30 PM
+      - name: Professor Ma
+        class: coh
+        start: 3:00 PM 
+        end: 4:00 PM
   - name: Friday
     events:
       - name: Jay

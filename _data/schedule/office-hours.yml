@@ -31,10 +31,10 @@ schedule:
         class: loh
         start: 10:00 AM 
         end: 12:00 PM
-      - name: Professor Sastry
-        class: coh
-        start: 3:00 PM 
-        end: 4:00 PM
+      # - name: Professor Sastry
+      #   class: coh
+      #   start: 3:00 PM 
+      #   end: 4:00 PM
   - name: Thursday
     events:
       - name: Amay

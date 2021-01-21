@@ -50,7 +50,7 @@ description: >-
 - [Scribing Notes Example](assets/Linear_Systems___Professor_Ma.pdf)
 
 ## Scribed Notes
-
+- [Lecture 1, 1/19](assets/scribe/scribe_lec1.pdf)
 
 ## Final Project Resources
 - [Sp 2020 Project Guidelines](assets/proj/ProjectGuidelines.pdf)

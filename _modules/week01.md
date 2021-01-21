@@ -13,5 +13,5 @@ days:
 - <a href="https://www.notion.so/C106B-Lab-0A-Setting-up-Your-Virtual-Machine-21d0646c716547c5891e3ea93d4733a2">Lab 0A: Setup</a>
 - [Lab 0B: Review of Robot Operating System (ROS)](../assets/projects/proj0.pdf)
 - [Homework 0: Optional MATLAB Bootcamp](../assets/hw/hw0.zip) We recommend you use <a href=" matlab.mathworks.com">MATLAB Online</a> if you don't already have MATLAB installed. 
-- [Homework 1: Review (due 2/2 11:59pm)] 
+- [Homework 1: Review (due 2/2 11:59pm)](../assets/hw/hw1.zip)
 - Project 1A 

@@ -9,7 +9,7 @@ days:
     description: (Slides) (Video) (Scribe Notes) <br /> Reading - MLS Ch 3.4, 4.1-4.3
 ---
 
-- Discussion 1: Review of rotations, rigid body motions, kinematics, inverse kinematics ([Worksheet](../assets/discussions/106B_Dis_1_Worksheet.pdf))
+- Discussion 1: Review of rotations, rigid body motions, kinematics, inverse kinematics ([Worksheet](../assets/discussions/106B_Dis_1_Worksheet.pdf)) (<a href="https://youtu.be/LNzsrUsQsZ4">Video</a>)
 - <a href="https://www.notion.so/C106B-Lab-0A-Setting-up-Your-Virtual-Machine-21d0646c716547c5891e3ea93d4733a2">Lab 0A: Setup</a>
 - [Lab 0B: Review of Robot Operating System (ROS)](../assets/projects/proj0.pdf)
 - [Homework 0: Optional MATLAB Bootcamp](../assets/hw/hw0.zip) We recommend you use MATLAB Online if you don't already have MATLAB installed. 

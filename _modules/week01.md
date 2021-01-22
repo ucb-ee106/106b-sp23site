@@ -6,7 +6,7 @@ days:
     description: (<a href="https://docs.google.com/presentation/d/1Xot0PFB1am3ybAAIHTsiAzNhGziUu5YYtfAG3I3vdXw/edit?usp=sharing">Logistics Slides</a>) (<a href="https://drive.google.com/drive/folders/1DtSSz8ovzeV_ecbUtgbhfxz5qNQoQ9Z4?usp=sharing">Slides</a>) (<a href="https://youtu.be/gjzLyhPttbk">Video</a>) ([Scribe Notes](../assets/scribe/scribe_lec1.pdf)) <br /> Reading - MLS 2.1-2.5, 3.1-3.3 <br /> Optional Reading - MLS Appendix A.3
   - topic: Feedback Control
     date: 2021-01-21
-    description: ([Slides](../assets/lec/08_linear_control.pdf)) ([Boardwork](../assets/lec/lec2_boardwork.pdf)) (Video) (Scribe Notes) <br /> Reading - MLS Ch 3.4, 4.1-4.3
+    description: ([Slides](../assets/lec/08_linear_control.pdf)) ([Boardwork](../assets/lec/lec2_boardwork.pdf)) (<a href="https://youtu.be/rtw__vVCfUI">Video</a>) (Scribe Notes) <br /> Reading - MLS Ch 3.4, 4.1-4.3
 ---
 
 - Discussion 1: Review of rotations, rigid body motions, kinematics, inverse kinematics ([Worksheet](../assets/discussions/106B_Dis_1_Worksheet.pdf)) (<a href="https://youtu.be/LNzsrUsQsZ4">Video</a>)

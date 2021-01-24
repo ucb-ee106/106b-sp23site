@@ -14,5 +14,5 @@ days:
 - [Lab 0B: Review of Robot Operating System (ROS)](../assets/projects/proj0.pdf)
 - [Homework 0: Optional MATLAB Bootcamp](../assets/hw/hw0.zip) We recommend you use <a href=" matlab.mathworks.com">MATLAB Online</a> if you don't already have MATLAB installed. 
 - [Homework 1: Review (due 2/2 11:59pm)](../assets/hw/hw1.zip)
-- [Project 1A](../assets/projects/106B_Project_1_Part_A_Doc.pdf) 
+- [Project 1A](../assets/projects/106B_Project_1_Doc.pdf) 
 - <a href="https://drive.google.com/file/d/1myZScz-v1yC3JzV5BJGAsdwTd6BL4iOn/view?usp=sharing">"Reading a scientific or engineering paper", presented by Professor Terry Johnson</a>

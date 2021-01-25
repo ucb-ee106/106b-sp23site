@@ -43,8 +43,8 @@ schedule:
         end: 12:30 PM
       - name: Professor Ma
         class: coh
-        start: 3:00 PM 
-        end: 4:00 PM
+        start: 2:00 PM 
+        end: 3:00 PM
   - name: Friday
     events:
       - name: Jay

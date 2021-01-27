@@ -27,7 +27,7 @@ Students are expected to have taken EECS C106A / BioE C106A / ME C106A / EECS C2
 ## Resources
 
 The required texts are
-- Richard Murray, Zexiang Li and S. Shankar Sastry, <a href="hhttps://drive.google.com/file/d/1uA2XFdm-SjcPLDZ1hBvPYS5h3IX_WSpj/view?usp=sharing">A Mathematical Introduction to Robotic Manipulation</a>, 1993. 
+- Richard Murray, Zexiang Li and S. Shankar Sastry, <a href="https://drive.google.com/file/d/1uA2XFdm-SjcPLDZ1hBvPYS5h3IX_WSpj/view?usp=sharing">A Mathematical Introduction to Robotic Manipulation</a>, 1993. 
 - Y. Ma, S Soatto, J. Kosecka, and S. Sastry, An Invitation to 3-D Vision: From Images to Geometric Models, Springer Verlag 2004. The textbook is <a href="https://link.springer.com/book/10.1007/978-0-387-21779-6">here</a>. You will need to use the <a href="https://www.lib.berkeley.edu/using-the-libraries/connect-off-campus">UCB Library VPN.</a>
 
 Other material will be drawn from:

@@ -9,4 +9,4 @@ days:
     description: ([Slides](../assets/lec/Lecture4_LyapunovStability.pdf)) (Video) (Scribe Notes) <br /> Reading - MLS
 ---
 
-- Discussion 2: Linear control, use of Lyapunov stability, transient behavior 
+- Discussion 2: Review of velocities and Jacobians (<a href="https://youtu.be/m7skaeo-bgA">106A Fa20 FK Discussion</a>) ([FK Theory](../assets/misc/hw3_assignment.pdf)) (<a href="https://youtu.be/ds208j3HAYs">Review of Dynamics</a>)

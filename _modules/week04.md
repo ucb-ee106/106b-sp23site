@@ -10,3 +10,4 @@ days:
 ---
 
 - Discussion 4: Combining geometric path planning with steering
+- Homework 3 (due 2/23)

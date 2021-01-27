@@ -10,4 +10,4 @@ days:
 ---
 
 - Discussion 7: Algorithms for multi-view geometry
-- Homework 4 (due TBD)
+- Homework 4 (due 3/16)

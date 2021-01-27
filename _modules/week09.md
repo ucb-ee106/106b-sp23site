@@ -10,6 +10,7 @@ days:
 ---
 
 - Discussion 9: Planning grasps - singular value decomposition, grasp planning
+- Homework 5 (due 3/30)
 - Project 3
 - Final Project Guidelines
 - [Previous Years' Final Projects](../assets/proj/prevProjects.zip)

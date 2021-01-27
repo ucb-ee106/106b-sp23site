@@ -11,4 +11,4 @@ days:
 
 - Discussion 3: Nonlinear control of manipulators, steering nonholonomic systems
 - Project 1B
-- Homework 2 (due TBA)
+- Homework 2 (due 2/12)

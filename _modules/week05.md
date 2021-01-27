@@ -11,4 +11,4 @@ days:
 
 - Discussion 5: Image formation, computations, and convolutions
 - Project 2
-- Homework 3 (due TBA)
+

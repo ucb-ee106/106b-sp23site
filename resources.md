@@ -51,6 +51,8 @@ description: >-
 
 ## Scribed Notes
 - [Lecture 1, 1/19](assets/scribe/scribe_lec1.pdf)
+- [Lecture 2, 1/21](assets/scribe/scribe_lec2.pdf)
+- [Lecture 3, 1/16](assets/scribe/scribe_lec3.pdf)
 
 ## Final Project Resources
 - [Sp 2020 Project Guidelines](assets/proj/ProjectGuidelines.pdf)

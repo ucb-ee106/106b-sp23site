@@ -1,8 +1,8 @@
 ---
 name: Luna Seo-Zhang
-role: Teaching Assistant
+role: Moral Support
 email: 
-photo: ../ee290-005/sp21-site/assets/staff_pics/luna.jpg
+photo: assets/staff_pics/luna.jpg
 ---
 
 Moral Support

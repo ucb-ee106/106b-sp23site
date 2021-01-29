@@ -8,7 +8,7 @@ description: >-
 <!-- <div class="parallax-window" data-parallax="scroll" data-image-src="/assets/background.png" data-speed="0.1">/div> -->
 # EECS C106B/206B | Robotic Manipulation and Interaction
 {: .mb-2 }
-Spring 2020
+Spring 2021
 {: .mb-0 .fs-6 .text-grey-dk-200 }
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}

@@ -22,11 +22,11 @@ schedule:
         start: 3:00 PM
         end: 4:00 PM
         # location: Cory 237
-      - name: Discussion
-        class: section
-        start: 5:00 PM
-        end: 6:00 PM
-        # location: Cory 540AB
+      # - name: Discussion
+      #   class: section
+      #   start: 5:00 PM
+      #   end: 6:00 PM
+      #   # location: Cory 540AB
   - name: Thursday
     events:
       - name: Lecture

@@ -6,7 +6,7 @@ days:
     description: (Slides) (Video) (Scribe Notes) <br /> Reading - MLS
   - topic: Steering Model Control Systems - Sinusoids and Constructive Controllability
     date: 2021-02-04
-    description: (Slides) (Video) (Scribe Notes) <br /> Reading - MLS
+    description: ([Slides](../assets/lec/eecs106b-nonholo.pdf)) (Video) (Scribe Notes) <br /> Reading - MLS Chapter 7
 ---
 
 - Discussion 3: Lyapunov stability

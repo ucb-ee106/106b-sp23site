@@ -9,6 +9,6 @@ days:
     description: (Slides) (Video) (Scribe Notes) <br /> Reading - MLS
 ---
 
-- Discussion 3: Nonlinear control of manipulators, steering nonholonomic systems
+- Discussion 3: Lyapunov stability
 - Project 1B
 - Homework 2 (due 2/12)

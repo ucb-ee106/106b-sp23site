@@ -4,7 +4,7 @@ days:
   - topic: Introduction to Control - Stability, Lyapunov Methods
     date: 2021-01-26
     description: (<a href="https://drive.google.com/file/d/1a2bu7ezkYFQNUMVePsiIHGo614vbiCCy/view?usp=sharing">UPenn Slides</a>) ([Valmik's Linear Control Slides](../assets/lec/Lecture3_LinearControl_edit.pdf)) (<a href="https://youtu.be/M1CKDJw9IsY">Video</a>) ([Scribe Notes](../assets/scribe/scribe_lec3.pdf)) <br /> Reading - MLS 4.5
-  - topic: Feedback Linearization, Computed Torque Control, Robust Control
+  - topic: Stability, Lyapunov Equations
     date: 2021-01-28
     description: ([Slides](../assets/lec/Lecture4_LyapunovStability.pdf)) (<a href="https://youtu.be/O55kECcoIW8">Video</a>) ([Scribe Notes](../assets/scribe/scribe_lec4.pdf)) <br /> Reading - MLS 4.4
 ---

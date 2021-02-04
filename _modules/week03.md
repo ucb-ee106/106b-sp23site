@@ -10,5 +10,5 @@ days:
 ---
 
 - Discussion 3: Lyapunov stability ([Worksheet](../assets/discussions/106B_Dis_3_Worksheet_Sp21.pdf))
-- Project 1B
+- [Project 1B](../assets/projects/EECS_106B_Proj_1B.pdf) (due 2/17)
 - Homework 2 (due 2/12)

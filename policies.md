@@ -87,7 +87,7 @@ Projects:
 | **Project** | **Date Assigned** | **Due Date** |
 |Lab 0: Setup & Review| 1/19 | 1/29 |
 |Project 1a: Trajectory Tracking with Baxter| 1/22 | 2/1 |
-|Project 1b: Trajectory Tracking with Baxter| 2/1 | 2/15 |
+|Project 1b: Trajectory Tracking with Baxter| 2/3 | 2/17 |
 |Project 2: Nonholonomic Control with Turtlebots| 2/15 | 3/8 |
 |Project 3: Structure from Motion and Image Reconstruction| 3/8 | 3/22 |
 |Project 4: Hand-Eye Coordination| 3/22 | 4/5 |

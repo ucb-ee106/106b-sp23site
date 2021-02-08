@@ -9,4 +9,4 @@ days:
     description: ([Slides](../assets/lec/Lecture4_LyapunovStability.pdf)) ([Boardwork](../assets/lec/20210128_boardwork.pdf)) (<a href="https://youtu.be/O55kECcoIW8">Video</a>) ([Scribe Notes](../assets/scribe/scribe_lec4.pdf)) <br /> Reading - MLS 4.4
 ---
 
-- Discussion 2: Review of velocities and Jacobians ([Worksheet](../assets/discussions/106B_Dis_2_Worksheet.pdf)) (<a href="https://youtu.be/klwpXSiTTxs">Video</a>) (<a href="https://youtu.be/m7skaeo-bgA">106A Fa20 FK Discussion</a>) ([FK Theory](../assets/misc/hw3_assignment.pdf)) (<a href="https://youtu.be/ds208j3HAYs">Review of Dynamics</a>)
+- Discussion 2: Review of velocities and Jacobians ([Worksheet](../assets/discussions/106B_Dis_2_Worksheet.pdf)) ([Boardwork](../assets/discussions/106B_D2_BW.pdf)) (<a href="https://youtu.be/klwpXSiTTxs">Video</a>) (<a href="https://youtu.be/m7skaeo-bgA">106A Fa20 FK Discussion</a>) ([FK Theory](../assets/misc/hw3_assignment.pdf)) (<a href="https://youtu.be/ds208j3HAYs">Review of Dynamics</a>)

@@ -9,7 +9,7 @@ days:
     description: ([Slides](../assets/lec/08_linear_control.pdf)) ([Boardwork](../assets/lec/lec2_boardwork.pdf)) (<a href="https://youtu.be/rtw__vVCfUI">Video</a>) ([Scribe Notes](../assets/scribe/scribe_lec2.pdf)) <br /> Reading - MLS Ch 3.4, 4.1-4.3
 ---
 
-- Discussion 1: Review of rotations, rigid body motions, kinematics, inverse kinematics ([Worksheet](../assets/discussions/106B_Dis_1_Worksheet.pdf)) (<a href="https://youtu.be/LNzsrUsQsZ4">Video</a>)
+- Discussion 1: Review of rotations, rigid body motions, kinematics, inverse kinematics ([Worksheet](../assets/discussions/106B_Dis_1_Worksheet.pdf)) ([Boardwork](../assets/discussions/106B_D1_BW.pdf)) (<a href="https://youtu.be/LNzsrUsQsZ4">Video</a>)
 - <a href="https://www.notion.so/C106B-Lab-0A-Setting-up-Your-Virtual-Machine-21d0646c716547c5891e3ea93d4733a2">Lab 0A: Setup</a>
 - [Lab 0B: Review of Robot Operating System (ROS)](../assets/projects/proj0.pdf)
 - [Homework 0: Optional MATLAB Bootcamp](../assets/hw/hw0.zip) We recommend you use <a href=" matlab.mathworks.com">MATLAB Online</a> if you don't already have MATLAB installed. 

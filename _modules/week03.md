@@ -9,6 +9,6 @@ days:
     description: ([Slides](../assets/lec/eecs106b-nonholo.pdf)) (<a href="https://youtu.be/MMKO7Xw_R1c">Video</a>) (Scribe Notes) <br /> Reading - MLS Chapter 7
 ---
 
-- Discussion 3: Lyapunov stability ([Worksheet](../assets/discussions/106B_Dis_3_Worksheet_Sp21.pdf)) (<a href="https://youtu.be/R8YdbDE58IM">Video</a>)
+- Discussion 3: Lyapunov stability ([Worksheet](../assets/discussions/106B_Dis_3_Worksheet_Sp21.pdf)) ([Solutions](../assets/discussions/106B_Dis_3_Solutions.pdf)) (<a href="https://youtu.be/R8YdbDE58IM">Video</a>)
 - [Project 1B](../assets/projects/EECS_106B_Proj_1B.pdf) (due 2/17)
 - [Homework 2](../assets/hw/hw2.zip) (due 2/12)

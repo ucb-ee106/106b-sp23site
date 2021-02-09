@@ -1,12 +1,12 @@
 ---
-title: Week 11 - Dynamics and Control of UAVs
+title: Week 11 - Camera Calibration and Image Reconstruction, Chapter 6 of MaSKS 
 days:
-  - topic: Dynamics of UAVs and Quadrotors, Examples of Use of UAVs
+  - topic: Reconstruction  a Geometric View
     date: 2021-03-30
-    description: 
-  - topic: Dynamics of UAVs - Flat Coordinates and Path Planning
+    description: (Slides) (Video) (Scribe Notes) <br /> MaSKS Ch 6
+  - topic: Reconstruction: from Images to Models
     date: 2021-04-01
-    description: 
+    description: (Slides) (Video) (Scribe Notes) <br /> MaSKS Ch 6
 ---
 
-- Discussion 10: UAV dynamics in SE(3) and in coordinates
+- Discussion 10: Reconstruction

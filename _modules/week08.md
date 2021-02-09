@@ -1,12 +1,12 @@
 ---
-title: Week 8 - Camera Calibration and Image Reconstruction
+title: Week 8 - Structure from Motion for Multi View Geometry Chapter 5 of MaSKS 
 days:
-  - topic: Kruppa's Equation for Calibration, Uncalibrated Epipolar Geometry
+  - topic: Multi-view Geometry
     date: 2021-03-09
-    description: (Slides) (Video) (Scribe Notes) <br /> Reading - MaSKS Ch 6
-  - topic: Calibration and Reconstruction a Geometric View
+    description: (Slides) (Video) (Scribe Notes) <br /> Reading - MaSKS Ch 5
+  - topic: Structure from Motion
     date: 2021-03-11
-    description: (Slides) (Video) (Scribe Notes) <br /> Reading - MaSKS Ch 6
+    description: (Slides) (Video) (Scribe Notes) <br /> Reading - MaSKS Ch 5
 ---
 
-- Discussion 8: Computations for Calibration 
+- Discussion 8: Algorithms for Multi-view Geometry

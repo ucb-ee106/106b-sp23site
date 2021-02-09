@@ -1,13 +1,13 @@
 ---
-title: Week 7 - Structure from Motion for Multi-view Geometry
+title: Week 7 - Two View Geometry, Structure from Motion, Chapter 5 of MaSKS
 days:
-  - topic: Multi-view Geometry
+  - topic: Epipolar Equations, Two View Geometry, Linear and Nonlinear Two-view geometry
     date: 2021-03-02
-    description: (Slides) (Video) (Scribe Notes) <br /> Reading - MaSKS
-  - topic: Structure from Motion
+    description: (Slides) (Video) (Scribe Notes) <br /> Reading - MaSKS Ch 5
+  - topic: Structure from Motion for 2 views, Planar Motions, Homographies
     date: 2021-03-04
-    description:  (Slides) (Video) (Scribe Notes) <br /> Reading - MaSKS
+    description:  (Slides) (Video) (Scribe Notes) <br /> Reading - MaSKS Ch 5
 ---
 
-- Discussion 7: Algorithms for multi-view geometry
+- Discussion 7: Computations for Two View Geometry
 - Homework 4 (due 3/16)

@@ -1,13 +1,13 @@
 ---
-title: Week 12 - An Introduction to Legged Locomotion with Professor Koushil Sreenath
+title: Week 12 - Introduction to Grasping
 days:
-  - topic: Introduction to Legged Robots, Modeling and Dynamics of Legged Robots
+  - topic: Types and models of contact, modeling grasp by multi-fingered hands
     date: 2021-04-06
     description: (Slides) (Video) (Scribe Notes)
-  - topic: Control of Legged Robots
+  - topic: Grasp Stability, Manipulability, Grasp Planning
     date: 2021-04-08
     description: (Slides) (Video) (Scribe Notes)
 ---
 
-- Discussion 11: Discussion of walking robot papers
+- Discussion 11: Planning Grasps - singular value decomposition, grasp planning
 

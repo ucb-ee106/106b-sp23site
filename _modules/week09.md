@@ -1,15 +1,15 @@
 ---
-title: Week 9 - Introduction to Grasping
+title: Week 9 - Camera Calibration and Image Reconstruction, Chapter 6 of MaSKS
 days:
-  - topic: Types and Models of Contact, Modeling Grasp by Multi-fingered Hands 
+  - topic: Kruppa’s Equation for Calibration, Uncalibrated epipolar geometry 
     date: 2021-03-16
-    description: (Slides) (Video) (Scribe Notes) <br /> Reading - MLS
-  - topic: Grasp Stability, Manipulability, Grasp Planning
+    description: (Slides) (Video) (Scribe Notes) <br /> Reading - MaSKS Ch 6
+  - topic: Calibration 
     date: 2021-03-18
-    description: (Slides) (Video) (Scribe Notes) <br /> Reading - MLS
+    description: (Slides) (Video) (Scribe Notes) <br /> Reading - MaSKS Ch 6
 ---
 
-- Discussion 9: Planning grasps - singular value decomposition, grasp planning
+- Discussion 9: Computations for Calibration
 - Homework 5 (due 3/30)
 - Project 3
 - Final Project Guidelines

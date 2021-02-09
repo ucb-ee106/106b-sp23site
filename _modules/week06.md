@@ -1,13 +1,13 @@
 ---
-title: Week 6 - Two View Geometry and Structure from Motion
+title: Week 6 - Image Formation and Photometry (Review of C106A/206A)
 days:
-  - topic: Epipolar Equations, Two View Geometry, Linear and Nonlinear Two View Geometry
+  - topic: Chapters 1 and 2 of MaSKS
     date: 2021-02-23
-    description: (Slides) (Video) (Scribe Notes) <br /> Reading - MaSKS Ch 5
-  - topic: Structure from Motion for 2 Views, Planar Motions, Homographies
+    description: (Slides) (Video) (Scribe Notes) <br /> Reading - MaSKS Ch 1, 2
+  - topic: Feature Detection Chapter 4 of MaSKS
     date: 2021-02-25
-    description: (Slides) (Video) (Scribe Notes) <br /> Reading - MaSKS Ch 5
+    description: (Slides) (Video) (Scribe Notes) <br /> Reading - MaSKS Ch 4
 ---
 
-- Discussion 6: Computations for two view geometry
+- Discussion 6: Image Formation, Computations, and Convolutions
 

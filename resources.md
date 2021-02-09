@@ -54,7 +54,8 @@ description: >-
 - [Lecture 2, 1/21](assets/scribe/scribe_lec2.pdf)
 - [Lecture 3, 1/26](assets/scribe/scribe_lec3.pdf)
 - [Lecture 4, 1/28](assets/scribe/scribe_lec4.pdf)
-- [Lecture 4, 2/2](assets/scribe/scribe_lec5.pdf)
+- [Lecture 5, 2/2](assets/scribe/scribe_lec5.pdf)
+- [Lecture 6, 2/4](assets/scribe/scribe_lec6.pdf)
 
 ## Final Project Resources
 - [Sp 2020 Project Guidelines](assets/proj/ProjectGuidelines.pdf)

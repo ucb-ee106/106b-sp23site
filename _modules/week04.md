@@ -9,5 +9,5 @@ days:
     description:  (Slides) (Video) (Scribe Notes) <br /> Reading - MLS
 ---
 
-- Discussion 4: Combining geometric path planning with steering ([Worksheet](../assets/discussions/106B_Dis_4_Worksheet.pdf))
+- Discussion 4: Combining geometric path planning with steering ([Worksheet](../assets/discussions/106B_Dis_4_Worksheet.pdf)) (<a href="https://youtu.be/r2MamKIvy_M">Video</a>)
 - Homework 3 (due 2/23)

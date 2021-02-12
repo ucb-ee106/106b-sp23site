@@ -78,7 +78,7 @@ Homeworks:
 | **Homework** | **Date Assigned** | **Due Date** |
 |Homework 1: Review| 1/20 | 2/2 |
 |Homework 2: Controls| 2/3 | 2/12 |
-|Homework 3: Path Planning| 2/12 | 2/23 |
+|Homework 3: Path Planning| 2/15 | 2/26 |
 |Homework 4: Vision| 3/3 | 3/16 |
 |Homework 5: Grasping| 3/17 | 3/30 |
 

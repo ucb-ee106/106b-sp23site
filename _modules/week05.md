@@ -10,5 +10,6 @@ days:
 ---
 
 - Discussion 5: Path Planning
+- Homework 3 (due 2/26)
 - Project 2
 

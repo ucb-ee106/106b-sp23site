@@ -10,6 +10,6 @@ days:
 ---
 
 - Discussion 5: Path Planning ([Worksheet](../assets/discussions/106B_Dis_5_Worksheet-2.pdf)) (<a href="https://youtu.be/0OLU0cCsXCM">Video</a>)
-- Homework 3 (due 2/26)
+- [Homework 3 (due 2/26)](../assets/hw/hw3.zip)
 - Project 2
 

@@ -9,7 +9,7 @@ days:
     description:  (Slides) (Video) (Scribe Notes) <br /> Reading - MaSKS Ch 1, 2
 ---
 
-- Discussion 5: Path Planning ([Worksheet](../assets/discussions/106B_Dis_5_Worksheet-2.pdf))
+- Discussion 5: Path Planning ([Worksheet](../assets/discussions/106B_Dis_5_Worksheet-2.pdf)) (<a href="https://youtu.be/0OLU0cCsXCM">Video</a>)
 - Homework 3 (due 2/26)
 - Project 2
 

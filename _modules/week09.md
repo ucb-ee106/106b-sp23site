@@ -11,6 +11,5 @@ days:
 
 - Discussion 9: Computations for Calibration
 - Homework 5 (due 3/30)
-- Project 3
 - Final Project Guidelines
 - [Previous Years' Final Projects](../assets/proj/prevProjects.zip)

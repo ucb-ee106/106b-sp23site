@@ -10,3 +10,4 @@ days:
 ---
 
 - Discussion 8: Algorithms for Multi-view Geometry
+- Project 3

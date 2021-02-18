@@ -78,7 +78,7 @@ Homeworks:
 | **Homework** | **Date Assigned** | **Due Date** |
 |Homework 1: Review| 1/20 | 2/2 |
 |Homework 2: Controls| 2/3 | 2/12 |
-|Homework 3: Path Planning| 2/15 | 2/26 |
+|Homework 3: Path Planning| 2/17 | 3/1 |
 |Homework 4: Vision| 3/3 | 3/16 |
 |Homework 5: Grasping| 3/17 | 3/30 |
 
@@ -87,10 +87,10 @@ Projects:
 | **Project** | **Date Assigned** | **Due Date** |
 |Lab 0: Setup & Review| 1/19 | 1/29 |
 |Project 1a: Trajectory Tracking with Baxter| 1/22 | 2/1 |
-|Project 1b: Trajectory Tracking with Baxter| 2/3 | 2/17 |
-|Project 2: Nonholonomic Control with Turtlebots| 2/15 | 3/8 |
-|Project 3: Structure from Motion and Image Reconstruction| 3/8 | 3/22 |
-|Project 4: Hand-Eye Coordination| 3/22 | 4/5 |
+|Project 1b: Trajectory Tracking with Baxter| 2/3 | 2/19 |
+|Project 2: Nonholonomic Control with Turtlebots| 2/17 | 3/10 |
+|Project 3: Structure from Motion and Image Reconstruction| 3/10 | 3/22 |
+|Project 4: Hand-Eye Coordination| 3/29 | 4/9 |
 
 Final Project:
 

@@ -10,3 +10,4 @@ days:
 ---
 
 - Discussion 2: Review of velocities and Jacobians ([Worksheet](../assets/discussions/106B_Dis_2_Worksheet.pdf)) ([Boardwork](../assets/discussions/106B_D2_BW.pdf)) (<a href="https://youtu.be/klwpXSiTTxs">Video</a>) (<a href="https://youtu.be/m7skaeo-bgA">106A Fa20 FK Discussion</a>) ([FK Theory](../assets/misc/hw3_assignment.pdf)) (<a href="https://youtu.be/ds208j3HAYs">Review of Dynamics</a>)
+- <a href="https://docs.google.com/presentation/d/1sE2ATtxPIisrhhf9TOkV5G8M_6QSlqQ_8sZ_tgMaW40/edit?usp=sharing">Lab slides</a>

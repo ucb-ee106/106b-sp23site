@@ -10,6 +10,7 @@ days:
 ---
 
 - Discussion 5: Path Planning ([Worksheet](../assets/discussions/106B_Dis_5_Worksheet-2.pdf)) (<a href="https://youtu.be/0OLU0cCsXCM">Video</a>)
-- [Homework 3 (due 2/26)](../assets/hw/hw3.zip)
+- [Homework 3 (due 3/1)](../assets/hw/hw3.zip)
 - [Project 2](../assets/projects/EECS_106B_project2-3.pdf)
+- <a href="https://docs.google.com/presentation/d/1iu3mk9JiiLI7O6EMImO0h1ZZZhPfzYCsh29tgdFXuF4/edit?usp=sharing">Lab slides</a>
 

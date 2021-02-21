@@ -12,3 +12,4 @@ days:
 - Discussion 3: Lyapunov stability ([Worksheet](../assets/discussions/106B_Dis_3_Worksheet_Sp21.pdf)) ([Boardwork](../assets/discussions/106B_D3_Boardwork.pdf)) ([Solutions](../assets/discussions/106B_Dis_3_Solutions.pdf)) (<a href="https://youtu.be/R8YdbDE58IM">Video</a>)
 - [Project 1B](../assets/projects/EECS_106B_Proj_1B.pdf) (due 2/17)
 - [Homework 2](../assets/hw/hw2.zip) (due 2/12)
+- <a href="https://docs.google.com/presentation/d/1F0ixRFYQgcoNnclrN8sGeHFQARp6xJh1Fi5lRjBdZP8/edit?usp=sharing">Lab slides</a>

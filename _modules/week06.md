@@ -9,5 +9,5 @@ days:
     description: (Slides) (Video) (Scribe Notes) <br /> Reading - MaSKS Ch 4
 ---
 
-- Discussion 6: Image Formation, Computations, and Convolutions
+- Discussion 6: Image Formation, Computations, and Convolutions ([Worksheet](../assets/discussions/EECS_106B_Discussion_6_Basics_on_Image_Forming.pdf)) (Video)
 

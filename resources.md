@@ -60,6 +60,7 @@ description: >-
 - [Lecture 8, 2/11](assets/scribe/scribe_lec8.pdf)
 - [Lecture 9, 2/16](assets/scribe/scribe_lec9.pdf)
 - [Lecture 10, 2/18](assets/scribe/scribe_lec10.pdf)
+- [Lecture 11, 2/23](assets/scribe/scribe_lec11.pdf)
 
 ## Final Project Resources
 - [Sp 2020 Project Guidelines](assets/proj/ProjectGuidelines.pdf)

@@ -9,5 +9,5 @@ days:
     description:  (Slides) (Video) (Scribe Notes) <br /> Reading - MaSKS Ch 5
 ---
 
-- Discussion 7: Computations for Two View Geometry
+- Discussion 7: Computations for Two View Geometry ([Worksheet](../assets/discussions/EECS_106B_Discussion_7_Practical_Epipolar_Geometry.pdf))
 - Homework 4 (due 3/16)

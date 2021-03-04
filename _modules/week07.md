@@ -6,8 +6,8 @@ days:
     description: (<a href="https://drive.google.com/file/d/1zNbDSKOKIIdlD6CDLgMg-28Qf1BJ4gcw/view?usp=sharing">Slides</a>) (<a href="https://youtu.be/tfqxJOWNdcs">Video</a>) (Scribe Notes) <br /> Reading - MaSKS Ch 5
   - topic: Structure from Motion for 2 views, Planar Motions, Homographies
     date: 2021-03-04
-    description:  (<a href="https://drive.google.com/file/d/1VrliPhiX85KAMo2jWUrnL-tpr5Te-S76/view?usp=sharing">Slides</a>) (Video) (Scribe Notes) <br /> Reading - MaSKS Ch 5
+    description:  (<a href="https://drive.google.com/file/d/1VrliPhiX85KAMo2jWUrnL-tpr5Te-S76/view?usp=sharing">Slides</a>) (<a href="https://youtu.be/f7YmEpAj_ac">Video</a>) (Scribe Notes) <br /> Reading - MaSKS Ch 5
 ---
 
 - Discussion 7: Computations for Two View Geometry ([Worksheet](../assets/discussions/EECS_106B_Discussion_7_Practical_Epipolar_Geometry.pdf)) (<a href="https://youtu.be/jtbSLr6z1Q0A">Video</a>)
-- Homework 4 (due 3/16)
+- [Homework 4 (due 3/16)](../assets/hw/hw4_assignment.pdf)

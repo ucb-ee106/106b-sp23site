@@ -3,7 +3,7 @@ title: Week 8 - Multiple Views
 days:
   - topic: Geometry and Algebra of Multiple Views
     date: 2021-03-09
-    description: (Slides) (Video) (Scribe Notes) <br /> Reading - MaSKS Ch 8 & 9
+    description: (<a href="https://drive.google.com/file/d/15eW7yIws2nsRVzCLJjtSIo_3rNdyFzfZ/view?usp=sharing">Slides</a>) (Video) (Scribe Notes) <br /> Reading - MaSKS Ch 8 & 9
   - topic: Multiple-View Reconstruction from Scene Knowledge
     date: 2021-03-11
     description: (Slides) (Video) (Scribe Notes) <br /> Reading - MaSKS Ch 9 & 10

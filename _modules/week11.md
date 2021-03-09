@@ -1,5 +1,5 @@
 ---
-title: Week 11 - Camera Calibration and Image Reconstruction, Chapter 6 of MaSKS 
+title: Week 11 - CStructure from Motion and SLAM 
 days:
   - topic: Structure from Motion and SLAM I
     date: 2021-03-30

@@ -1,5 +1,5 @@
 ---
-title: Week 8 - Structure from Motion for Multi View Geometry Chapter 5 of MaSKS 
+title: Week 8 - Multiple Views 
 days:
   - topic: Geometry and Algebra of Multiple Views
     date: 2021-03-09

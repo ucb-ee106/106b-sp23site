@@ -1,5 +1,5 @@
 ---
-title: Week 7 - Two View Geometry, Structure from Motion, Chapter 5 of MaSKS
+title: Week 7 - Two View Geometry & Multiple Views
 days:
   - topic: Epipolar Equations, Two View Geometry, Linear and Nonlinear Two-view geometry
     date: 2021-03-02

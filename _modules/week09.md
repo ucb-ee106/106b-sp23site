@@ -1,5 +1,5 @@
 ---
-title: Week 9 - Camera Calibration and Image Reconstruction, Chapter 6 of MaSKS
+title: Week 9 - Learning and Applications
 days:
   - topic: Learning to Detect Structures for 3D Reconstruction 
     date: 2021-03-16

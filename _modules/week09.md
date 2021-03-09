@@ -1,12 +1,12 @@
 ---
 title: Week 9 - Camera Calibration and Image Reconstruction, Chapter 6 of MaSKS
 days:
-  - topic: Kruppa’s Equation for Calibration, Uncalibrated epipolar geometry 
+  - topic: Learning to Detect Structures for 3D Reconstruction 
     date: 2021-03-16
-    description: (Slides) (Video) (Scribe Notes) <br /> Reading - MaSKS Ch 6
-  - topic: Calibration 
+    description: (Slides) (Video) (Scribe Notes) <br /> Reading - MaSKS Ch8-10 
+  - topic: Applications of 3D Vision (AR/VR) 
     date: 2021-03-18
-    description: (Slides) (Video) (Scribe Notes) <br /> Reading - MaSKS Ch 6
+    description: (Slides) (Video) (Scribe Notes)
 ---
 
 - Discussion 9: Computations for Calibration

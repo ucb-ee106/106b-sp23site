@@ -9,5 +9,5 @@ days:
     description: (Slides) (Video) (Scribe Notes) <br /> Reading - MaSKS Ch 9 & 10
 ---
 
-- Discussion 8: Algorithms for Multi-view Geometry
+- Discussion 8: Algorithms for Multi-view Geometry ([Worksheet](../assets/discussions/EECS_106B_Discussion_8_Multi_View_Reconstruction.pdf))
 - Project 3

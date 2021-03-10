@@ -1,10 +1,10 @@
 ---
-title: Week 14 - An Introduction to Legged Locomotion with Professor Koushil Sreenath
+title: Week 14 - Guest Lectures & Special Topics
 days:
-  - topic: Introduction to Legged Robots, Modeling and dynamics of legged robots
+  - topic: Dex-Net (Professor Ken Goldberg)
     date: 2020-04-20
     description: (Slides) (Video) (Scribe Notes)
-  - topic: Control of Legged Robots 
+  - topic: Introduction to Legged Robots, Modeling and dynamics of legged robots (Professor Koushil Sreenath)
     date: 2020-04-22
     description: (Slides) (Video) (Scribe Notes)
 ---

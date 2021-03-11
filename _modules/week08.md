@@ -10,4 +10,4 @@ days:
 ---
 
 - Discussion 8: Algorithms for Multi-view Geometry ([Worksheet](../assets/discussions/EECS_106B_Discussion_8_Multi_View_Reconstruction.pdf)) (<a href="https://youtu.be/1wbJ130RlK0">Video</a>)
-- Project 3
+- [Project 3](../assets/projects/EECS_106B_project3.pdf) (due Mar 23)

@@ -89,7 +89,7 @@ Projects:
 |Project 1a: Trajectory Tracking with Baxter| 1/22 | 2/1 |
 |Project 1b: Trajectory Tracking with Baxter| 2/3 | 2/19 |
 |Project 2: Nonholonomic Control with Turtlebots| 2/17 | 3/10 |
-|Project 3: Structure from Motion and Image Reconstruction| 3/10 | 3/22 |
+|Project 3: Structure from Motion and Image Reconstruction| 3/10 | 3/23 |
 |Project 4: Hand-Eye Coordination| 3/29 | 4/9 |
 
 Final Project:

@@ -10,5 +10,5 @@ days:
 ---
 
 - Discussion 9: Introduction to Final Project (Video)
-- Final Project Guidelines
+- [Final Project Guidelines](../assets/proj/_EECS_C106B__Spring_21__Final_Project_Guidelines.pdf)
 - [Previous Years' Final Projects](../assets/proj/prevProjects.zip)

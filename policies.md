@@ -95,7 +95,7 @@ Projects:
 Final Project:
 
 | **Final Project Deliverables** | **Due Date** |
-|Final Project Proposal| 3/29 |
+|Final Project Proposal| 3/31 |
 |Intermediate Presentation| 4/16 |
 |Intermediate Presentation Peer Review| 4/20 |
 |Final Project Showcase| 5/6 |

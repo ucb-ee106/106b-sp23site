@@ -10,5 +10,5 @@ days:
 ---
 
 - Discussion 9: Introduction to Final Project (<a href = "https://youtu.be/KcZahFPmZ6U">Video</a>)
-- [Final Project Guidelines]
+- [Final Project Guidelines](../assets/proj/S21_finProj_guidelines.pdf)
 - [Previous Years' Final Projects](../assets/proj/prevProjects.zip)

@@ -9,6 +9,6 @@ days:
     description: (<a href="https://www.dropbox.com/s/97azks62e87s0jg/lec8-MaSKS-learning.pdf?dl=0">Slides</a>) (Video) (Scribe Notes)
 ---
 
-- Discussion 9: Introduction to Final Project (Video)
-- [Final Project Guidelines](../assets/proj/_EECS_C106B__Spring_21__Final_Project_Guidelines.pdf)
+- Discussion 9: Introduction to Final Project (<a href = "https://youtu.be/KcZahFPmZ6U">Video</a>)
+- [Final Project Guidelines]
 - [Previous Years' Final Projects](../assets/proj/prevProjects.zip)

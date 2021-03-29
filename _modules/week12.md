@@ -1,10 +1,10 @@
 ---
-title: Week 12 - Introduction to Grasping
+title: Week 12 - Manipulation of Grasped Objects & SLAM
 days:
-  - topic: Types and models of contact, modeling grasp by multi-fingered hands
+  - topic: Dynamics of a multi-fingered hands with objects
     date: 2021-04-06
     description: (Slides) (Video) (Scribe Notes)
-  - topic: Grasp Stability, Manipulability, Grasp Planning
+  - topic: Structure from Motion and SLAM I (Amay Saxena)
     date: 2021-04-08
     description: (Slides) (Video) (Scribe Notes)
 ---

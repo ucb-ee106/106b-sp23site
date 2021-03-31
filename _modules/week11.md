@@ -9,5 +9,5 @@ days:
     description: (Slides) (Video) (Scribe Notes) <br /> MaSKS Ch 11 and Appendix B
 ---
 
-- Discussion 10: Reconstruction
+- Discussion 10: Reconstruction ([Worksheet](../assets/discussions/106B_Dis_10_Worksheet.pdf))
 - [Project 4](../assets/projects/EECS_106B_Project_4-2.pdf)

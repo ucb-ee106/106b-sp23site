@@ -80,7 +80,7 @@ Homeworks:
 |Homework 2: Controls| 2/3 | 2/12 |
 |Homework 3: Path Planning| 2/17 | 3/1 |
 |Homework 4: Vision| 3/3 | 3/19 |
-|Homework 5: Grasping| 3/17 | 3/30 |
+|Homework 5: Grasping| cancelled | cancelled |
 
 Projects:
 
@@ -90,14 +90,14 @@ Projects:
 |Project 1b: Trajectory Tracking with Baxter| 2/3 | 2/19 |
 |Project 2: Nonholonomic Control with Turtlebots| 2/17 | 3/10 |
 |Project 3: Structure from Motion and Image Reconstruction| 3/10 | 3/23 |
-|Project 4: Hand-Eye Coordination| 3/29 | 4/9 |
+|Project 4: Grasping| 3/30 | 4/12 |
 
 Final Project:
 
 | **Final Project Deliverables** | **Due Date** |
-|Final Project Proposal| 3/31 |
-|Intermediate Presentation| 4/16 |
-|Intermediate Presentation Peer Review| 4/20 |
+|Final Project Proposal| 4/4 |
+|Intermediate Presentation| 4/18 |
+|Intermediate Presentation Peer Review| 4/21 |
 |Final Project Showcase| 5/6 |
 |Final Project Report and Website| 5/14 |
 

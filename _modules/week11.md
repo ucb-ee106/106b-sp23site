@@ -9,5 +9,5 @@ days:
     description: (Slides) (Video) (Scribe Notes) <br /> MaSKS Ch 11 and Appendix B
 ---
 
-- Discussion 10: Grasping ([Worksheet](../assets/discussions/106B_Dis_10_Worksheet.pdf))
+- Discussion 10: Grasping ([Worksheet](../assets/discussions/106B_Dis_10_Worksheet.pdf)) (<a href="https://youtu.be/74guSvnZF6s">Video</a>)
 - [Project 4](../assets/projects/EECS_106B_Project_4-2.pdf)

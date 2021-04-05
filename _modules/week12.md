@@ -1,9 +1,9 @@
 ---
 title: Week 12 - Manipulation of Grasped Objects & SLAM
 days:
-  - topic: Dynamics of a multi-fingered hands with objects
+  - topic: Hand Dynamics and Control
     date: 2021-04-06
-    description: (Slides) (Video) (Scribe Notes)
+    description: (<a href="https://drive.google.com/file/d/1lHNEx0Y0Vsirb7lnQAcTTMp2EY9GT1UZ/view?usp=sharing">Slides</a>) (Video) (Scribe Notes)
   - topic: Structure from Motion and SLAM I (Amay Saxena)
     date: 2021-04-08
     description: (Slides) (Video) (Scribe Notes)

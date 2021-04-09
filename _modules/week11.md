@@ -11,3 +11,4 @@ days:
 
 - Discussion 10: Grasping ([Worksheet](../assets/discussions/106B_Dis_10_Worksheet.pdf)) (<a href="https://youtu.be/74guSvnZF6s">Video</a>)
 - [Project 4](../assets/projects/EECS_106B_Project_4-2.pdf)
+- <a href="https://docs.google.com/presentation/d/1naZOFYSVAKYC20bH1U5xR3z3mb-igRizuIfhyWWQd8w/edit#slide=id.ga4b3b7ab8f_0_167">Lab slides</a>

@@ -8,6 +8,6 @@ days:
     date: 2021-04-08
     description: (<a href="https://drive.google.com/file/d/1nJxv2wYoggMIGHOCJJvsRx54oUBXlcSQ/view?usp=sharing">Slides</a>) (<a href="https://youtu.be/lUfdl2VLmD0">Video</a>) (Scribe Notes)
 ---
-
+ - help
 
    

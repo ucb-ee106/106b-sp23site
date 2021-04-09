@@ -9,4 +9,3 @@ days:
     description: (Slides) (Video) (Scribe Notes)
 ---
 
-- Discussion 12: Dynamics and Control of multi-fingered hands

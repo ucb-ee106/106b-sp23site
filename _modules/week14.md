@@ -9,6 +9,5 @@ days:
     description: (Slides) (Video) (Scribe Notes)
 ---
 
-- Discussion 13: Discussion of walking robot papers
-- Intermediate project presentations due April 19th 11:59pm (TBC)
-- Peer Reviews due April 23th 11:59pm (TBC)
+- Intermediate project presentations due April 18th 11:59pm 
+- Peer Reviews due April 21st 11:59pm 

@@ -9,4 +9,3 @@ days:
     description: (Slides) (Video) (Scribe Notes)
 ---
 
-- Discussion 14: UAV dynamics in SE(3) and in coordinates, papers

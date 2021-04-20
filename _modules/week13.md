@@ -6,6 +6,6 @@ days:
     description: (<a href="https://drive.google.com/file/d/1v-FtccGRp9l4fqjy248Dv-ZxLfUQYQXX/view?usp=sharing">Slides</a>) (<a href="https://youtu.be/lyeVTa1-WpM">Video</a>) (Scribe Notes)
   - topic: Dex-Net (Professor Ken Goldberg)
     date: 2021-04-15
-    description: (Slides) (Video) (Scribe Notes)
+    description: (Video on Piazza) ([Scribe Notes](../assets/scribe/Goldberg_talk_scribed_notes.pdf))
 ---
 

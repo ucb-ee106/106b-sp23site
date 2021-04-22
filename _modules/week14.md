@@ -6,7 +6,7 @@ days:
     description: (<a href="https://www.dropbox.com/s/33yq8d05qepwbn7/Legged%20Locomotion%20-%20Part%20I.pdf?dl=0">Slides</a>) (<a href="https://youtu.be/s6Rgn9JnpQ8">Video</a>) (Scribe Notes)
   - topic: Control of Legged Robots (Professor Koushil Sreenath)
     date: 2020-04-22
-    description: (Slides) (Video) (Scribe Notes)
+    description: (<a href="https://www.dropbox.com/s/3rgz6w4cg5sgdbz/Legged%20Locomotion%20-%20Part%20II.pdf?dl=0">Slides</a>) (Video) (Scribe Notes)
 ---
 
 - Intermediate project presentations due April 18th 11:59pm 

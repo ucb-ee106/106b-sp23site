@@ -62,6 +62,22 @@ description: >-
 - [Lecture 10, 2/18](assets/scribe/scribe_lec10.pdf)
 - [Lecture 11, 2/23](assets/scribe/scribe_lec11.pdf)
 - [Lecture 12, 2/25](assets/scribe/scribe_lec12.pdf)
+- No Lecture 13 scribed notes
+- [Lecture 14, 3/4](assets/scribe/scribe_lec14.pdf)
+- [Lecture 15, 3/9](assets/scribe/scribe_lec15.pdf)
+- [Lecture 16, 3/11](assets/scribe/scribe_lec16.pdf)
+- No Lecture 17 scribed notes
+- [Lecture 18, 3/18](assets/scribe/scribe_lec18.pdf)
+- [Lecture 19, 3/30](assets/scribe/scribe_lec19.pdf)
+- [Lecture 20, 4/1](assets/scribe/scribe_lec20.pdf)
+- No Lecture 21 scribed notes
+- [Lecture 22, 4/8](assets/scribe/scribe_lec22.pdf)
+- [Lecture 23, 4/13](assets/scribe/scribe_lec23.pdf)
+- [Lecture 24, 4/15](assets/scribe/scribe_lec24.pdf)
+- [Lecture 25, 4/20](assets/scribe/scribe_lec25.pdf)
+- No Lecture 26 scribed notes
+- [Lecture 27, 4/27](assets/scribe/scribe_lec27.pdf)
+- [Lecture 28, 4/29](assets/scribe/scribe_lec28.pdf)
 
 ## Final Project Resources
 - [Sp 2020 Project Guidelines](assets/proj/ProjectGuidelines.pdf)

@@ -31,6 +31,8 @@ nav_links:
       - 'https://gradescope.com'
     Piazza:
       - 'https://piazza.com'
+    Textbook:
+      - 'https://ucb-ee106.github.io/eecs106b-fa22/assets/MLS.pdf'
 # aux_links:
 #   'Kevin Lin':
 #     - 'https://kevinl.info'

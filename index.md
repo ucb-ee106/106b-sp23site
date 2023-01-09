@@ -3,12 +3,12 @@ layout: home
 title: Home
 nav_order: 0
 description: >-
-    Course website for EECS 106/206B Spring 2021
+    Course website for EECS 106/206B Spring 2022
 ---
 <!-- <div class="parallax-window" data-parallax="scroll" data-image-src="/assets/background.png" data-speed="0.1">/div> -->
 # EECS C106B/206B | Robotic Manipulation and Interaction
 {: .mb-2 }
-Spring 2021
+Spring 2022
 {: .mb-0 .fs-6 .text-grey-dk-200 }
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
@@ -41,4 +41,4 @@ Looking for resources for projects, homeworks, and lecture? Check out the *Resou
 
 ## Course Description
 
-This course is an introduction to advanced topics and research in robotics and intelligent machines. The course is a sequel to EECS/Bioengineering/ME C106A and EECS C206A which covers the mathematical fundamentals of robotics including kinematics, dynamics and control as well as an introduction to path planning, obstacle avoidance, and computer vision This course will present several areas of robotics and active vision, at a deeper level and informed by current research. Concepts will include the review at an advanced level of robot control, the kinematics, dynamics and control of multi-fingered hands, grasping and manipulation of objects, mobile robots: including non-holonomic motion planning and control, path planning, Simultaneous Localization And Mapping (SLAM), and active vision. Additional research topics to be covered at the instructor’s discretion include: locomotion and walking robots, Unmanned Aerial Vehicles, soft robotics, and Augmented/Virtual Reality.
+This course is an introduction to advanced topics and research in robotics and intelligent machines. The course is a sequel to EECS/Bioengineering/ME C106A and EECS C206A which covers the mathematical fundamentals of robotics including kinematics, dynamics and control as well as an introduction to path planning, obstacle avoidance, and computer vision. This course will present several areas of robotics and active vision, at a deeper level and informed by current research. Concepts will include the review at an advanced level of robot control, the kinematics, dynamics and control of multi-fingered hands, grasping and manipulation of objects, mobile robots: including non-holonomic motion planning and control, path planning, Simultaneous Localization And Mapping (SLAM), and active vision. Additional research topics to be covered at the instructor’s discretion include: reinforcement learning, locomotion and walking robots, Unmanned Aerial Vehicles, soft robotics, and Augmented/Virtual Reality.

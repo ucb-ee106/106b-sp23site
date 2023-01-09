@@ -13,6 +13,13 @@ schedule:
         end: 6:00 PM
   - name: Tuesday
     events:
+      # USE THIS TEMPLATE WITH TAs
+      - name: Content OH
+        class: contentoh
+        start: 1:00 PM
+        end: 2:00 PM
+        tas: Tarun
+        location: Cory 504
       - name: Professor Sastry
         class: coh
         start: 2:00 PM 

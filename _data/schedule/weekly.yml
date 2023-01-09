@@ -12,45 +12,39 @@ schedule:
     events:
       - name: Lecture
         class: lecture
-        start: 9:30 AM
-        end: 11:00 AM
-        # location: Etcheverry 3106
-  - name: Wednesday
-    events:
-      - name: Discussion
-        class: section
-        start: 3:00 PM
-        end: 4:00 PM
-        # location: Cory 237
-      # - name: Discussion
-      #   class: section
-      #   start: 5:00 PM
-      #   end: 6:00 PM
-      #   # location: Cory 540AB
+        start: 2:00 PM
+        end: 3:30 PM
+        location: North Gate 105
   - name: Thursday
     events:
       - name: Lecture
         class: lecture
-        start: 9:30 AM
-        end: 11:00 AM
-        # location: Etcheverry 3106
+        start: 2:00 PM
+        end: 3:30 PM
+        location: North Gate 105
       - name: Lab
         class: lab
-        start: 5:00 PM
-        end: 8:00 PM
-        # location: Cory 111
-        tas: Ron
+        start: 2:00 PM
+        end: 5:00 PM
+        location: Cory 105
+        # tas: Ron
   - name: Friday
     events:
       - name: Lab
         class: lab
         start: 8:00 AM
         end: 11:00 AM
-        # location: Cory 111
-        tas: Jay
+        location: Cory 105
+        # tas: Jay
+      - name: Lab
+        class: lab
+        start: 11:00 AM
+        end: 2:00 PM
+        location: Cory 105
+        # tas: Jay
       - name: Lab
         class: lab
         start: 2:00 PM
         end: 5:00 PM
-        # location: Cory 111
-        tas: Josephine
+        location: Cory 105
+        # tas: Jay

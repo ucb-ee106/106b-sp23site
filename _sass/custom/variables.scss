@@ -12,6 +12,7 @@ $grey-lt-100: #eeebee !default;
 $grey-lt-200: #ecebed !default;
 $grey-lt-300: #e6e1e8 !default;
 
+$purple-lt-000: #b5a6f3 !default;
 $purple-000: #7253ed !default;
 $purple-100: #5e41d0 !default;
 $purple-200: #4e26af !default;
@@ -38,9 +39,9 @@ $red-200: #e94c4c !default;
 $red-300: #dd2e2e !default;
 
 // $link-color: $blue-100;
-$link-color: $blue-100;
+$link-color: $purple-100;
 // $sidebar-color: $body-background-color;
-$sidebar-color: $grey-lt-000;
+$sidebar-color: $purple-lt-000;
 
 // Layout
 $gutter-spacing: $sp-6;
@@ -57,6 +58,6 @@ $media-queries: (
 
 // Components
 $box-shadow: 0 1px 3px rgba(0, 0, 0, 0.07), 0 4px 14px rgba(0, 0, 0, 0.05);
-$module-date-color: $grey-dk-100;
+$module-date-color: $purple-100;
 $schedule-day-min-width: 9rem;
 $staffer-image-size: 150px;

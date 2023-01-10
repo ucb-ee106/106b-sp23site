@@ -15,6 +15,8 @@ schedule:
         start: 2:00 PM
         end: 3:30 PM
         location: North Gate 105
+  - name: Wednesday
+    events:
   - name: Thursday
     events:
       - name: Lecture

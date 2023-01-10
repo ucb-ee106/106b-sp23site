@@ -6,8 +6,8 @@ We're extremely excited to have you! It's going to be a great semester. We've sp
 
 Feel free to look through this website to read more about the course. 
 - The material covered this semester is listed on the homepage.
-- Looking for ourse logistics and policies, including due dates and grading information? Check out the Policies page!
 - Looking for the weekly lab, discussion, lecture, or office hours schedule? Look at the Weekly Schedule tab!
+- Looking for ourse logistics and policies, including due dates and grading information? Check out the Policies page!
 - Looking for a TA or professor's email? The Staff tab has your back (and so do we!)
 - Looking for resources for projects, homeworks, and lecture? The Resources tab is your friend!
 

@@ -121,7 +121,7 @@ There will be one midterm to ensure students are caught up with course material.
 ## Lab Sections and Paper Presentation
 Lab sections are not offered asynchronously. At the beginning of lab section, the GSI will go over any announcements, including introducing any new projects. Then, there will be a discussion of two assigned papers.
 
-Each student will be responsible for presenting one paper to their lab section. This presentation should be around 20 minutes long, and you will be graded based on your level of insight on the material and your ability to answer questions from course staff and other students. You have the option of working with a partner or two for this. Details are to be finalized by the second week of class.
+Each student will be responsible for presenting two papers to their lab section through the course of the semester. This presentation should be around 20 minutes long, and you will be graded based on your level of insight on the material and your ability to answer questions from course staff and other students. You have the option of working with a partner or two for this. Details are to be finalized by the second week of class.
 
 After the paper discussions, if there is time remaining, labs will be more free-form and similar in style to office hours. You are encouraged to use this time to work with your group on projects and ask questions. 
 

@@ -29,7 +29,7 @@ Spring 2022
 
 All assignment due dates can be found in the *Policies* tab under *Due Dates*.
 
-Looking for the weekly lab, discussion, lecture, or office hours schedule? Check out the *Schedule* tab!
+Looking for the weekly lab, discussion, lecture, or office hours schedule? Check out the *Weekly Schedule* tab!
 
 Looking for the semester plan, discussion worksheets, project assignments, or homework assignments? Check out the *Course Calendar* tab!
 

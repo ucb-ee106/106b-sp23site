@@ -40,7 +40,7 @@ If you need disability-related accommodations in this class, please inform us im
 
 ## Overview
 
-This course will be taught in a seminar style, with lectures, 6 homeworks, 1 midterm, weekly paper presentations (2 per person), 5 assigned projects, and a final project. **All submissions will go through Gradescope (Course Entry Code: WVK62G)**. An Ed page has been created for students to discuss homeworks and projects. 
+This course will be taught in a seminar style, with lectures, 6 homeworks, 5 assigned projects, 1 midterm, weekly paper presentations (2 per person), and a final project. **All submissions will go through Gradescope (Course Entry Code: WVK62G)**. An Ed page has been created for students to discuss homeworks and projects. 
 
 Each week, there are 3 hours of lecture, 1 hour of discussion, and 1 hour of organized paper-reading time in lab sections. All of these and office hours will be hosted in-person. You are expected to work on projects during your own time. A booking system will be instituted to reserve robots, and lab TAs will be availble to address any questions during their office hours. Lecture and discussion sections will be recorded and posted, so you may attend these asynchronously. However, due to the journal club nature of lab sections, they will not be offered asynchronously, **and you are expected to attend your lab section every week.**
 
@@ -57,18 +57,12 @@ Collaboration on homework sets is encouraged, but all students must write up the
 
 We will hold **weekly homework parties**! They will be held each Monday 6:00pm - 8:00pm. They will be staffed by one or more TAs to assist students working through the homework. These hours are dedicated to homework only.
 
-## Midterm
-
-There will be one midterm to ensure students are caught up with course material. It will be a take-home exam that can be completed during any time in a three day window, from 2/2 to 2/2. Logistics will be released closer to the test dates.
-
-## Lab Sections and Paper Presentation
-Lab sections are not offered asynchronously. At the beginning of lab section, the GSI will go over any announcements, including introducing any new projects. Then, there will be a discussion of two assigned papers.
-
-Each student will be responsible for presenting two papers to their lab section through the course of the semester. This presentation should be around 20 minutes long, and you will be graded based on your level of insight on the material and your ability to answer questions from course staff and other students. You have the option of working with a partner or two for this. Details are to be finalized by the second week of class.
-<!-- The signup link is here:  -->
-[Test](http://www.google.com)
-
-After the paper discussions, if there is time remaining, labs will be more free-form and similar in style to office hours. You are encouraged to use this time to work with your group on projects and ask questions. 
+| **Homework** | **Date Assigned** | **Due Date** |
+|Homework 1: Review| 1/20 | 2/2 |
+|Homework 2: Controls| 2/3 | 2/12 |
+|Homework 3: Path Planning| 2/17 | 3/1 |
+|Homework 4: Vision| 3/3 | 3/19 |
+|Homework 5: Grasping| cancelled | cancelled |
 
 ## Projects
 
@@ -81,6 +75,26 @@ Projects will be done in groups of 3, but groups of 2 are also acceptable. Each 
 - Turtlebot Calendars
 - Soft Robot Calendars (COMING SOON)
 
+| **Project** | **Date Assigned** | **Due Date** |
+|Lab 0: Setup & Review| 1/19 | 1/29 |
+|Project 1a: Trajectory Tracking with Baxter| 1/22 | 2/1 |
+|Project 1b: Trajectory Tracking with Baxter| 2/3 | 2/19 |
+|Project 2: Nonholonomic Control with Turtlebots| 2/17 | 3/10 |
+|Project 3: Structure from Motion and Image Reconstruction| 3/10 | 3/23 |
+|Project 4: Grasping| 3/30 | 4/12 |
+
+## Midterm
+
+There will be one midterm to ensure students are caught up with course material. It will be a take-home exam that can be completed during any time in a three day window, from 2/2 to 2/2. Logistics will be released closer to the test dates.
+
+## Lab Sections and Paper Presentation
+Lab sections are not offered asynchronously. At the beginning of lab section, the GSI will go over any announcements, including introducing any new projects. Then, there will be a discussion of two assigned papers.
+
+Each student will be responsible for presenting two papers to their lab section through the course of the semester. This presentation should be around 20 minutes long, and you will be graded based on your level of insight on the material and your ability to answer questions from course staff and other students. You have the option of working with a partner or two for this. Details are to be finalized by the second week of class.
+<!-- The signup link is [here](http://www.google.com). -->
+
+After the paper discussions, if there is time remaining, labs will be more free-form and similar in style to office hours. You are encouraged to use this time to work with your group on projects and ask questions. 
+
 ## Final Project
 
 The final project will constitute the largest single portion of your grade for this course and must include sensing, planning, and actuation components on real hardware. Whereas the 106A project was an implementation-based project, this project should be research-based. Project deliverables include a proposal, a live demo and poster session, an academic-style paper, a small website, and several intermediate check-ins. Further information will be forthcoming.
@@ -89,11 +103,20 @@ Due to the types of deliverables involved (e.g., live demonstrations), extension
 
 **As in EECS C106A, all students must complete a final project. Failure to complete a final project will result in a failing grade.**
 
+| **Final Project Deliverables** | **Due Date** |
+|Final Project Proposal| 4/4 |
+|Intermediate Presentation| 4/18 |
+|Intermediate Presentation Peer Review| 4/21 |
+|Final Project Showcase| 5/6 |
+|Final Project Report and Website| 5/14 |
+
+## Office Hours
+
+The instructors will hold weekly office hours to discuss lecture content, homework assignments, projects, and other course material. We will try our best to schedule them so that each student has the opportunity to attend at least one office hour each week. When discussing a current homework assignment, instructors will **not** provide solutions. Rather, instructors will be happy to help clarify fundamentals and to guide students' reasoning in related problems.
+
+**Content** questions can go to **any TA or the professor**. Questions regarding **homeworks** should be directed to **Max** and **Tarun**. Questions regarding **projects** can be directed to **any TA**. Questions regarding **course logistics** should be directed to **Tarun**. All questions can be directed to **Ed** for the fastest response. When emailing staff, please prefix the subject line with **[EECS 106B]**.
+
 # Logistics
-
-## Whom to ask questions?
-
-**Content** questions can go to **any TA or the professor**. Questions regarding **homeworks** should be directed to **Max** and **Tarun**. Questions regarding **projects** can be directed to **any TA**. Questions regarding **course logistics** should be directed to **Tarun**. All questions can and should be directed to **Ed** for the fastest response. When emailing staff, please prefix the subject line with **[EECS 106B]**.
 
 ## Grade Breakdown
 
@@ -104,40 +127,6 @@ Due to the types of deliverables involved (e.g., live demonstrations), extension
 |Final Project | 30% |
 
 One feedback survey will be posted after the midterm, worth an extra 0.5% of your grade. An additional 0.5% will be granted for completing the end-of-semester university feedback.
-
-## Due Dates
-
-All assignments are due at **11:59pm** on the due date listed.
-
-Homeworks:
-
-| **Homework** | **Date Assigned** | **Due Date** |
-|Homework 1: Review| 1/20 | 2/2 |
-|Homework 2: Controls| 2/3 | 2/12 |
-|Homework 3: Path Planning| 2/17 | 3/1 |
-|Homework 4: Vision| 3/3 | 3/19 |
-|Homework 5: Grasping| cancelled | cancelled |
-
-Projects:
-
-| **Project** | **Date Assigned** | **Due Date** |
-|Lab 0: Setup & Review| 1/19 | 1/29 |
-|Project 1a: Trajectory Tracking with Baxter| 1/22 | 2/1 |
-|Project 1b: Trajectory Tracking with Baxter| 2/3 | 2/19 |
-|Project 2: Nonholonomic Control with Turtlebots| 2/17 | 3/10 |
-|Project 3: Structure from Motion and Image Reconstruction| 3/10 | 3/23 |
-|Project 4: Grasping| 3/30 | 4/12 |
-
-Final Project:
-
-| **Final Project Deliverables** | **Due Date** |
-|Final Project Proposal| 4/4 |
-|Intermediate Presentation| 4/18 |
-|Intermediate Presentation Peer Review| 4/21 |
-|Final Project Showcase| 5/6 |
-|Final Project Report and Website| 5/14 |
-
-# Miscellaneous Information
 
 ## Effort, Participation, and Altruism (EPA) Points
 
@@ -152,13 +141,11 @@ We want to reward you for engaging respectfully with the course! You are eligibl
   
 Please remember to treat your peers (and hopefully your instructors!) with kindness and respect.
 
-## Office Hours
-
-The instructors will hold weekly office hours to discuss lecture content, homework assignments, projects, and other course material. We will try our best to schedule them so that each student has the opportunity to attend at least one office hour each week. When discussing a current homework assignment, instructors will **not** provide solutions. Rather, instructors will be happy to help clarify fundamentals and to guide students' reasoning in related problems.
-
 ## A Note on Late Work
 
 While  we  will  abide  by  the  policies  listed  above  regarding  specific  assignment  types,  we  understand  that unforeseen circumstances do happen.  If you feel that you will not be able to complete an assignment on time under the policies listed above due to truly extenuating circumstances, please inform a course instructor as soon as possible and **before** the associated deadline to discuss your situation. Once the deadline has passed, accommodations are unlikely.
+
+# Miscellaneous Information
 
 ## Regrade Requests
 

@@ -18,7 +18,7 @@ description: >-
 ---
 ## About the Course
 
-This course is an introduction to advanced topics and research in robotics and intelligent machines. The course is a sequel to EECS/Bioengineering/ME C106A and EECS C206A which covers the mathematical fundamentals of robotics including kinematics, dynamics and control as well as an introduction to path planning, obstacle avoidance, and computer vision This course will present several areas of robotics and active vision, at a deeper level and informed by current research.  Concepts will include the review at an advanced level of robot control, the kinematics, dynamics and control of multi-fingered hands, grasping and manipulation of objects, mobile robots: including non-holonomic motion planning and control, path planning, Simultaneous Localization And Mapping (SLAM), and active vision. Additional research topics to be covered at the instructor’s discretion include: locomotion and walking robots, Unmanned Aerial Vehicles, soft robotics, and Augmented/Virtual Reality. 
+This course is an introduction to advanced topics and research in robotics and intelligent machines. The course is a sequel to EECS/Bioengineering/ME C106A and EECS C206A which covers the mathematical fundamentals of robotics including kinematics, dynamics and control as well as an introduction to path planning, obstacle avoidance, and computer vision This course will present several areas of robotics and active vision, at a deeper level and informed by current research.  Concepts will include the review at an advanced level of robot control, the kinematics, dynamics and control of multi-fingered hands, grasping and manipulation of objects, mobile robots: including non-holonomic motion planning and control, path planning, Simultaneous Localization And Mapping (SLAM), and active vision. Additional research topics to be covered at the instructor’s discretion include: reinforcement learning, locomotion and walking robots, Unmanned Aerial Vehicles, soft robotics, and Augmented/Virtual Reality. 
 
 ## Prerequisites
 Students are expected to have taken EECS C106A / BioE C106A / ME C106A / EECS C206A or an equivalent course. A strong programming background, knowledge of Python and Matlab, and some coursework in feedback controls (such as EE C128 / ME C134) are also useful. Students who have not taken EECS C106A / BioE C106A / ME C106A / EECS C206A should have a strong programming background, knowledge of Python and Matlab, and exposure to linear algebra, Lagrangian dynamics, and feedback controls at the intermediate level. 
@@ -27,7 +27,7 @@ Students are expected to have taken EECS C106A / BioE C106A / ME C106A / EECS C2
 ## Resources
 
 The required texts are
-- Richard Murray, Zexiang Li and S. Shankar Sastry, <a href="https://drive.google.com/file/d/1uA2XFdm-SjcPLDZ1hBvPYS5h3IX_WSpj/view?usp=sharing">A Mathematical Introduction to Robotic Manipulation</a>, 1993. 
+- Richard Murray, Zexiang Li and S. Shankar Sastry, <a href="https://ucb-ee106.github.io/eecs106b-fa22/assets/MLS.pdf">A Mathematical Introduction to Robotic Manipulation</a>, 1993. 
 - Y. Ma, S Soatto, J. Kosecka, and S. Sastry, An Invitation to 3-D Vision: From Images to Geometric Models, Springer Verlag 2004. The textbook is <a href="https://link.springer.com/book/10.1007/978-0-387-21779-6">here</a>. You will need to use the <a href="https://www.lib.berkeley.edu/using-the-libraries/connect-off-campus">UCB Library VPN.</a>
 
 Other material will be drawn from:
@@ -48,12 +48,12 @@ Please see the Course Calendar page for a weekly breakdown of topics: Robotics a
 
 ## Logistics
 
-This course will be taught in a seminar style, with homework, presentations, four projects, and a final
-project. **All submissions will go through Gradescope (Course Entry Code: TBD)**. A Piazza page has been created for students to discuss homeworks and projects. Note that there will be no exams in this course. 
+This course will be taught in a seminar style, with homework, presentations, five projects, and a final
+project. **All submissions will go through Gradescope (Course Entry Code: TBD)**. An Ed page has been created for students to discuss homeworks and projects. Note that there will be no exams in this course. 
 
-Questions regarding **homeworks** should be directed to **Amay** and **Haozhi**. Questions regarding projects should be directed to any TA. Questions regarding **course logistics** should be directed to **Jaeyun Stella**. All questions can and should be directed to **Piazza** for the fastest response. When emailing staff, please prefix the subject line with **[EECS 106B]**.
+Questions regarding **homeworks** should be directed to **Max** and **Tarun**. Questions regarding projects should be directed to any TA. Questions regarding **course logistics** should be directed to **Tarun**. All questions can and should be directed to **Ed** for the fastest response. When emailing staff, please prefix the subject line with **[EECS 106B]**.
 
-Each week, there are 3 hours of lecture, 1 hour of discussion, and 3 hours of organized lab time. All of these and office hours will be hosted on Zoom through the same class link. You are expected to work on lab assignments outside of designated lab times. Lecture and discussion sections will be recorded and posted, so you may attend these asynchronously. However, due to the journal club nature of lab sections, they will not be offered asynchronously, **and you are expected to attend your lab section every week.**
+Each week, there are 3 hours of lecture, 1 hour of discussion, and 3 hours of organized lab time. All of these and office hours will be hosted in-person or on Zoom through the same class link. You are expected to work on lab assignments outside of designated lab times. Lecture and discussion sections will be recorded and posted, so you may attend these asynchronously. However, due to the journal club nature of lab sections, they will not be offered asynchronously, **and you are expected to attend your lab section every week.**
 
 ## Disability Accommodations & Emergencies
 
@@ -64,7 +64,7 @@ If you need disability-related accommodations in this class, please inform us im
 |Homeworks| 25%|
 |Scribing| 2%|
 |Paper Presentation| 3%|
-|Projects 1-4| 35%|
+|Projects 1-5| 35%|
 |Final Project| 35%|
 
 Three feedback surveys will be posted, each worth an extra 0.25% of your grade. An additional extra 0.25% will be granted for completing the end-of-semester university feedback.

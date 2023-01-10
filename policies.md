@@ -43,31 +43,30 @@ The primary objective of this course is to help students develop the academic ma
 - Have experience conducting independent research in model-based robotics, vision and intelligent machines.
 - Have the tools necessary to reason about nonlinear control systems, robotic manipulators, steering systems subject to non-holonomy, path-planning, active vision, image reconstruction, active vision, robotic grasping, and other advances in robotics.
 
-Please see the Course Calendar page for a weekly breakdown of topics: Robotics and Manipulation (Weeks 1-4, 9-10), Computer Vision (Weeks 5-8), Mobile Robots (Weeks 11-12), and Advanced Topics (Weeks 13-15).
+Please see the Course Calendar page for a weekly breakdown of topics.
 
 
 ## Logistics
 
-This course will be taught in a seminar style, with homework, presentations, five projects, and a final
-project. **All submissions will go through Gradescope (Course Entry Code: TBD)**. An Ed page has been created for students to discuss homeworks and projects. Note that there will be no exams in this course. 
+This course will be taught in a seminar style, with homework, paper presentations, five projects, and a final
+project. **All submissions will go through Gradescope (Course Entry Code: WVK62G)**. An Ed page has been created for students to discuss homeworks and projects. Note that there will be no exams in this course. 
 
 Questions regarding **homeworks** should be directed to **Max** and **Tarun**. Questions regarding projects should be directed to any TA. Questions regarding **course logistics** should be directed to **Tarun**. All questions can and should be directed to **Ed** for the fastest response. When emailing staff, please prefix the subject line with **[EECS 106B]**.
 
-Each week, there are 3 hours of lecture, 1 hour of discussion, and 3 hours of organized lab time. All of these and office hours will be hosted in-person or on Zoom through the same class link. You are expected to work on lab assignments outside of designated lab times. Lecture and discussion sections will be recorded and posted, so you may attend these asynchronously. However, due to the journal club nature of lab sections, they will not be offered asynchronously, **and you are expected to attend your lab section every week.**
+Each week, there are 3 hours of lecture, 1 hour of discussion, and 1 hour of organized paper-reading time in lab sections. All of these and office hours will be hosted in-person. You are expected to work on projects during your own time. A booking system will be instituted to reserve robots, and lab TAs will be availble to address any questions during their office hours. Lecture and discussion sections will be recorded and posted, so you may attend these asynchronously. However, due to the journal club nature of lab sections, they will not be offered asynchronously, **and you are expected to attend your lab section every week.**
 
 ## Disability Accommodations & Emergencies
 
-If you need disability-related accommodations in this class, please inform us immediately. Please see the professors or Stella privately after class or send us an email.
+If you need disability-related accommodations in this class, please inform us immediately. Please see the professor or Tarun privately after class, or send us an email.
 
 ## Grade Breakdown
+|Homeworks| 20%|
+|Midterm| 15%|
+|Paper Presentations| 5%|
+|Projects 1-5| 30%|
+|Final Project| 30%|
 
-|Homeworks| 25%|
-|Scribing| 2%|
-|Paper Presentation| 3%|
-|Projects 1-5| 35%|
-|Final Project| 35%|
-
-Three feedback surveys will be posted, each worth an extra 0.25% of your grade. An additional extra 0.25% will be granted for completing the end-of-semester university feedback.
+One feedback survey will be posted after the midterm, worth an extra 0.5% of your grade. An additional 0.5% will be granted for completing the end-of-semester university feedback.
 
 ## Due Dates
 
@@ -101,36 +100,63 @@ Final Project:
 |Final Project Showcase| 5/6 |
 |Final Project Report and Website| 5/14 |
 
+## Course Content
 
-## Homeworks
+### Lecture
+Lecture (T/R 2:00pm-3:30pm) in North Gate 105. Lectures will be recorded for asynchronous viewing, though we highly recommend you attend live in order to ask questions and engage fully with the material.
 
-Homeworks will be collected and graded using the Gradescope system. Create an account on gradescope.com with your Berkeley email account and SID. Add this course with the code **BP2JEK**.
+### Homeworks
+
+Homeworks will be collected and graded using the Gradescope system. Create an account on gradescope.com with your Berkeley email account and SID. Add this course with the code **WVK62G**.
 
 Each student is allocated **5 total days of extension**, to be used on any homework assignment with no loss of points. To allow for homework solutions to be released in a timely manner, **no more than 2 extension days may be used on a single assignment.** No homework will be accepted past two days of extension. 
 
 Collaboration on homework sets is encouraged, but all students must write up their own solution set. Additionally, every student is accountable for the solutions they submit and may be asked to discuss them with a GSI or instructor. **Please list all collaborators at the top of each submitted homework set.**
 
-## Scribing
-Each student will need to scribe for one lecture for the semester. A LaTex template can be found in the Resources tab under Scribing. Students will need to sign up for scribing and submit their notes to Gradescope. Scribing notes are due by midnight the day after the lecture you scribed for. When submitting to Gradescope, please zip together the pdf and the .tex files to submit both of them.
+We will hold **weekly homework parties**! They will be held each Monday 6:00pm - 8:00pm. They will be staffed by one or more TAs to assist students working through the homework. These hours are dedicated to homework only.
 
-## Lab Sections and Paper Presentation
-Lab sections are not offered asynchronously. At the beginning of lab section, the GSI will go over any announcements, including introducing any new projects. Then there will be a discussion of an assigned paper.
+### Midterm
 
-Each student will be responsible for presenting one paper to their lab section. This presentation should be between 15 and 25 minutes long and you will be graded based on your level of insight on the material and your ability to answer questions from course staff and other students. You have the option of working with a partner or two for this. Details are to be finalized by the second week of class.
+There will be one midterm to ensure students are caught up with course material. It will be a take-home exam that can be completed during any time in a three day window. Logistics will be released closer to the test dates.
 
-After the paper discussion, labs will be more free-form and similar in style to office hours. You are encouraged to use this time to work with your group on projects and ask questions. 
+### Lab Sections and Paper Presentation
+Lab sections are not offered asynchronously. At the beginning of lab section, the GSI will go over any announcements, including introducing any new projects. Then, there will be a discussion of two assigned papers.
 
-## Projects
+Each student will be responsible for presenting one paper to their lab section. This presentation should be around 20 minutes long, and you will be graded based on your level of insight on the material and your ability to answer questions from course staff and other students. You have the option of working with a partner or two for this. Details are to be finalized by the second week of class.
 
-The Spring 2021 semester will be delivered entirely remotely as per guidance from the University. Instead of using hardware, you will complete the projects in simulation using a virtual machine. Lab 0 will walk you through the setup and give a quick review of ROS.
+After the paper discussions, if there is time remaining, labs will be more free-form and similar in style to office hours. You are encouraged to use this time to work with your group on projects and ask questions. 
 
-There are no official lab checkoffs, as there are in 106A, with the exception of Lab 0, which must be checked off by the end of Week 2 in order to receive help on Projects 1-4. Instead, students will work on their own time and turn in a project report to Gradescope. Projects should be completed in groups of 3, but groups of 2 are also acceptable. Extension days may **not** be used on project submissions.
+### Projects
 
-## Final Project
+Projects in 106B delve into active areas of research and as a result are more open-ended than labs in 106A. There are no official checkoffs. Instead, students will work on their own time and turn in a report to Gradescope. Project reports will focus on building the skills required to write scientific literature. Slip days may not be used on project submissions.
+ 
+The lab in Cory 105 is open for use for the projects and the final project. The robots/hardware will be shared. Similar to how final projects in C106A worked, we will organize the robots’ time using a reservation systems.
 
-The final project will constitute the largest single portion of your grade for this course and must include sensing, planning, and actuation components on real hardware. Whereas the 106A project was an implementation-based project, this project should be research-based. Project deliverables include a proposal, a live demo and poster session, an academic-style paper, a small website, and several intermediate check-ins. Further information will be forthcoming; in the meantime, feel free to explore the list of previous projects available on the website!
+Projects will be done in groups of 3, but groups of 2 are also acceptable. Each team may only reserve 2 hours at a time and can only make a new reservation once all of the team’s existing reservation times have ended. If a team is caught abusing this policy and overbooking, a 50% penalty will be deducted from the group’s project grade. Each project team will be assigned to a robot. Please reserve times on the following calendars:
+- Arm Robot Calendars
+- Turtlebot Calendars
+- Soft Robot Calendars (COMING SOON)
+
+### Final Project
+
+The final project will constitute the largest single portion of your grade for this course and must include sensing, planning, and actuation components on real hardware. Whereas the 106A project was an implementation-based project, this project should be research-based. Project deliverables include a proposal, a live demo and poster session, an academic-style paper, a small website, and several intermediate check-ins. Further information will be forthcoming.
 
 Due to the types of deliverables involved (e.g., live demonstrations), extension days may **not** be used on project deliverables, and late work will not be accepted.
+
+**As in EECS C106A, all students must complete a final project. Failure to complete a final project will result in a failing grade.**
+
+## Effort, Participation, and Altruism (EPA) Points
+
+We want to reward you for engaging respectfully with the course! You are eligible to earn up to 2% extra credit via Effort, Participation, Altruism (EPA) points. These points can be earned in a variety of ways:
+
+- Attending lecture and discussion 
+- Asking questions in class
+- Helping others in lab section
+- Answering questions on Ed
+- Coming to Office Hours and Homework Party
+- Actively engaging in journal club
+  
+Please remember to treat your peers (and hopefully your instructors!) with kindness and respect.
 
 ## Office Hours
 
@@ -142,22 +168,18 @@ While  we  will  abide  by  the  policies  listed  above  regarding  specific  a
 
 ## Regrade Requests
 
-If you feel that your work has been graded unfairly, you may request a regrade by submitting a request on Gradescope with a written statement explaining the mistake. Be aware that points may be deducted as well as added if a regrade is requested.
-
+If you feel that your work has been graded unfairly, you may request a regrade by submitting a request on Gradescope with a statement explaining the mistake. Be aware that points may be deducted as well as added if a regrade is requested.
 
 ## Advice 
 
 The following tips are offered based on our experience.
 
-**Do the homeworks!** The homeworks are explicitly designed to help you to learn the material as you go along. Although the numerical weight of the homeworks is not huge, there is usually a strong correlation between homework scores and final grades in the class.
+**Do the homeworks!** The homeworks are explicitly designed to help you to learn the material as you go along. There is usually a strong correlation between homework scores and final grades in the class.
 
-**Keep up with lectures!** Discussion sections, labs and homeworks all touch on portions of what we discuss in lecture. Students do much better if they stay on track with the course. That will also help you keep the pace with your homework and study group.
+**Keep up with lectures!** Discussion sections, labs, and homeworks all touch on portions of what we discuss in lecture. Students do much better if they stay on track with the course. That will also help you keep the pace with your homework and study group.
 
 **Take part in discussion sections!** Discussion sections are not auxiliary lectures. They are an opportunity for interactive learning. The success of a discussion section depends largely on the willingness of students to participate actively in it. As with office hours, the better prepared you are for the discussion, the more you are likely to benefit from it.
 
 **Come to office hours!** We love to talk to you and do a deep dive to help you understand the material better.
 
-**Form study groups!** As stated above, you are encouraged to form small groups (two to four people) to work together on homeworks and on understanding the class material on a regular basis. In addition to being fun, this can save you a lot of time by generating ideas quickly and preventing you from getting hung up on some point or other. Of course, it is your responsibility to ensure that you contribute actively to the group; passive listening will likely not help you much. Also recall the caveat above, that you must write up your solutions on your own. We strongly advise you to spend some time on your own thinking about each problem before you meet with your study partners; this way, you will be in a position to compare ideas with your partners, and it will get you in practice for the exams. Make sure you work through all problems yourself, and that your final write-up is your own. Some groups try to split up the problems ("you do Problem 1, I'll do Problem 2, then we'll swap notes"); not only is this a punishable violation of our collaboration policies, it also ensures you will learn a lot less from this course.
-
-## This is not a usual semester.
-We understand that this semester will have its unique challenges. We are here to support you throughout the semester, both as students and as people. Life happens, and we want to make sure you are still receiving a quality education despite the current state of the world. **Please communicate with us if you are experiencing extenuating circumstances and need extra support. We’re here for you.**
+**Form study groups!** You are encouraged to form small groups (two to four people) to work together on homeworks and on understanding the class material on a regular basis. In addition to being fun, this can save you a lot of time by generating ideas quickly and preventing you from getting hung up on some point or other. Of course, it is your responsibility to ensure that you contribute actively to the group; passive listening will likely not help you much. Also recall the caveat above, that you must write up your solutions on your own. We strongly advise you to spend some time on your own thinking about each problem before you meet with your study partners; this way, you will be in a position to compare ideas with your partners, and it will get you in practice for the exams. Make sure you work through all problems yourself, and that your final write-up is your own. Some groups try to split up the problems ("you do Problem 1, I'll do Problem 2, then we'll swap notes"); not only is this a punishable violation of the university's collaboration policies, it also ensures you will learn a lot less from this course.

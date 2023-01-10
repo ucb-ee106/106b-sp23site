@@ -32,9 +32,12 @@ The primary objective of this course is to help students develop the academic ma
 
 Please see the Course Calendar page for a weekly breakdown of topics.
 
-## Disability Accommodations & Emergencies
 
-If you need disability-related accommodations in this class, please inform us immediately. Please see the professor or Tarun privately after class, or send us an email.
+
+
+
+
+
 
 # Presentation of Course Material
 
@@ -85,9 +88,9 @@ Projects will be done in groups of 3, but groups of 2 are also acceptable. Each 
 
 ## Midterm
 
-There will be one midterm to ensure students are caught up with course material. It will be a take-home exam that can be completed during any time in a three day window, from 2/2 to 2/2. Logistics will be released closer to the test dates.
+There will be **one midterm** to ensure students are caught up with course material. It will be a take-home exam that can be completed during any time in a three day window, **from 2/2 to 2/2**. Logistics will be released closer to the test dates.
 
-## Lab Sections and Paper Presentation
+## Lab Sections and Paper Presentations
 Lab sections are not offered asynchronously. At the beginning of lab section, the GSI will go over any announcements, including introducing any new projects. Then, there will be a discussion of two assigned papers.
 
 Each student will be responsible for presenting two papers to their lab section through the course of the semester. This presentation should be around 20 minutes long, and you will be graded based on your level of insight on the material and your ability to answer questions from course staff and other students. You have the option of working with a partner or two for this. Details are to be finalized by the second week of class.
@@ -116,7 +119,12 @@ The instructors will hold weekly office hours to discuss lecture content, homewo
 
 **Content** questions can go to **any TA or the professor**. Questions regarding **homeworks** should be directed to **Max** and **Tarun**. Questions regarding **projects** can be directed to **any TA**. Questions regarding **course logistics** should be directed to **Tarun**. All questions can be directed to **Ed** for the fastest response. When emailing staff, please prefix the subject line with **[EECS 106B]**.
 
-# Logistics
+
+
+
+
+
+# Grading
 
 ## Grade Breakdown
 
@@ -145,7 +153,28 @@ Please remember to treat your peers (and hopefully your instructors!) with kindn
 
 While  we  will  abide  by  the  policies  listed  above  regarding  specific  assignment  types,  we  understand  that unforeseen circumstances do happen.  If you feel that you will not be able to complete an assignment on time under the policies listed above due to truly extenuating circumstances, please inform a course instructor as soon as possible and **before** the associated deadline to discuss your situation. Once the deadline has passed, accommodations are unlikely.
 
+
+
+
+
+
 # Miscellaneous Information
+
+## Disability Accommodations & Emergencies
+
+If you need disability-related accommodations in this class, please inform us immediately. Please see the professor or Tarun privately after class, or send us an email.
+
+## Collaboration Policy
+
+Students are allowed—and in fact, encouraged—to collaborate on how to approach problems. This can include talking through approaches and whiteboarding together. However, each student is responsible for writing their own responses, both for typical written questions and coding assignments. Students should never be in possession of another student’s code.
+
+Online material is also open to use. However, it must not be copied directly, and any references should be credited in your work. Using previous years' solutions from 106B or any other class constitutes plagiarism and will be punished accordingly.
+
+When debugging, students are encouraged to come to office hours for assistance. If debugging with peers, we encourage you to do this in person with others in small groups. However, we understand that this is not always possible, so screen sharing code for debugging assistance is permissible. When debugging, please do so in pairs or very small groups, and always do so in controlled settings to minimize sharing answers.
+
+Students should never screenshare their code or answers directly on public platforms like non-private posts on Ed, the class Discord, or Zoom rooms. Please note that screen sharing on Discord can be viewed even without directly joining the call, so there can be no record of who is viewing your stream at any time. ALWAYS list collaborators.
+
+**tl;dr: Work together on approach, but write your own answers. If you need direct help debugging, ask a TA for help, or do so in controlled environments where the only people who see your code are your approach collaborators. ALWAYS list collaborators and cite sources on your submissions.**
 
 ## Regrade Requests
 
@@ -163,7 +192,7 @@ The following tips are offered based on our experience.
 
 **Come to office hours!** We love to talk to you and do a deep dive to help you understand the material better.
 
-**Form study groups!** You are encouraged to form small groups (two to four people) to work together on homeworks and on understanding the class material on a regular basis. In addition to being fun, this can save you a lot of time by generating ideas quickly and preventing you from getting hung up on some point or other. Of course, it is your responsibility to ensure that you contribute actively to the group; passive listening will likely not help you much. Also recall the caveat above, that you must write up your solutions on your own. We strongly advise you to spend some time on your own thinking about each problem before you meet with your study partners; this way, you will be in a position to compare ideas with your partners, and it will get you in practice for the exams. Make sure you work through all problems yourself, and that your final write-up is your own. Some groups try to split up the problems ("you do Problem 1, I'll do Problem 2, then we'll swap notes"); not only is this a punishable violation of the university's collaboration policies, it also ensures you will learn a lot less from this course.
+**Form study groups!** You are encouraged to form small groups (two to four people) to work together on homeworks and on understanding the class material on a regular basis. In addition to being fun, this can save you a lot of time by generating ideas quickly and preventing you from getting hung up on some point or other. Of course, it is your responsibility to ensure that you contribute actively to the group; passive listening will likely not help you much. Also, recall the caveat above, that you must write up your solutions on your own. We strongly advise you to spend some time on your own thinking about each problem before you meet with your study partners; this way, you will be in a position to compare ideas with your partners, and it will get you in practice for the exams. Make sure you work through all problems yourself, and that your final write-up is your own. Some groups try to split up the problems ("you do Problem 1, I'll do Problem 2, then we'll swap notes"); not only is this a punishable violation of the university's collaboration policies, it also ensures you will learn a lot less from this course.
 
 
 

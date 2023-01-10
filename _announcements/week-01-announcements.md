@@ -17,4 +17,6 @@ Feel free to look through this website to read more about the course.
 - Discussion 1
 - Sign up for paper presentations
 
+<a href="#Week1">Jump to this week</a>
+
 {: .fs-5 }

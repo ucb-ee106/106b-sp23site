@@ -1,4 +1,3 @@
-<a id="Week1"></a>
 ---
 title: Week 1 - Rigid Body Motion, Kinematics, Lagrangian Dynamics of Robots (Review of C106A/206A)
 days:
@@ -16,3 +15,5 @@ days:
 - [Homework 1: Review (due 2/2 11:59pm)](../assets/hw/hw1.zip)
 - [Project 1A](../assets/projects/106B_Project_1_Doc.pdf) (<a href="https://youtu.be/6UcKwnWiIN8">Intro Video</a>)
 - <a href="https://youtu.be/0nwFSCAacWk">"Reading a scientific or engineering paper", presented by Professor Terry Johnson</a>
+
+<a id="Week2"></a>

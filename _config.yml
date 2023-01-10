@@ -28,9 +28,9 @@ permalink: pretty
 nav_links:
   Other:
     Gradescope:
-      - 'https://gradescope.com'
-    Piazza:
-      - 'https://piazza.com'
+      - 'https://www.gradescope.com/courses/486737'
+    Ed:
+      - 'https://edstem.org/us/courses/26839/discussion/'
     Textbook:
       - 'https://ucb-ee106.github.io/eecs106b-fa22/assets/MLS.pdf'
 # aux_links:

@@ -24,20 +24,6 @@ This course is an introduction to advanced topics and research in robotics and i
 ## Prerequisites
 Students are expected to have taken EECS C106A / BioE C106A / ME C106A / EECS C206A or an equivalent course. A strong programming background, knowledge of Python and Matlab, and some coursework in feedback controls (such as EE C128 / ME C134) are also useful. Those who have not taken EECS C106A / BioE C106A / ME C106A / EECS C206A should have a strong programming background, knowledge of Python and Matlab, and exposure to linear algebra, Lagrangian dynamics, and feedback controls at the intermediate level. Please speak to a member of course staff if you are interested in taking the class without the prerequisites.
 
-
-## Resources
-
-The required texts are
-- Richard Murray, Zexiang Li and S. Shankar Sastry, <a href="https://ucb-ee106.github.io/eecs106b-fa22/assets/MLS.pdf">A Mathematical Introduction to Robotic Manipulation</a>, 1993. 
-- Y. Ma, S Soatto, J. Kosecka, and S. Sastry, An Invitation to 3-D Vision: From Images to Geometric Models, Springer Verlag 2004. The textbook is <a href="https://link.springer.com/book/10.1007/978-0-387-21779-6">here</a>. You will need to use the <a href="https://www.lib.berkeley.edu/using-the-libraries/connect-off-campus">UCB Library VPN.</a>
-
-Other material will be drawn from:
-- Nonlinear Systems: Analysis, Stability, and Control by S. Shankar Sastry, Springer Verlag, 1999. 
-- <a href="https://www.cds.caltech.edu/~murray/books/AM05/pdf/am08-complete_22Feb09.pdf">Feedback Systems: An Introduction for Scientists and Engineers</a> by Karl J. Astrom and Richard M. Murray, 2nd Edition, Princeton University Press, 2020.
-- Supplementary material in motion planning will be from K. Lynch and F. Park, Modern Robotics: Mechanics, Planning and Control, Cambridge University Press, 2017. 
-- Supplementary material on learning from J. Wright and Y. Ma, <a href="https://book-wright-ma.github.io/">High Dimensional Data Analysis with Low Dimensional Models: Principles, Computation and Application</a>, Cambridge University Press, 2021.
-- and numerous research papers
-
 ## Desired Course Outcomes
 The primary objective of this course is to help students develop the academic maturity necessary to understand and conduct research in the field of robotics, vision, and intelligent machines. Along with surveying a breadth of topics relevant to modern robotics, this course also gives students the ability to implement the concepts taught in lecture through exploratory lab-based projects. Students will get practice reading and interpreting research papers through weekly paper presentations. The course culminates in a final project that allows students to conduct independent, original research on a topic of their choosing. Students who complete EECS 106B should:
 - Be proficient at reading, comprehending, critiquing, and reimplementing research papers in the field of robotics.
@@ -59,7 +45,7 @@ This course will be taught in a seminar style, with lectures, 6 homeworks, 1 mid
 Each week, there are 3 hours of lecture, 1 hour of discussion, and 1 hour of organized paper-reading time in lab sections. All of these and office hours will be hosted in-person. You are expected to work on projects during your own time. A booking system will be instituted to reserve robots, and lab TAs will be availble to address any questions during their office hours. Lecture and discussion sections will be recorded and posted, so you may attend these asynchronously. However, due to the journal club nature of lab sections, they will not be offered asynchronously, **and you are expected to attend your lab section every week.**
 
 ## Lecture
-Lecture (T/R 2:00pm-3:30pm) in North Gate 105. Lectures will be recorded for asynchronous viewing, though we highly recommend you attend live in order to ask questions and engage fully with the material.
+Lecture will be Tuesday and Thursday from 2:00pm to 3:30pm in North Gate 105. Lectures will be recorded for asynchronous viewing, though we highly recommend you attend live in order to ask questions and engage fully with the material.
 
 ## Homeworks
 
@@ -73,12 +59,14 @@ We will hold **weekly homework parties**! They will be held each Monday 6:00pm -
 
 ## Midterm
 
-There will be one midterm to ensure students are caught up with course material. It will be a take-home exam that can be completed during any time in a three day window. Logistics will be released closer to the test dates.
+There will be one midterm to ensure students are caught up with course material. It will be a take-home exam that can be completed during any time in a three day window, from 2/2 to 2/2. Logistics will be released closer to the test dates.
 
 ## Lab Sections and Paper Presentation
 Lab sections are not offered asynchronously. At the beginning of lab section, the GSI will go over any announcements, including introducing any new projects. Then, there will be a discussion of two assigned papers.
 
 Each student will be responsible for presenting two papers to their lab section through the course of the semester. This presentation should be around 20 minutes long, and you will be graded based on your level of insight on the material and your ability to answer questions from course staff and other students. You have the option of working with a partner or two for this. Details are to be finalized by the second week of class.
+<!-- The signup link is here:  -->
+[Test](http://www.google.com)
 
 After the paper discussions, if there is time remaining, labs will be more free-form and similar in style to office hours. You are encouraged to use this time to work with your group on projects and ask questions. 
 

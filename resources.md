@@ -33,13 +33,16 @@ description: >-
 
 ## Lecture Supplements 
 
-- The required text is Richard Murray, Zexiang Li and S. Shankar Sastry's *A Mathematical Introduction to Robotic Manipulation* (first edition digitally available <a href="https://ucb-ee106.github.io/eecs106b-fa22/assets/MLS.pdf">here</a>)
-- The required text Y. Ma, S Soatto, J. Kosecka, and S. Sastry, An Invitation to 3-D Vision: From Images to Geometric Models, Springer Verlag 2004. can be accessed through the UCB Library. The textbook is <a href="https://link.springer.com/book/10.1007/978-0-387-21779-6">here</a>. You will need to use the <a href="https://www.lib.berkeley.edu/using-the-libraries/connect-off-campus">UCB Library VPN.</a>
+The required texts are
+- Richard Murray, Zexiang Li and S. Shankar Sastry, <a href="https://ucb-ee106.github.io/eecs106b-fa22/assets/MLS.pdf">A Mathematical Introduction to Robotic Manipulation</a>, 1993. 
+- Y. Ma, S Soatto, J. Kosecka, and S. Sastry, An Invitation to 3-D Vision: From Images to Geometric Models, Springer Verlag 2004. The textbook is <a href="https://link.springer.com/book/10.1007/978-0-387-21779-6">here</a>. You will need to use the <a href="https://www.lib.berkeley.edu/help/connect-off-campus">UCB Library VPN.</a> (I recommend adding the browser bookmark, it's super useful to log into scientific websites quickly)
+
+Other material will be drawn from:
 - Nonlinear Systems: Analysis, Stability, and Control by S. Shankar Sastry, Springer Verlag, 1999. 
 - <a href="https://www.cds.caltech.edu/~murray/books/AM05/pdf/am08-complete_22Feb09.pdf">Feedback Systems: An Introduction for Scientists and Engineers</a> by Karl J. Astrom and Richard M. Murray, 2nd Edition, Princeton University Press, 2020.
 - Supplementary material in motion planning will be from K. Lynch and F. Park, Modern Robotics: Mechanics, Planning and Control, Cambridge University Press, 2017. 
 - Supplementary material on learning from J. Wright and Y. Ma, <a href="https://book-wright-ma.github.io/">High Dimensional Data Analysis with Low Dimensional Models: Principles, Computation and Application</a>, Cambridge University Press, 2021.
-- and numerous research papers
+- Numerous research papers
 - [Modern Robotics by Park and Lynch](http://hades.mech.northwestern.edu/images/7/7f/MR.pdf) (another textbook that can help you with 106a material) 
 - [Modern Robotics: videos](https://www.youtube.com/watch?v=jVu-Hijns70&list=PLggLP4f-rq02vX0OQQ5vrCxbJrzamYDfx)
 - [The Kinematics of Contact and Grasp, Montana](assets/misc/David Montana.1988.pdf)

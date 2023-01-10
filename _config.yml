@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: EECS C106B
-description: Course site for EECS 106B
+title: EECS C106B/206B
+description: Course site for EECS 106B/206B
 author: Tarun Amarnath
 email: tarunamarnath@berkeley.edu
 baseurl: '/106b-sp23site/' # the subpath of your site, e.g. /blog

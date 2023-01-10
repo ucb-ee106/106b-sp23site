@@ -47,7 +47,7 @@ We will hold **weekly homework parties**! They will be held each Monday 6:00pm -
 
 ## Projects
 
-Projects in 106B delve into active areas of research and as a result are more open-ended than labs in 106A. There are no official checkoffs. Instead, students will work on their own time and turn in a report to Gradescope. Project reports will focus on building the skills required to write scientific literature. Slip days may not be used on project submissions.
+Projects in 106B/206B delve into active areas of research and as a result are more open-ended than labs in 106A. There are no official checkoffs. Instead, students will work on their own time and turn in a report to Gradescope. Project reports will focus on building the skills required to write scientific literature. Slip days may not be used on project submissions.
  
 The lab in Cory 105 is open for use for the projects and the final project. The robots/hardware will be shared. Similar to how final projects in C106A worked, we will organize the robots’ time using a reservation systems.
 
@@ -146,7 +146,7 @@ If you need disability-related accommodations in this class, please inform us im
 
 Students are allowed—and in fact, encouraged—to collaborate on how to approach problems. This can include talking through approaches and whiteboarding together. However, each student is responsible for writing their own responses, both for typical written questions and coding assignments. Students should never be in possession of another student’s code.
 
-Online material is also open to use. However, it must not be copied directly, and any references should be credited in your work. Using previous years' solutions from 106B or any other class constitutes plagiarism and will be punished accordingly.
+Online material is also open to use. However, it must not be copied directly, and any references should be credited in your work. Using previous years' solutions from 106B/206B or any other class constitutes plagiarism and will be punished accordingly.
 
 When debugging, students are encouraged to come to office hours for assistance. If debugging with peers, we encourage you to do this in person with others in small groups. However, we understand that this is not always possible, so screen sharing code for debugging assistance is permissible. When debugging, please do so in pairs or very small groups, and always do so in controlled settings to minimize sharing answers.
 

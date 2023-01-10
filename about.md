@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-nav_order: 2
+nav_order: 6
 description: >-
     Course policies and information.
 ---

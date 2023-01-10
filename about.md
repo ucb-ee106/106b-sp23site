@@ -29,6 +29,6 @@ The primary objective of this course is to help students develop the academic ma
 - Have experience conducting independent research in model-based robotics, vision and intelligent machines.
 - Have the tools necessary to reason about nonlinear control systems, robotic manipulators, steering systems subject to non-holonomy, path-planning, active vision, image reconstruction, active vision, robotic grasping, and other advances in robotics.
 
-Please see the Course Calendar page for a weekly breakdown of topics.
+Please see the homepage for a weekly breakdown of topics.
 
 ---

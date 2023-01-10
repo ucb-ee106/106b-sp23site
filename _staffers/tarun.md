@@ -1,6 +1,6 @@
 ---
 name: Tarun Amarnath
-role: Teaching Assistant
+role: Head TA
 email: tarunamarnath@
 photo: assets/staff_pics/tarun.jpg
 ---

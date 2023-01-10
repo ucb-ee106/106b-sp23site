@@ -1,6 +1,6 @@
 ---
 name: Massimiliano de Sa
-role: Teaching Assistant
+role: Content TA
 email: mz.desa@
 photo: assets/staff_pics/massimiliano.jpeg
 ---

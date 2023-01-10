@@ -18,6 +18,7 @@ description: >-
 ---
 # About the Course
 
+## Class Description
 This course is an introduction to advanced topics and research in robotics and intelligent machines. The course is a sequel to EECS/Bioengineering/ME C106A and EECS C206A which covers the mathematical fundamentals of robotics including kinematics, dynamics, and control as well as an introduction to path planning, obstacle avoidance, and computer vision. This course will present several areas of robotics and active vision at a much deeper level and informed by current research. Concepts will include the review at an advanced level of robot control, the kinematics, dynamics and control of multi-fingered hands, grasping and manipulation of objects, mobile robots, non-holonomic motion planning and control, path planning, Simultaneous Localization And Mapping (SLAM), and active vision. Additional research topics to be covered at the instructor’s discretion include reinforcement learning, locomotion and walking robots, Unmanned Aerial Vehicles, soft robotics, and Augmented/Virtual Reality. 
 
 ## Prerequisites
@@ -49,57 +50,13 @@ Please see the Course Calendar page for a weekly breakdown of topics.
 
 If you need disability-related accommodations in this class, please inform us immediately. Please see the professor or Tarun privately after class, or send us an email.
 
-# Logistics
+# Presentation of Course Material
 
 ## Overview
 
-This course will be taught in a seminar style, with lectures, 6 homeworks, 1 midterm, weekly paper presentations (2 per person), 5 projects, and a final project. **All submissions will go through Gradescope (Course Entry Code: WVK62G)**. An Ed page has been created for students to discuss homeworks and projects. 
-
-Questions regarding **homeworks** should be directed to **Max** and **Tarun**. Questions regarding projects should be directed to any TA. Questions regarding **course logistics** should be directed to **Tarun**. All questions can and should be directed to **Ed** for the fastest response. When emailing staff, please prefix the subject line with **[EECS 106B]**.
+This course will be taught in a seminar style, with lectures, 6 homeworks, 1 midterm, weekly paper presentations (2 per person), 5 assigned projects, and a final project. **All submissions will go through Gradescope (Course Entry Code: WVK62G)**. An Ed page has been created for students to discuss homeworks and projects. 
 
 Each week, there are 3 hours of lecture, 1 hour of discussion, and 1 hour of organized paper-reading time in lab sections. All of these and office hours will be hosted in-person. You are expected to work on projects during your own time. A booking system will be instituted to reserve robots, and lab TAs will be availble to address any questions during their office hours. Lecture and discussion sections will be recorded and posted, so you may attend these asynchronously. However, due to the journal club nature of lab sections, they will not be offered asynchronously, **and you are expected to attend your lab section every week.**
-
-## Grade Breakdown
-
-|Homeworks | 20% |
-|Midterm | 15% |
-|Paper Presentations | 5% |
-|Projects 1-5 | 30% |
-|Final Project | 30% |
-
-One feedback survey will be posted after the midterm, worth an extra 0.5% of your grade. An additional 0.5% will be granted for completing the end-of-semester university feedback.
-
-## Due Dates
-
-All assignments are due at **11:59pm** on the due date listed.
-
-Homeworks:
-
-| **Homework** | **Date Assigned** | **Due Date** |
-|Homework 1: Review| 1/20 | 2/2 |
-|Homework 2: Controls| 2/3 | 2/12 |
-|Homework 3: Path Planning| 2/17 | 3/1 |
-|Homework 4: Vision| 3/3 | 3/19 |
-|Homework 5: Grasping| cancelled | cancelled |
-
-Projects:
-
-| **Project** | **Date Assigned** | **Due Date** |
-|Lab 0: Setup & Review| 1/19 | 1/29 |
-|Project 1a: Trajectory Tracking with Baxter| 1/22 | 2/1 |
-|Project 1b: Trajectory Tracking with Baxter| 2/3 | 2/19 |
-|Project 2: Nonholonomic Control with Turtlebots| 2/17 | 3/10 |
-|Project 3: Structure from Motion and Image Reconstruction| 3/10 | 3/23 |
-|Project 4: Grasping| 3/30 | 4/12 |
-
-Final Project:
-
-| **Final Project Deliverables** | **Due Date** |
-|Final Project Proposal| 4/4 |
-|Intermediate Presentation| 4/18 |
-|Intermediate Presentation Peer Review| 4/21 |
-|Final Project Showcase| 5/6 |
-|Final Project Report and Website| 5/14 |
 
 ## Lecture
 Lecture (T/R 2:00pm-3:30pm) in North Gate 105. Lectures will be recorded for asynchronous viewing, though we highly recommend you attend live in order to ask questions and engage fully with the material.
@@ -144,6 +101,54 @@ Due to the types of deliverables involved (e.g., live demonstrations), extension
 
 **As in EECS C106A, all students must complete a final project. Failure to complete a final project will result in a failing grade.**
 
+# Logistics
+
+## Whom to ask questions?
+
+**Content** questions can go to **any TA or the professor**. Questions regarding **homeworks** should be directed to **Max** and **Tarun**. Questions regarding **projects** can be directed to **any TA**. Questions regarding **course logistics** should be directed to **Tarun**. All questions can and should be directed to **Ed** for the fastest response. When emailing staff, please prefix the subject line with **[EECS 106B]**.
+
+## Grade Breakdown
+
+|Homeworks | 20% |
+|Midterm | 15% |
+|Paper Presentations | 5% |
+|Projects 1-5 | 30% |
+|Final Project | 30% |
+
+One feedback survey will be posted after the midterm, worth an extra 0.5% of your grade. An additional 0.5% will be granted for completing the end-of-semester university feedback.
+
+## Due Dates
+
+All assignments are due at **11:59pm** on the due date listed.
+
+Homeworks:
+
+| **Homework** | **Date Assigned** | **Due Date** |
+|Homework 1: Review| 1/20 | 2/2 |
+|Homework 2: Controls| 2/3 | 2/12 |
+|Homework 3: Path Planning| 2/17 | 3/1 |
+|Homework 4: Vision| 3/3 | 3/19 |
+|Homework 5: Grasping| cancelled | cancelled |
+
+Projects:
+
+| **Project** | **Date Assigned** | **Due Date** |
+|Lab 0: Setup & Review| 1/19 | 1/29 |
+|Project 1a: Trajectory Tracking with Baxter| 1/22 | 2/1 |
+|Project 1b: Trajectory Tracking with Baxter| 2/3 | 2/19 |
+|Project 2: Nonholonomic Control with Turtlebots| 2/17 | 3/10 |
+|Project 3: Structure from Motion and Image Reconstruction| 3/10 | 3/23 |
+|Project 4: Grasping| 3/30 | 4/12 |
+
+Final Project:
+
+| **Final Project Deliverables** | **Due Date** |
+|Final Project Proposal| 4/4 |
+|Intermediate Presentation| 4/18 |
+|Intermediate Presentation Peer Review| 4/21 |
+|Final Project Showcase| 5/6 |
+|Final Project Report and Website| 5/14 |
+
 # Miscellaneous Information
 
 ## Effort, Participation, and Altruism (EPA) Points
@@ -184,3 +189,6 @@ The following tips are offered based on our experience.
 **Come to office hours!** We love to talk to you and do a deep dive to help you understand the material better.
 
 **Form study groups!** You are encouraged to form small groups (two to four people) to work together on homeworks and on understanding the class material on a regular basis. In addition to being fun, this can save you a lot of time by generating ideas quickly and preventing you from getting hung up on some point or other. Of course, it is your responsibility to ensure that you contribute actively to the group; passive listening will likely not help you much. Also recall the caveat above, that you must write up your solutions on your own. We strongly advise you to spend some time on your own thinking about each problem before you meet with your study partners; this way, you will be in a position to compare ideas with your partners, and it will get you in practice for the exams. Make sure you work through all problems yourself, and that your final write-up is your own. Some groups try to split up the problems ("you do Problem 1, I'll do Problem 2, then we'll swap notes"); not only is this a punishable violation of the university's collaboration policies, it also ensures you will learn a lot less from this course.
+
+
+

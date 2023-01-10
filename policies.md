@@ -16,7 +16,7 @@ description: >-
 {:toc}
 
 ---
-## About the Course
+# About the Course
 
 This course is an introduction to advanced topics and research in robotics and intelligent machines. The course is a sequel to EECS/Bioengineering/ME C106A and EECS C206A which covers the mathematical fundamentals of robotics including kinematics, dynamics, and control as well as an introduction to path planning, obstacle avoidance, and computer vision. This course will present several areas of robotics and active vision at a much deeper level and informed by current research. Concepts will include the review at an advanced level of robot control, the kinematics, dynamics and control of multi-fingered hands, grasping and manipulation of objects, mobile robots, non-holonomic motion planning and control, path planning, Simultaneous Localization And Mapping (SLAM), and active vision. Additional research topics to be covered at the instructor’s discretion include reinforcement learning, locomotion and walking robots, Unmanned Aerial Vehicles, soft robotics, and Augmented/Virtual Reality. 
 
@@ -46,7 +46,7 @@ The primary objective of this course is to help students develop the academic ma
 Please see the Course Calendar page for a weekly breakdown of topics.
 
 
-## Logistics
+# Logistics
 
 This course will be taught in a seminar style, with homework, paper presentations, five projects, and a final
 project. **All submissions will go through Gradescope (Course Entry Code: WVK62G)**. An Ed page has been created for students to discuss homeworks and projects. Note that there will be no exams in this course. 
@@ -60,11 +60,11 @@ Each week, there are 3 hours of lecture, 1 hour of discussion, and 1 hour of org
 If you need disability-related accommodations in this class, please inform us immediately. Please see the professor or Tarun privately after class, or send us an email.
 
 ## Grade Breakdown
-|Homeworks| 20%|
-|Midterm| 15%|
-|Paper Presentations| 5%|
-|Projects 1-5| 30%|
-|Final Project| 30%|
+|Homeworks | 20% |
+|Midterm | 15% |
+|Paper Presentations | 5% |
+|Projects 1-5 | 30% |
+|Final Project | 30% |
 
 One feedback survey will be posted after the midterm, worth an extra 0.5% of your grade. An additional 0.5% will be granted for completing the end-of-semester university feedback.
 
@@ -100,12 +100,12 @@ Final Project:
 |Final Project Showcase| 5/6 |
 |Final Project Report and Website| 5/14 |
 
-## Course Content
+# Course Content
 
-### Lecture
+## Lecture
 Lecture (T/R 2:00pm-3:30pm) in North Gate 105. Lectures will be recorded for asynchronous viewing, though we highly recommend you attend live in order to ask questions and engage fully with the material.
 
-### Homeworks
+## Homeworks
 
 Homeworks will be collected and graded using the Gradescope system. Create an account on gradescope.com with your Berkeley email account and SID. Add this course with the code **WVK62G**.
 
@@ -115,18 +115,18 @@ Collaboration on homework sets is encouraged, but all students must write up the
 
 We will hold **weekly homework parties**! They will be held each Monday 6:00pm - 8:00pm. They will be staffed by one or more TAs to assist students working through the homework. These hours are dedicated to homework only.
 
-### Midterm
+## Midterm
 
 There will be one midterm to ensure students are caught up with course material. It will be a take-home exam that can be completed during any time in a three day window. Logistics will be released closer to the test dates.
 
-### Lab Sections and Paper Presentation
+## Lab Sections and Paper Presentation
 Lab sections are not offered asynchronously. At the beginning of lab section, the GSI will go over any announcements, including introducing any new projects. Then, there will be a discussion of two assigned papers.
 
 Each student will be responsible for presenting one paper to their lab section. This presentation should be around 20 minutes long, and you will be graded based on your level of insight on the material and your ability to answer questions from course staff and other students. You have the option of working with a partner or two for this. Details are to be finalized by the second week of class.
 
 After the paper discussions, if there is time remaining, labs will be more free-form and similar in style to office hours. You are encouraged to use this time to work with your group on projects and ask questions. 
 
-### Projects
+## Projects
 
 Projects in 106B delve into active areas of research and as a result are more open-ended than labs in 106A. There are no official checkoffs. Instead, students will work on their own time and turn in a report to Gradescope. Project reports will focus on building the skills required to write scientific literature. Slip days may not be used on project submissions.
  
@@ -137,7 +137,7 @@ Projects will be done in groups of 3, but groups of 2 are also acceptable. Each 
 - Turtlebot Calendars
 - Soft Robot Calendars (COMING SOON)
 
-### Final Project
+## Final Project
 
 The final project will constitute the largest single portion of your grade for this course and must include sensing, planning, and actuation components on real hardware. Whereas the 106A project was an implementation-based project, this project should be research-based. Project deliverables include a proposal, a live demo and poster session, an academic-style paper, a small website, and several intermediate check-ins. Further information will be forthcoming.
 

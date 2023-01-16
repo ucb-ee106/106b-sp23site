@@ -56,15 +56,16 @@ The lab in Cory 105 is open for use for the projects and the final project. The 
 Projects will be done in groups of 3, but groups of 2 are also acceptable. Each team may only reserve 2 hours at a time and can only make a new reservation once all of the team’s existing reservation times have ended. If a team is caught abusing this policy and overbooking, a 50% penalty will be deducted from the group’s project grade. Each project team will be assigned to a robot. Please reserve times on the following calendars:
 - Arm Robot Calendars
 - Turtlebot Calendars
-- Soft Robot Calendars (COMING SOON)
+- Soft Robot Calendars
 
 | **Project** | **Date Assigned** | **Due Date** |
-|Lab 0: Setup & Review| 1/19 | 1/29 |
-|Project 1a: Trajectory Tracking with Baxter| 1/22 | 2/1 |
-|Project 1b: Trajectory Tracking with Baxter| 2/3 | 2/19 |
-|Project 2: Nonholonomic Control with Turtlebots| 2/17 | 3/10 |
-|Project 3: Structure from Motion and Image Reconstruction| 3/10 | 3/23 |
-|Project 4: Grasping| 3/30 | 4/12 |
+|Lab 0: Review of ROS | 1/17 | N/A |
+|Project 1a: Trajectory Tracking with Sawyer | 1/17 | 1/30 |
+|Project 1b: Trajectory Tracking with Sawyer | 1/30 | 2/13 |
+|Project 2: Nonholonomic Control | 2/13 | 2/27 |
+|Project 3: State Estimation | 2/27 | 3/13 |
+|Project 4: Decentralized Multi-Agent Control | 3/13 | 3/27 |
+|Project 5: Soft Robotics | 4/3 | 4/10 |
 
 ## Midterm
 

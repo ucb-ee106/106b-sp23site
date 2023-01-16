@@ -25,7 +25,7 @@ $blue-300: #183385 !default;
 
 $green-000: #41d661 !default;
 $green-100: #11b527 !default;
-$green-200: #009c2f !default;
+$green-200: #008f2b !default;
 $green-300: #026e26 !default;
 
 $yellow-000: #ffeb82 !default;
@@ -40,7 +40,7 @@ $red-300: #dd2e2e !default;
 $red-400: #c20000 !default;
 
 // $link-color: $blue-100;
-$link-color: $green-300;
+$link-color: $green-200;
 // $sidebar-color: $body-background-color;
 $sidebar-color: $grey-lt-000;
 
@@ -59,6 +59,6 @@ $media-queries: (
 
 // Components
 $box-shadow: 0 1px 3px rgba(0, 0, 0, 0.07), 0 4px 14px rgba(0, 0, 0, 0.05);
-$module-date-color: $green-300;
+$module-date-color: $green-200;
 $schedule-day-min-width: 9rem;
 $staffer-image-size: 150px;

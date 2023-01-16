@@ -9,7 +9,7 @@ days:
     description: (Slides) (Boardwork) (Video)  <br /> Reading - MLS Chapter 7
 ---
 
-- Discussion 3: Lyapunov stability (Worksheet) (Boardwork) (Video) (Solutions)
+- Discussion 3: Nonlinear Controls (Worksheet) (Boardwork) (Video) (Solutions)
 - Project 1B
 - Homework 2
 - Lab Slides

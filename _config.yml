@@ -21,7 +21,7 @@ baseurl: '/106b-sp23site/' # the subpath of your site, e.g. /blog
 url: 'https://ucb-ee106.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 
 # Theme settings
-remote_theme: `/just-the-docs@v0.2.5-release
+remote_theme: pmarsceill/just-the-docs@v0.2.5-release
 color_scheme: light
 search_enabled: true
 permalink: pretty

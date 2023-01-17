@@ -9,4 +9,4 @@ days:
     description: (Slides) (Boardwork) (Video)
 ---
 
-- No discussion - enjoy Spring Break!
+- No discussion

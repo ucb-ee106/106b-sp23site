@@ -17,19 +17,19 @@ schedule:
         location: North Gate 105
   - name: Wednesday
     events:
-      - name: Lab
+      - name: Journal Club
         class: lab
         start: 9:00 AM
         end: 10:00 AM
         location: Cory 105
         tas: Han
-      - name: Lab
+      - name: Journal Club
         class: lab
         start: 11:00 AM
         end: 12:00 PM
         location: Cory 105
         tas: Tarun
-      - name: Lab
+      - name: Journal Club
         class: lab
         start: 12:00 PM
         end: 1:00 PM
@@ -42,7 +42,7 @@ schedule:
         location: TBD
   - name: Thursday
     events:
-      - name: Lab
+      - name: Journal Club
         class: lab
         start: 1:00 PM
         end: 2:00 PM

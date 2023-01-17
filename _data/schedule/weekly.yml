@@ -19,14 +19,14 @@ schedule:
     events:
       - name: Journal Club
         class: lab
-        start: 9:00 AM
-        end: 10:00 AM
+        start: 8:00 AM
+        end: 9:00 AM
         location: Cory 105
         tas: Han
       - name: Journal Club
         class: lab
-        start: 11:00 AM
-        end: 12:00 PM
+        start: 9:00 AM
+        end: 10:00 AM
         location: Cory 105
         tas: Tarun
       - name: Journal Club

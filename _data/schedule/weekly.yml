@@ -17,36 +17,46 @@ schedule:
         location: North Gate 105
   - name: Wednesday
     events:
+      - name: Lab
+        class: lab
+        start: 9:00 AM
+        end: 10:00 AM
+        location: Cory 105
+        tas: Han
+      - name: Lab
+        class: lab
+        start: 11:00 AM
+        end: 12:00 PM
+        location: Cory 105
+        tas: Tarun
+      - name: Lab
+        class: lab
+        start: 12:00 PM
+        end: 1:00 PM
+        location: Cory 105
+        tas: Han
+      - name: Discussion
+        class: discussion
+        start: 1:00 PM
+        end: 2:00 PM
+        location: TBD
   - name: Thursday
     events:
+      - name: Lab
+        class: lab
+        start: 1:00 PM
+        end: 2:00 PM
+        location: Cory 105
+        tas: Fangyu
       - name: Lecture
         class: lecture
         start: 2:00 PM
         end: 3:30 PM
         location: North Gate 105
-      - name: Lab
-        class: lab
-        start: 2:00 PM
-        end: 5:00 PM
-        location: Cory 105
-        # tas: Ron
   - name: Friday
     events:
-      - name: Lab
-        class: lab
-        start: 8:00 AM
-        end: 11:00 AM
-        location: Cory 105
-        # tas: Jay
-      - name: Lab
-        class: lab
-        start: 11:00 AM
-        end: 2:00 PM
-        location: Cory 105
-        # tas: Jay
-      - name: Lab
-        class: lab
-        start: 2:00 PM
-        end: 5:00 PM
-        location: Cory 105
-        # tas: Jay
+      - name: Discussion
+        class: discussion
+        start: 3:00 PM
+        end: 4:00 PM
+        location: TBD

@@ -1,5 +1,5 @@
 ---
-title: Week 5 - Path planning  for Nonholonomic Systems
+title: Week 5 - Optimal Control and Vision
 days:
   - topic: Optimal Control, Model Predictive Control 
     date: 2021-02-16

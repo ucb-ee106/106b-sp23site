@@ -1,5 +1,5 @@
 ---
-title: Week 6 - Image Formation and Photometry (Review of C106A/206A)
+title: Week 6 - Image Formation and Photometry
 days:
   - topic: Rigid Body Motion and Imaging Geometry
     date: 2021-02-23

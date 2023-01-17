@@ -1,5 +1,5 @@
 ---
-title: Week 4 - Path Planning for Nonholonomic Systems
+title: Week 4 - Steering and Path Planning for Nonholonomic Systems
 days:
   - topic: Steering Model Control Systems; Sinusoids and Constructive Controllability
     date: 2023-02-07

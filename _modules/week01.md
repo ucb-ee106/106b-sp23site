@@ -1,10 +1,10 @@
 ---
-title: Week 1 - Rigid Body Motion, Kinematics, Lagrangian Dynamics of Robots (Review of C106A/206A)
+title: Week 1 - New Vistas in Robotics and Linear Control
 days:
-  - topic: New Vistas in Robotics
+  - topic: Course Logistics, New Vistas in Robotics
     date: 2023-01-17
     description: ([Logistics Slides) (Slides) (Video) <br /> Reading - MLS 2.1-2.5, 3.1-3.3 <br /> Optional Reading - MLS Appendix A.3
-  - topic: Introduction to Control with Applications to Quadrotor UAV Control
+  - topic: Introduction to Control with Quadrotors
     date: 2023-01-19
     description: (Slides) (Boardwork) (Video) <br /> Reading - MLS Ch 3.4, 4.1-4.3
 ---

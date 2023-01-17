@@ -1,7 +1,7 @@
 ---
-title: Week 3 - Concepts for Steering Nonholonomic Systems
+title: Week 3 - Safety, Nonholonomic Systems
 days:
-  - topic: Feedback Linearization, Computed Torque Control, Robust Control
+  - topic: Lyapunov Control
     date: 2023-01-31
     description: (Slides) (Boardwork) (Video)  <br /> Reading - MLS Chapter 5
   - topic: Nonholonomic systems, Pfaffian Systems, Frobenius and Chow

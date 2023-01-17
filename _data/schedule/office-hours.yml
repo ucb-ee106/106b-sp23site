@@ -24,6 +24,7 @@ schedule:
         end: 8:00 PM
         tas: Max & Tarun
         location: TBD
+        
   - name: Tuesday
     events:
       - name: Professor OH
@@ -37,14 +38,16 @@ schedule:
         end: 2:00 PM
         tas: Tarun
         location: Cory 105
+        
   - name: Wednesday
     events:
       - name: Lab OH
         class: loh
-        start: 3:00 PM 
-        end: 5:00 PM
+        start: 4:00 PM 
+        end: 6:00 PM
         tas: Han
         location: Cory 105
+        
   - name: Thursday
     events:
       - name: Lab OH
@@ -53,6 +56,7 @@ schedule:
         end: 11:00 AM
         tas: Han
         location: Cory 105
+        
   - name: Friday
     events:
       - name: Lab OH

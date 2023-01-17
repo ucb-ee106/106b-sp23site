@@ -61,6 +61,6 @@ schedule:
     events:
       - name: Discussion
         class: discussion
-        start: 3:00 PM
-        end: 4:00 PM
+        start: 2:00 PM
+        end: 3:00 PM
         location: TBD

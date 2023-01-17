@@ -29,7 +29,7 @@ Each week, there are 3 hours of lecture, 1 hour of discussion, and 1 hour of org
 Lecture will be Tuesday and Thursday from 2:00pm to 3:30pm in North Gate 105. Lectures will be recorded for asynchronous viewing, though we highly recommend you attend live in order to ask questions and engage fully with the material.
 
 ## Discussions
-Discussion sections will be on Wednesday from 1-2pm and Friday from 3-4pm, room TBD. They will have a review of important topics and go over practice problems related to the material to supplement lecture content. 
+Discussion sections will be on Wednesday from 1-2pm and Friday from 2-3pm, room TBD. They will have a review of important topics and go over practice problems related to the material to supplement lecture content. 
 
 ## Homeworks
 

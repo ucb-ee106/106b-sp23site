@@ -9,4 +9,5 @@ days:
     description:  (Slides) (Boardwork) (Video)  <br /> Reading - MLS
 ---
 
-- Discussion 4: Combining geometric path planning with steering (Worksheet) (Boardwork) (Video) (Solutions)
+- Discussion 4: Nonholonomic Steering (Worksheet) (Boardwork) (Video) (Solutions)
+- Homework 3: Path Planning (due 2/21)

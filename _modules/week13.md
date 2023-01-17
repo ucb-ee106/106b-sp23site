@@ -1,11 +1,13 @@
 ---
-title: Week 13 - Guest Lectures
+title: Week 13 - SLAM and Dex-Nets
 days:
-  - topic: Structure from Motion and SLAM II (Amay Saxena)
-    date: 2021-04-13
-    description: (<a href="https://drive.google.com/file/d/1v-FtccGRp9l4fqjy248Dv-ZxLfUQYQXX/view?usp=sharing">Slides</a>) (<a href="https://youtu.be/lyeVTa1-WpM">Video</a>) ([Scribe Notes](../assets/scribe/scribe_lec23.pdf))
+  - topic: SLAM, Part II (Frank Chiu, Ritika Srivastava)
+    date: 2023-04-11
+    description: (Slides) (Boardwork) (Video)
   - topic: Dex-Net (Professor Ken Goldberg)
-    date: 2021-04-15
-    description: (Video on Piazza) ([Scribe Notes](../assets/scribe/Goldberg_talk_scribed_notes.pdf))
+    date: 2023-04-13
+    description: (Slides) (Boardwork) (Video)
 ---
 
+- Discussion 11: Optimal Control
+- Start Final Projects

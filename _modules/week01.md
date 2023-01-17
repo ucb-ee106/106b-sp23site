@@ -9,10 +9,10 @@ days:
     description: (Slides) (Boardwork) (Video) <br /> Reading - MLS Ch 3.4, 4.1-4.3
 ---
 - Discussion 1: Linear Control Methods (Worksheet) (Boardwork) (Video) (Solutions)
-- Lab 0A: Setup
-- Lab 0B: Review of Robot Operating System (ROS)
-- Homework 1: Dynamical Systems (due 1/24 11:59pm)
-- Project 1A
+- Homework 1: Dynamical Systems (due 1/24)
+- Project 1A: Trajectory Creation (due 1/31)
+- Optional Project 0 (ROS Review)
+- Assessment (if you haven't taken 106A - due 1/20)
 - ["Reading a scientific or engineering paper", presented by Professor Terry Johnson](https://youtu.be/0nwFSCAacWk)
 - [“How to read all of research (a lit review)” - presented by David McPherson](https://youtu.be/y9rAzM30EDw)
 

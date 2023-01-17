@@ -1,11 +1,14 @@
 ---
-title: Week 12 - Manipulation of Grasped Objects & SLAM
+title: Week 12 - Manipulation of Soft Robots & SLAM
 days:
-  - topic: Hand Dynamics and Control
-    date: 2021-04-06
-    description: (<a href="https://drive.google.com/file/d/1lHNEx0Y0Vsirb7lnQAcTTMp2EY9GT1UZ/view?usp=sharing">Slides</a>) (<a href="https://youtu.be/df_BJGptDz8">Video</a>) (Scribe Notes)
-  - topic: Structure from Motion and SLAM I (Amay Saxena)
-    date: 2021-04-08
-    description: (<a href="https://drive.google.com/file/d/1nJxv2wYoggMIGHOCJJvsRx54oUBXlcSQ/view?usp=sharing">Slides</a>) (<a href="https://youtu.be/lUfdl2VLmD0">Video</a>) ([Scribe Notes](../assets/scribe/scribe_lec22.pdf))
+  - topic: Soft Robotics Part 2 (Isabella Huang)
+    date: 2023-04-04
+    description: (Slides) (Boardwork) (Video)
+  - topic: SLAM, Part I (Frank Chiu, Ritika Srivastava)
+    date: 2023-04-06
+    description: (Slides) (Boardwork) (Video)
 ---
-   
+
+- Discussion 10: Final Project Introductions
+- Project 5: Soft Robots (due 4/18)
+- Homework 6: Optimal Control & RL (due 4/18)

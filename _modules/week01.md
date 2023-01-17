@@ -11,7 +11,7 @@ days:
 - Discussion 1: Linear Control Methods (Worksheet) (Boardwork) (Video) (Solutions)
 - Lab 0A: Setup
 - Lab 0B: Review of Robot Operating System (ROS)
-- Homework 1: Dynamical Systems (due 1/31 11:59pm)
+- Homework 1: Dynamical Systems (due 1/24 11:59pm)
 - Project 1A
 - ["Reading a scientific or engineering paper", presented by Professor Terry Johnson](https://youtu.be/0nwFSCAacWk)
 - [“How to read all of research (a lit review)” - presented by David McPherson](https://youtu.be/y9rAzM30EDw)

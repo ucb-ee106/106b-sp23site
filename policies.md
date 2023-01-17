@@ -39,11 +39,13 @@ Collaboration on homework sets is encouraged, but all students must write up the
 We will hold **weekly homework parties**! They will be held each Monday 6:00pm - 8:00pm. They will be staffed by one or more TAs to assist students working through the homework. These hours are dedicated to homework only.
 
 | **Homework** | **Date Assigned** | **Due Date** |
-|Homework 1: Review| 1/20 | 2/2 |
-|Homework 2: Controls| 2/3 | 2/12 |
-|Homework 3: Path Planning| 2/17 | 3/1 |
-|Homework 4: Vision| 3/3 | 3/19 |
-|Homework 5: Grasping| cancelled | cancelled |
+|Homework 1: Dynamical Systems| 1/18 | 1/24 |
+|Homework 2: Controls| 1/25 | 2/7 |
+|Homework 3: Path Planning| 2/8 | 2/21 |
+|Homework 4: Vision| 2/22 | 3/7|
+|Homework 5: Grasping | 3/8 | 3/20 |
+|Homework 6: Optimal Control & RL | 4/5 | 4/18 |
+
 
 ## Projects
 
@@ -54,15 +56,16 @@ The lab in Cory 105 is open for use for the projects and the final project. The 
 Projects will be done in groups of 3, but groups of 2 are also acceptable. Each team may only reserve 2 hours at a time and can only make a new reservation once all of the team’s existing reservation times have ended. If a team is caught abusing this policy and overbooking, a 50% penalty will be deducted from the group’s project grade. Each project team will be assigned to a robot. Please reserve times on the following calendars:
 - Arm Robot Calendars
 - Turtlebot Calendars
-- Soft Robot Calendars (COMING SOON)
+- Soft Robot Calendars
 
 | **Project** | **Date Assigned** | **Due Date** |
-|Lab 0: Setup & Review| 1/19 | 1/29 |
-|Project 1a: Trajectory Tracking with Baxter| 1/22 | 2/1 |
-|Project 1b: Trajectory Tracking with Baxter| 2/3 | 2/19 |
-|Project 2: Nonholonomic Control with Turtlebots| 2/17 | 3/10 |
-|Project 3: Structure from Motion and Image Reconstruction| 3/10 | 3/23 |
-|Project 4: Grasping| 3/30 | 4/12 |
+|Lab 0: Review of ROS | 1/17 | N/A |
+|Project 1a: Trajectory Tracking with Sawyer | 1/17 | 1/30 |
+|Project 1b: Trajectory Tracking with Sawyer | 1/30 | 2/13 |
+|Project 2: Nonholonomic Control | 2/13 | 2/27 |
+|Project 3: State Estimation | 2/27 | 3/13 |
+|Project 4: Decentralized Multi-Agent Control | 3/13 | 3/27 |
+|Project 5: Soft Robotics | 4/3 | 4/10 |
 
 ## Midterm
 

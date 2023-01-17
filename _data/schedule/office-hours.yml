@@ -7,13 +7,13 @@ timeline: [
 schedule:
   - name: Monday
     events:
-      - name: Professor Sastry's OH
-        class: coh
+      - name: Professor OH
+        class: loh
         start: 11:00 AM
         end: 12:00 PM
         location: Cory 333
       - name: Content OH
-        class: coh
+        class: loh
         start: 3:00 PM
         end: 5:00 PM
         tas: Max
@@ -32,7 +32,7 @@ schedule:
         end: 12:00 PM
         location: Cory 333
       - name: Lab/Content/Admin OH
-        class: coh
+        class: loh
         start: 1:00 PM
         end: 2:00 PM
         tas: Tarun

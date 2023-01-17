@@ -8,6 +8,7 @@ timeline: [
 schedule:
   - name: Monday
     events:
+    
   - name: Tuesday
     events:
       - name: Lecture
@@ -15,6 +16,7 @@ schedule:
         start: 2:00 PM
         end: 3:30 PM
         location: North Gate 105
+        
   - name: Wednesday
     events:
       - name: Journal Club
@@ -28,18 +30,19 @@ schedule:
         start: 9:00 AM
         end: 10:00 AM
         location: Cory 105
-        tas: Tarun
+        tas: Han
       - name: Journal Club
         class: lab
         start: 12:00 PM
         end: 1:00 PM
         location: Cory 105
-        tas: Han
+        tas: Tarun
       - name: Discussion
         class: discussion
         start: 1:00 PM
         end: 2:00 PM
         location: TBD
+        
   - name: Thursday
     events:
       - name: Journal Club
@@ -53,6 +56,7 @@ schedule:
         start: 2:00 PM
         end: 3:30 PM
         location: North Gate 105
+        
   - name: Friday
     events:
       - name: Discussion

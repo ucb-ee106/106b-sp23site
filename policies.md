@@ -21,7 +21,7 @@ description: >-
 
 ## Overview
 
-This course will be taught in a seminar style, with lectures, 6 homeworks, 5 assigned projects, 1 midterm, weekly paper presentations (2 per person), and a final project. **All submissions will go through Gradescope (Course Entry Code: WVK62G)**. An Ed page has been created for students to discuss homeworks and projects. 
+This course will be taught in a seminar style, with lectures, 6 homeworks, 5 assigned projects, 1 midterm, weekly paper presentations (2 per person), and a final project. **All submissions will go through Gradescope (Course Entry Code: WVK62G)**. An [Ed page](https://edstem.org/us/join/a9HVFG) has been created for students to discuss homeworks and projects. 
 
 Each week, there are 3 hours of lecture, 1 hour of discussion, and 1 hour of organized paper-reading time in lab sections. All of these and office hours will be hosted in-person. You are expected to work on projects during your own time. A booking system will be instituted to reserve robots, and lab TAs will be availble to address any questions during their office hours. Lecture and discussion sections will be recorded and posted, so you may attend these asynchronously. However, due to the journal club nature of lab sections, they will not be offered asynchronously, **and you are expected to attend your lab section every week.**
 
@@ -43,7 +43,7 @@ We will hold **weekly homework parties**! They will be held each Monday 6:00pm -
 |Homework 2: Controls| 1/25 | 2/7 |
 |Homework 3: Path Planning| 2/8 | 2/21 |
 |Homework 4: Vision| 2/22 | 3/7|
-|Homework 5: Grasping | 3/8 | 3/20 |
+|Homework 5: Grasping | 3/8 | 3/21 |
 |Homework 6: Optimal Control & RL | 4/5 | 4/18 |
 
 
@@ -59,17 +59,17 @@ Projects will be done in groups of 3, but groups of 2 are also acceptable. Each 
 - Soft Robot Calendars
 
 | **Project** | **Date Assigned** | **Due Date** |
-|Lab 0: Review of ROS | 1/17 | N/A |
-|Project 1a: Trajectory Tracking with Sawyer | 1/17 | 1/30 |
-|Project 1b: Trajectory Tracking with Sawyer | 1/30 | 2/13 |
-|Project 2: Nonholonomic Control | 2/13 | 2/27 |
-|Project 3: State Estimation | 2/27 | 3/13 |
-|Project 4: Decentralized Multi-Agent Control | 3/13 | 3/27 |
-|Project 5: Soft Robotics | 4/3 | 4/10 |
+|Lab 0: Review of ROS | 1/18 | N/A |
+|Project 1A: Trajectory Tracking with Sawyer | 1/18 | 1/31 |
+|Project 1B: Trajectory Tracking with Sawyer | 2/1 | 2/14 |
+|Project 2: Nonholonomic Control | 2/15 | 2/28 |
+|Project 3: State Estimation | 3/1 | 3/14 |
+|Project 4: Decentralized Multi-Agent Control | 3/15 | 4/11 |
+|Project 5: Soft Robotics | 4/3 | 4/18 |
 
 ## Midterm
 
-There will be **one midterm** to ensure students are caught up with course material. It will be a take-home exam that can be completed during any time in a three day window, **from 2/2 to 2/2**. Logistics will be released closer to the test dates.
+There will be **one midterm** to ensure students are caught up with course material. It will be a take-home exam that can be completed during any time in a three day window, **from 4/19 to 4/21**. Logistics will be released closer to the test dates.
 
 ## Lab Sections and Paper Presentations
 Lab sections are not offered asynchronously. At the beginning of lab section, the GSI will go over any announcements, including introducing any new projects. Then, there will be a discussion of two assigned papers.
@@ -87,19 +87,11 @@ Due to the types of deliverables involved (e.g., live demonstrations), extension
 
 **As in EECS C106A, all students must complete a final project. Failure to complete a final project will result in a failing grade.**
 
-| **Final Project Deliverables** | **Due Date** |
-|Final Project Proposal| 4/4 |
-|Intermediate Presentation| 4/18 |
-|Intermediate Presentation Peer Review| 4/21 |
-|Final Project Showcase| 5/6 |
-|Final Project Report and Website| 5/14 |
-
 ## Office Hours
 
 The instructors will hold weekly office hours to discuss lecture content, homework assignments, projects, and other course material. We will try our best to schedule them so that each student has the opportunity to attend at least one office hour each week. When discussing a current homework assignment, instructors will **not** provide solutions. Rather, instructors will be happy to help clarify fundamentals and to guide students' reasoning in related problems.
 
 **Content** questions can go to **any TA or the professor**. Questions regarding **homeworks** should be directed to **Max** and **Tarun**. Questions regarding **projects** can be directed to **any TA**. Questions regarding **course logistics** should be directed to **Tarun**. All questions can be directed to **Ed** for the fastest response. When emailing staff, please prefix the subject line with **[EECS 106B]**.
-
 
 
 

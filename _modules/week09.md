@@ -10,4 +10,4 @@ days:
 ---
 
 - Discussion 9: Grasping
-- Project 4: CBFs (due 4/11)
+- Project 4: Decentralized Multi-Agent Control (due 4/11)

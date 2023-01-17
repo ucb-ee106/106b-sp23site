@@ -10,7 +10,7 @@ days:
 ---
 - Discussion 1: Linear Control Methods (Worksheet) (Boardwork) (Video) (Solutions)
 - Homework 1: Dynamical Systems (due 1/24)
-- Project 1A: Trajectory Creation (due 1/31)
+- Project 1A: Trajectory Tracking with Sawyer (due 1/31)
 - Optional Project 0 (ROS Review)
 - Assessment (if you haven't taken 106A - due 1/20)
 - ["Reading a scientific or engineering paper", presented by Professor Terry Johnson](https://youtu.be/0nwFSCAacWk)

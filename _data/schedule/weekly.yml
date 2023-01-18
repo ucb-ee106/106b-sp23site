@@ -33,8 +33,8 @@ schedule:
         tas: Han
       - name: Journal Club
         class: lab
-        start: 12:00 PM
-        end: 1:00 PM
+        start: 11:00 AM
+        end: 12:00 PM
         location: Cory 105
         tas: Tarun
       - name: Discussion

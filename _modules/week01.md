@@ -10,10 +10,10 @@ days:
 ---
 - Discussion 1: Linear Control Methods (Worksheet) (Boardwork) (Video) (Solutions)
 - Homework 1: Dynamical Systems (due 1/24)
-- [Project 1A: Trajectory Tracking with Sawyer (due 1/31)](./assets/proj/proj1a.pdf)
-- [Optional Project 0 (ROS Review)](./assets/proj/proj0.pdf)
-- [Assessment (if you haven't taken 106A - due 1/20)](./assets/misc/Background_Assessment.pdf)
-- ["Reading a scientific or engineering paper", presented by Professor Terry Johnson](https://youtu.be/0nwFSCAacWk)
-- [“How to read all of research (a lit review)” - presented by David McPherson](https://youtu.be/y9rAzM30EDw)
+- [Project 1A: Trajectory Tracking with Sawyer](./assets/proj/proj1a.pdf) (due 1/31)
+- Optional [Project 0 (ROS Review)](./assets/proj/proj0.pdf)
+- [Assessment](./assets/misc/Background_Assessment.pdf) (if you haven't taken 106A - due 1/20)
+- ["Reading a scientific or engineering paper"](https://youtu.be/0nwFSCAacWk), presented by Professor Terry Johnson
+- [“How to read all of research (a lit review)”](https://youtu.be/y9rAzM30EDw) - presented by David McPherson
 
 <a id="Week2"></a>

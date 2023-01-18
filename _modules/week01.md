@@ -12,7 +12,7 @@ days:
 - Homework 1: Dynamical Systems (due 1/24)
 - [Project 1A: Trajectory Tracking with Sawyer (due 1/31)](./assets/proj/proj1a.pdf)
 - [Optional Project 0 (ROS Review)](./assets/proj/proj0.pdf)
-- Assessment (if you haven't taken 106A - due 1/20)
+- [Assessment (if you haven't taken 106A - due 1/20)](./assets/misc/Background_Assessment.pdf)
 - ["Reading a scientific or engineering paper", presented by Professor Terry Johnson](https://youtu.be/0nwFSCAacWk)
 - [“How to read all of research (a lit review)” - presented by David McPherson](https://youtu.be/y9rAzM30EDw)
 

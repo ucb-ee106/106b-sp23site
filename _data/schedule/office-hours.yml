@@ -44,7 +44,7 @@ schedule:
       - name: Lab OH
         class: loh
         start: 4:00 PM 
-        end: 6:00 PM
+        end: 5:00 PM
         tas: Han
         location: Cory 105
         

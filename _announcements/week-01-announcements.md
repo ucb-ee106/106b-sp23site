@@ -6,10 +6,10 @@ We're extremely excited to have you! It's going to be a great semester. We've sp
 
 **This week:**
 - Homework 1 released (due 1/24)
-- [Project 1A released (due 1/31)](../../assets/proj/proj1a.pdf)
+- [Project 1A released (due 1/31)](../assets/proj/proj1a.pdf)
 - Discussion 1
 - Assessment due Friday 1/20 (if you haven't taken 106A/206A)
-- [Optional Project 0](../../assets/proj/proj0.pdf)
+- [Optional Project 0](../assets/proj/proj0.pdf)
 - Sign up for journal club section and paper presentations
 
 {: .fs-5 }

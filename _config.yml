@@ -33,6 +33,8 @@ nav_links:
       - 'https://edstem.org/us/courses/35051/discussion/'
     Textbook:
       - 'https://ucb-ee106.github.io/eecs106b-fa23/assets/MLS.pdf'
+    Course Notes:
+      - 'https://ucb-ee106.github.io/eecs106b-fa23/assets/notes/Robotic_Manipulation_and_Interaction_106B_Notes.pdf'
 # aux_links:
 #   'Kevin Lin':
 #     - 'https://kevinl.info'

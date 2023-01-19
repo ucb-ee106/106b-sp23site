@@ -9,7 +9,7 @@ days:
     description: (Slides) (Boardwork) (Video) <br /> Reading - MLS Ch 3.4, 4.1-4.3
 ---
 - Discussion 1: Dynamical Systems & Linear Control ([Worksheet](./assets/disc/Discussion_1_Dynamical_Systems.pdf)) ([Boardwork](./assets/disc/118_disc.pdf)) (Video) (Solutions)
-- [Homework 1: Dynamical Systems](./assets/hw/Homework_1__Dynamical_Systems.pdf)(due 1/24)
+- [Homework 1: Dynamical Systems](./assets/hw/Homework_1__Dynamical_Systems.pdf)( due 1/24)
 - [Project 1A: Trajectory Tracking with Sawyer](./assets/proj/proj1a.pdf) (due 1/31)
 - Optional [Project 0 (ROS Review)](./assets/proj/proj0.pdf)
 - [Assessment](./assets/misc/Background_Assessment.pdf) (if you haven't taken 106A - due 1/20)

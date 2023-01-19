@@ -3,7 +3,7 @@ title: Week 1 - New Vistas in Robotics and Linear Control
 days:
   - topic: Course Logistics, New Vistas in Robotics
     date: 2023-01-17
-    description: ([Logistics Slides) ([Slides](https://drive.google.com/drive/u/2/folders/1spew-p4xjaw9b4sscoe43aCJNNkMhyVH)) (Video) <br /> Reading - MLS 2.1-2.5, 3.1-3.3 <br /> Optional Reading - MLS Appendix A.3
+    description: ([Logistics Slides) ([Slides](https://drive.google.com/drive/u/2/folders/1spew-p4xjaw9b4sscoe43aCJNNkMhyVH)) ([Video](https://berkeley.zoom.us/rec/play/okr_l3QAIB42oj8cg_zlbgZIaZXz590s8DNmPqyKpNJTpw0yI4azvs1Ch60yTZ97SH2p_JhvA6S0z-uJ.qlMJCGx9MylZvkFz?autoplay=true&startTime=1673992783000)) <br /> Reading - MLS 2.1-2.5, 3.1-3.3 <br /> Optional Reading - MLS Appendix A.3
   - topic: Introduction to Control with Quadrotors
     date: 2023-01-19
     description: (Slides) (Boardwork) (Video) <br /> Reading - MLS Ch 3.4, 4.1-4.3

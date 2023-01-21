@@ -6,7 +6,7 @@ days:
     description: ([Slides](./assets/lec/lec3_state_space.pdf)) (Boardwork) (Video)  <br /> Reading - MLS 4.5
   - topic: Feedback Linearization and Control of Quadrotor UAVs, Lyapunov Control
     date: 2023-01-26
-    description: (Slides) (Boardwork) (Video)  <br /> Reading - MLS 4.4
+    description: ([Slides](./assets/lec/lec4_linear_control.pdf)) (Boardwork) (Video)  <br /> Reading - MLS 4.4
 ---
 
 - Discussion 2: Lyapunov Stability (Worksheet) (Boardwork) (Video) (Solutions)

@@ -8,10 +8,16 @@ schedule:
   - name: Monday
     events:
       - name: Professor OH
-        class: loh
+        class: coh
         start: 11:00 AM
         end: 12:00 PM
         location: Cory 333
+      - name: Lab/Content/Admin OH
+        class: loh
+        start: 1:00 PM
+        end: 2:00 PM
+        tas: Tarun
+        location: Cory 105
       - name: Content OH
         class: loh
         start: 3:00 PM
@@ -32,12 +38,6 @@ schedule:
         start: 11:00 AM
         end: 12:00 PM
         location: Cory 333
-      - name: Lab/Content/Admin OH
-        class: loh
-        start: 1:00 PM
-        end: 2:00 PM
-        tas: Tarun
-        location: Cory 105
         
   - name: Wednesday
     events:

@@ -12,4 +12,7 @@ days:
 - Discussion 2: Lyapunov Stability (Worksheet) (Boardwork) (Video) (Solutions)
 - Homework 2: Controls (due 2/7)
 - Lab Slides
-- Robot Usage Guide
+- [Robot Usage Guide](./assets/proj/robot_usage_guide_sp23.pdf)
+
+<a id="Week3"></a>
+

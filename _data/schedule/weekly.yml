@@ -21,12 +21,6 @@ schedule:
     events:
       - name: Journal Club
         class: lab
-        start: 8:00 AM
-        end: 9:00 AM
-        location: Cory 105
-        tas: Han
-      - name: Journal Club
-        class: lab
         start: 9:00 AM
         end: 10:00 AM
         location: Cory 105
@@ -42,6 +36,12 @@ schedule:
         start: 1:00 PM
         end: 2:00 PM
         location: TBD
+      - name: Journal Club
+        class: lab
+        start: 2:00 PM
+        end: 3:00 PM
+        location: Cory 105
+        tas: Han
         
   - name: Thursday
     events:

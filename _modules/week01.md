@@ -8,7 +8,7 @@ days:
     date: 2023-01-19
     description: ([Slides](./assets/lec/lec2_quadrotor_dynamics.pdf)) ([Video](https://berkeley.zoom.us/rec/share/SXaBBwTKLW6DUqrlB4uZ5tH0mZeJhQrXrebJIE73VtZ4m7bvTSm1b7lm37WPtdAC.gOz29AudqqSMQBem?startTime=1674165619000)) <br /> Reading - MLS Ch 3.4, 4.1-4.3
 ---
-- Discussion 1: Dynamical Systems & Linear Control ([Worksheet](./assets/disc/Discussion_1_Dynamical_Systems.pdf)) ([Boardwork](./assets/disc/118_disc.pdf)) ([Video](https://youtu.be/dl4FUx3xLGQ)) (Solutions)
+- Discussion 1: Dynamical Systems & Linear Control ([Worksheet](./assets/disc/Discussion_1_Dynamical_Systems.pdf)) ([Boardwork](./assets/disc/118_disc.pdf)) ([Video](https://youtu.be/dl4FUx3xLGQ)) ([Solutions](./assets/disc/Discussion_1_Dynamical_Systems_Solution.pdf))
 - [Homework 1: Dynamical Systems](./assets/hw/Homework_1__Dynamical_Systems.pdf) (due 1/24)
 - [Project 1A: Trajectory Tracking with Sawyer](./assets/proj/proj1a.pdf) (due 1/31): [Intro Video](https://drive.google.com/file/d/14kXjrhVwFEnd246zD-2rUZuiXTEHf2mc/view)
 - Optional [Project 0 (ROS Review)](./assets/proj/proj0.pdf)

@@ -11,6 +11,7 @@ days:
 - Discussion 1: Dynamical Systems & Linear Control ([Worksheet](./assets/disc/Discussion_1_Dynamical_Systems.pdf)) ([Boardwork](./assets/disc/118_disc.pdf)) ([Video](https://youtu.be/dl4FUx3xLGQ)) ([Solutions](./assets/disc/Discussion_1_Dynamical_Systems_Solution.pdf))
 - [Homework 1: Dynamical Systems](./assets/hw/Homework_1__Dynamical_Systems.pdf) (due 1/24)
 - [Project 1A: Trajectory Tracking with Sawyer](./assets/proj/proj1a.pdf) (due 1/31): [Intro Video](https://drive.google.com/file/d/14kXjrhVwFEnd246zD-2rUZuiXTEHf2mc/view)
+- [Lab Slides](./assets/proj/lab1.pdf)
 - Optional [Project 0 (ROS Review)](./assets/proj/proj0.pdf)
 - [Assessment](./assets/misc/Background_Assessment.pdf) (if you haven't taken 106A - due 1/20)
 - ["Reading a scientific or engineering paper"](https://youtu.be/0nwFSCAacWk), presented by Professor Terry Johnson

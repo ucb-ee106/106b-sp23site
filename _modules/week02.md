@@ -11,7 +11,7 @@ days:
 
 - Discussion 2: Lyapunov Stability ([Worksheet](./assets/disc/Discussion_2_Lyapunov_Stability.pdf)) ([Boardwork](./assets/disc/125_disc.pdf)) ([Video](https://youtu.be/b15TqzFWOQU)) (Solutions)
 - [Homework 2: Controls](./assets/hw/hw2.zip) (due 2/7)
-- Lab Slides
+- [Lab Slides](./assets/proj/lab2.pdf)
 - [Robot Usage Guide](./assets/proj/robot_usage_guide_sp23.pdf)
 
 <a id="Week3"></a>

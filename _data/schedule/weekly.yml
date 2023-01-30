@@ -22,7 +22,13 @@ schedule:
       - name: Content OH
         class: loh
         start: 3:00 PM
-        end: 5:00 PM
+        end: 4:00 PM
+        tas: Max
+        location: Cory 105
+      - name: Content OH
+        class: loh
+        start: 5:00 PM
+        end: 6:00 PM
         tas: Max
         location: Cory 105
       - name: Homework/Project Party

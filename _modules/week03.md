@@ -1,10 +1,10 @@
 ---
-title: Week 3 - Safety, Nonholonomic Systems
+title: Week 3 - Feedback Linearization
 days:
-  - topic: Lyapunov Control
+  - topic: Feedback Linearization
     date: 2023-01-31
     description: (Slides) (Boardwork) (Video)  <br /> Reading - MLS Chapter 5
-  - topic: Nonholonomic systems, Pfaffian Systems, Frobenius and Chow
+  - topic: Multi-Input Feedback Linearization and Dynamic Extension, Application to Planar Quadrotors
     date: 2023-02-02
     description: (Slides) (Boardwork) (Video)  <br /> Reading - MLS Chapter 7
 ---

@@ -76,12 +76,6 @@ schedule:
         end: 3:00 PM
         location: Cory 105
         tas: Han
-      - name: Lab OH
-        class: loh
-        start: 3:00 PM 
-        end: 5:00 PM
-        tas: Han
-        location: Cory 105
         
   - name: Thursday
     events:
@@ -105,6 +99,12 @@ schedule:
         
   - name: Friday
     events:
+      - name: Lab OH
+        class: loh
+        start: 12:00 PM 
+        end: 2:00 PM
+        tas: Han
+        location: Cory 105
       - name: Discussion
         class: section
         start: 2:00 PM

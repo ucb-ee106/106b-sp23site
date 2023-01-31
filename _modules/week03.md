@@ -3,7 +3,7 @@ title: Week 3 - Feedback Linearization
 days:
   - topic: Feedback Linearization
     date: 2023-01-31
-    description: ([Slides](./assets/lec/feedback_linearization.pdf)) (Boardwork)  <br /> Reading - MLS Chapter 7
+    description: ([Slides](./assets/lec/feedback_linearization.pdf)) (Boardwork)  <br /> Reading - Sastry 1999, Chapter 8
   - topic: Multi-Input Feedback Linearization and Dynamic Extension, Application to Planar Quadrotors
     date: 2023-02-02
     description: (Slides) (Boardwork)  <br /> Reading - MLS Chapter 7

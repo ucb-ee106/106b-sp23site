@@ -11,6 +11,6 @@ days:
 
 - Discussion 3: Nonlinear Controls and Stability (Worksheet) (Boardwork) (Video) (Solutions)
 - [Project 1B: Trajectory Tracking with Sawyer](./assets/proj/proj1b.pdf) (due 2/14)
-- Lab Slides
+- [Lab Slides](https://docs.google.com/presentation/d/1qFgv4YDxfHiKDjqE8yussqhWTYUe6_LN5_CBx9cIsHg/edit?usp=sharing)
 
 <a id="Week4"></a>

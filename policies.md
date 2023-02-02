@@ -57,7 +57,7 @@ Projects in 106B/206B delve into active areas of research and as a result are mo
 The lab in Cory 105 is open for use for the projects and the final project. The robots/hardware will be shared. Similar to how final projects in C106A worked, we will organize the robots’ time using a reservation systems.
 
 Projects will be done in groups of 3, but groups of 2 are also acceptable. Each team may only reserve 2 hours at a time and can only make a new reservation once all of the team’s existing reservation times have ended. If a team is caught abusing this policy and overbooking, a 50% penalty will be deducted from the group’s project grade. Each project team will be assigned to a robot. Please reserve times on the following calendars:
-- Arm Robot Calendars
+- [Arm Robot Calendars](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUI5cjdCWXBYRUlOfGRlZmF1bHR8OTZhMTUwZjIxMzJjNTk1ZDJhNjkwMzdkODQ4MjU5Yjk)
 - Turtlebot Calendars
 - Soft Robot Calendars
 

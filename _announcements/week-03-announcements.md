@@ -6,7 +6,7 @@ title: Week 3
 - [Sign up](https://docs.google.com/spreadsheets/d/1R_x_skHDTk3o6-p1RcqvzdAZNXh3GBEzwrG-fD-mpQ0/edit#gid=490407880) for paper presentations
 - Complete the Robot Usage Quiz on Gradescope
 <br><br>
-- Discussion 2
+- [Discussion 3](https://ucb-ee106.github.io/106b-sp23site/assets/disc/Discussion_3_Feedback_Linearization.pdf)
 - Optional [Project 0](https://ucb-ee106.github.io/106b-sp23site/assets/proj/proj0.pdf)
 - [Project 1B](https://ucb-ee106.github.io/106b-sp23site/assets/proj/proj1b.pdf) released (due 2/14)
 

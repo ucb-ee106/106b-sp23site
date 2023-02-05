@@ -9,7 +9,7 @@ days:
     description: (Slides) (Boardwork)  <br /> Reading - MLS Chapter 7
 ---
 
-- Discussion 3: Nonlinear Controls and Stability ([Worksheet](./assets/disc/Discussion_3_Feedback_Linearization.pdf)) ([Boardwork](./assets/disc/201_disc.pdf)) ([Video](https://youtu.be/RST6BJlrIDY)) (Solutions)
+- Discussion 3: Nonlinear Controls and Stability ([Worksheet](./assets/disc/Discussion_3_Feedback_Linearization.pdf)) ([Boardwork](./assets/disc/201_disc.pdf)) ([Video](https://youtu.be/RST6BJlrIDY)) ([Solutions](./assets/disc/Discussion_3_Feedback_Linearization_Solns.pdf))
 - [Project 1B: Trajectory Tracking with Sawyer](./assets/proj/proj1b.pdf) (due 2/14)
 - [Lab Slides](https://docs.google.com/presentation/d/1qFgv4YDxfHiKDjqE8yussqhWTYUe6_LN5_CBx9cIsHg/edit?usp=sharing)
 

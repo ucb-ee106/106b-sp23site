@@ -9,7 +9,7 @@ days:
     description: ([Slides](./assets/lec/lec4_linear_control.pdf)) ([Boardwork](./assets/lec/jan_26_boardwork.pdf))  <br /> Reading - MLS 4.4 and Chapter 8
 ---
 
-- Discussion 2: Lyapunov Stability ([Worksheet](./assets/disc/Discussion_2_Lyapunov_Stability.pdf)) ([Boardwork](./assets/disc/125_disc.pdf)) ([Video](https://youtu.be/b15TqzFWOQU)) (Solutions)
+- Discussion 2: Lyapunov Stability ([Worksheet](./assets/disc/Discussion_2_Lyapunov_Stability.pdf)) ([Boardwork](./assets/disc/125_disc.pdf)) ([Video](https://youtu.be/b15TqzFWOQU)) ([Solutions](./assets/disc/Discussion_2_Lyapunov_Stability_Solns.pdf))
 - [Homework 2: Controls](./assets/hw/hw2.zip) (due 2/7) ([PDF](./assets/hw/hw2/Homework_2__Controls.pdf))
 - [Lab Slides](./assets/proj/lab2.pdf)
 - [Robot Usage Guide](./assets/proj/robot_usage_guide_sp23.pdf)

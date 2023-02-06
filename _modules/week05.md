@@ -12,3 +12,4 @@ days:
 - Discussion 5: MPC and Path Planning (Worksheet) (Boardwork) (Video) (Solutions)
 - Project 2: Nonholonomic Control (due 2/28)
 
+<a id="Week6"></a>

@@ -12,3 +12,4 @@ days:
 - Discussion 6: Basics on Image Formation (Worksheet) (Boardwork) (Video) (Solutions)
 - Homework 4: Computer Vision (due 3/7)
 
+<a id="Week7"></a>

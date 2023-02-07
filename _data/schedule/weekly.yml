@@ -26,7 +26,7 @@ schedule:
         tas: Max
         location: Cory 105
       - name: Homework/Project Party
-        class: hwp
+        class: loh
         start: 6:00 PM
         end: 8:00 PM
         tas: Max & Tarun

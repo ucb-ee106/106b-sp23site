@@ -7,7 +7,7 @@ title: Week 4
     - [Arm Robot Calendar](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUI5cjdCWXBYRUlOfGRlZmF1bHR8OTZhMTUwZjIxMzJjNTk1ZDJhNjkwMzdkODQ4MjU5Yjk)
     - [Team Signup Form](https://docs.google.com/forms/d/e/1FAIpQLSflnxcwP4Bxc73h-jBlbQ1N-hy4L91Gf1KjwAhYKw1qs6_W5g/viewform)
 - [Discussion 4](https://ucb-ee106.github.io/106b-sp23site/assets/disc/Discussion_4_Model_Predictive_Control.pdf)
-
+- Come to [Office Hours!](https://ucb-ee106.github.io/106b-sp23site/schedule/)
 
 <a href="#Week4">Jump to Week 4 </a>
 

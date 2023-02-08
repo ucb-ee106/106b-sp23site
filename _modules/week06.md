@@ -1,15 +1,15 @@
 ---
-title: Week 6 - Image Formation and Photometry
+title: Week 6 - Steering with Sinusoids and SLAM
 days:
-  - topic: Rigid Body Motion and Imaging Geometry
+  - topic: Steering with Sinusoids
     date: 2023-02-21
-    description: (Slides) (Boardwork) (Video)  <br /> Reading - MaSKS Ch 1, 2
-  - topic: Feature Detection Chapter 4 of MaSKS
+    description: (Slides) (Boardwork) (Video) 
+  - topic: SLAM Part 1 (with Frank Chiu)
     date: 2023-02-23
     description: (Slides) (Boardwork) (Video)  <br /> Reading - MaSKS Ch 4
 ---
 
-- Discussion 6: Basics on Image Formation (Worksheet) (Boardwork) (Video) (Solutions)
-- Homework 4: Computer Vision (due 3/7)
+- Discussion 6: Review of Computer Vision, Reconstruction (Worksheet) (Boardwork) (Video) (Solutions)
+- Homework 4: Computer Vision, SLAM, and Kalman Filtering (due 3/7)
 
 <a id="Week7"></a>

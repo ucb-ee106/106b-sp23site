@@ -1,15 +1,15 @@
 ---
-title: Week 8 - Multiple Views 
+title: Week 8 - Contacts and Grasping
 days:
-  - topic: Multiple-View Reconstruction from Scene Knowledge
+  - topic: Types and models of contact, modeling grasp by multi-fingered hands
     date: 2023-03-07
-    description: (Slides) (Boardwork) (Video)  <br /> Reading - MaSKS Ch 8 & 9
-  - topic: Reconstruction cont.
+    description: (Slides) (Boardwork) (Video)  
+  - topic: Grasp Stability, Manipulability, Grasp Planning
     date: 2023-03-09
-    description: (Slides) (Boardwork) (Video)  <br /> Reading - MaSKS Ch 9 & 10
+    description: (Slides) (Boardwork) (Video) 
 ---
 
-- Discussion 8: 3D Reconstruction (Worksheet) (Boardwork) (Video) (Solutions)
+- Discussion 8: Grasping (Worksheet) (Boardwork) (Video) (Solutions)
 - Homework 5: Grasping (due 3/21)
 
 <a id="Week9"></a>

@@ -1,10 +1,10 @@
 ---
-title: Week 13 - SLAM and Dex-Nets
+title: Week 13 - More Soft Robots and RL
 days:
-  - topic: SLAM, Part II (Frank Chiu, Ritika Srivastava)
+  - topic: Soft Robotics Part II (Isabella Huang)
     date: 2023-04-11
     description: (Slides) (Boardwork) (Video)
-  - topic: Dex-Net (Professor Ken Goldberg)
+  - topic: Optimal Control and RL Part II
     date: 2023-04-13
     description: (Slides) (Boardwork) (Video)
 ---

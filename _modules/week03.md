@@ -4,7 +4,7 @@ days:
   - topic: Feedback Linearization
     date: 2023-01-31
     description: ([Slides](./assets/lec/feedback_linearization.pdf)) ([Boardwork](./assets/lec/boardwork_1_31.pdf))  <br /> Reading - Sastry 1999, Chapter 8
-  - topic: Multi-Input Feedback Linearization and Dynamic Extension, Application to Planar Quadrotors
+  - topic: Multi-Input Feedback Linearization
     date: 2023-02-02
     description: ([Boardwork](./assets/lec/boardwork_2_2.pdf)) ([Sp22 3D Quadrotor](./assets/lec/3D_Quadrotor_2022.pdf))  <br /> Reading - MLS Chapter 7
 ---

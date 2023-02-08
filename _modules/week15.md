@@ -1,10 +1,10 @@
 ---
-title: Week 15 - Legged Robots & UAVs
+title: Week 15 - The Future Is Now
 days:
-  - topic: Dynamics of UAVs & Quadrotors - examples of use of UAVs
+  - topic: AR/VR
     date: 2023-04-25
     description: (Slides) (Boardwork) (Video)
-  - topic: Autonomous Driving Guest Lecture
+  - topic: Autonomous and Flying Cars, Conclusion
     date: 2023-04-27
     description: (Slides) (Boardwork) (Video)
 ---

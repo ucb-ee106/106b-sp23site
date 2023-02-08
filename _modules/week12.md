@@ -1,15 +1,15 @@
 ---
-title: Week 12 - Manipulation of Soft Robots & SLAM
+title: Week 12 - Dex-Net and Soft Robots
 days:
-  - topic: Soft Robotics Part 2 (Isabella Huang)
+  - topic: Dex-Net (Professor Ken Goldberg)
     date: 2023-04-04
     description: (Slides) (Boardwork) (Video)
-  - topic: SLAM, Part I (Frank Chiu, Ritika Srivastava)
+  - topic: Soft Robotics Part I (Isabella Huang)
     date: 2023-04-06
     description: (Slides) (Boardwork) (Video)
 ---
 
-- Discussion 10: Final Project Introductions
+- Discussion 10: Reinforcement Learning
 - Project 5: Soft Robots (due 4/18)
 - Homework 6: Optimal Control & RL (due 4/18)
 

@@ -1,15 +1,15 @@
 ---
-title: Week 5 - Optimal Control and Vision
+title: Week 5 - Steering and Controllability
 days:
-  - topic: Optimal Control, Model Predictive Control 
+  - topic: Controllability and the Frobenius Theorem
     date: 2023-02-14
-    description:  (Slides) (Boardwork) (Video)  <br /> Reading 
-  - topic: Chapters 1 and 2 of MaSKS
+    description:  (Slides) (Boardwork)
+  - topic: Steering, Optimal Control, and MPC
     date: 2023-02-16
-    description:  (Slides) (Boardwork) (Video)  <br /> Reading - MaSKS Ch 1, 2
+    description:  (Slides) (Boardwork)
 ---
 
-- Discussion 5: MPC and Path Planning (Worksheet) (Boardwork) (Video) (Solutions)
+- Discussion 5: Nonholonomic Steering (Worksheet) (Boardwork) (Video) (Solutions)
 - Project 2: Nonholonomic Control (due 2/28)
 
 <a id="Week6"></a>

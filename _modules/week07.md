@@ -1,15 +1,15 @@
 ---
-title: Week 7 - Two View Geometry & Multiple Views
+title: Week 7 - SLAM
 days:
-  - topic: Epipolar Equations, Two View Geometry, Linear and Nonlinear Two-view Geometry
+  - topic: SLAM Part II (with Frank Chiu)
     date: 2023-02-28
-    description: (Slides) (Boardwork) (Video)  <br /> Reading - MaSKS Ch 5
-  - topic: Calibration; Geometry and Algebra of Multiple Views
+    description: (Slides) (Boardwork) (Video) 
+  - topic: SLAM Part III (with Frank Chiu)
     date: 2023-03-02
-    description:  (Slides) (Boardwork) (Video)  <br /> Reading - MaSKS Ch 6
+    description:  (Slides) (Boardwork) (Video)
 ---
 
-- Discussion 7: Multi-View Geometry (Worksheet) (Boardwork) (Video) (Solutions)
+- Discussion 7: SLAM and Filtering (Worksheet) (Boardwork) (Video) (Solutions)
 - Project 3: State Estimation (due 3/14)
 
 <a id="Week8"></a>

@@ -45,7 +45,7 @@ We will hold **weekly homework/project parties**! They will be held each Monday 
 |Homework 1: Dynamical Systems| 1/18 | 1/24 |
 |Homework 2: Controls| 1/25 | 2/7 |
 |Homework 3: Path Planning| 2/8 | 2/21 |
-|Homework 4: Vision| 2/22 | 3/7|
+|Homework 4: Filtering and Vision| 2/22 | 3/7|
 |Homework 5: Grasping | 3/8 | 3/21 |
 |Homework 6: Optimal Control & RL | 4/5 | 4/18 |
 

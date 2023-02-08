@@ -39,7 +39,7 @@ Each student is allocated **5 total days of extension**, to be used on any homew
 
 Collaboration on homework sets is encouraged, but all students must write up their own solution set. Additionally, every student is accountable for the solutions they submit and may be asked to discuss them with a GSI or instructor. **Please list all collaborators at the top of each submitted homework set.**
 
-We will hold **weekly homework parties**! They will be held each Monday 6:00pm - 8:00pm. They will be staffed by one or more TAs to assist students working through the homework. These hours are dedicated to homework only.
+We will hold **weekly homework/project parties**! They will be held each Monday 6:00pm - 8:00pm. They will be staffed by one or more TAs to assist students working collaboratively through the homework or project. 
 
 | **Homework** | **Date Assigned** | **Due Date** |
 |Homework 1: Dynamical Systems| 1/18 | 1/24 |
@@ -60,6 +60,8 @@ Projects will be done in groups of 3, but groups of 2 are also acceptable. Each 
 - [Arm Robot Calendars](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUI5cjdCWXBYRUlOfGRlZmF1bHR8OTZhMTUwZjIxMzJjNTk1ZDJhNjkwMzdkODQ4MjU5Yjk)
 - Turtlebot Calendars
 - Soft Robot Calendars
+
+Similar to homeworks, each student is allocated **5 total slip days**, with **no more than 2 extension days for a single project.** These are counted separately from homework slip days.
 
 | **Project** | **Date Assigned** | **Due Date** |
 |Lab 0: Review of ROS | 1/18 | N/A |

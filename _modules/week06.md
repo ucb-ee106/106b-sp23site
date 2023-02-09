@@ -6,7 +6,7 @@ days:
     description: (Slides) (Boardwork) (Video) 
   - topic: SLAM Part 1 (with Frank Chiu)
     date: 2023-02-23
-    description: (Slides) (Boardwork) (Video)  <br /> Reading - MaSKS Ch 4
+    description: (Slides) (Boardwork) (Video) 
 ---
 
 - Discussion 6: Review of Computer Vision, Reconstruction (Worksheet) (Boardwork) (Video) (Solutions)

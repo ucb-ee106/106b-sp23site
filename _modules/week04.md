@@ -9,7 +9,7 @@ days:
     description:  (Slides) (Boardwork) (Video)  <br /> Reading - MLS
 ---
 
-- Discussion 4: Model Predictive Control ([Worksheet](./assets/disc/Discussion_4_Model_Predictive_Control.pdf)) (Boardwork) (Video) (Solutions)
+- Discussion 4: Model Predictive Control ([Worksheet](./assets/disc/Discussion_4_Model_Predictive_Control.pdf)) (Boardwork) ([Video](https://youtu.be/Vb2zNSTM_oM)) (Solutions)
 - Homework 3: Path Planning (due 2/21)
 
 <a id="Week5"></a>

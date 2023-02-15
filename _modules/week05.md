@@ -9,7 +9,7 @@ days:
     description:  (Slides) (Boardwork)
 ---
 
-- Discussion 5: Nonholonomic Steering (Worksheet) (Boardwork) (Video) (Solutions)
+- Discussion 5: Nonholonomic Steering ([Worksheet](./assets/disc/Discussion_5_Kinematic_Constraints.pdf)) (Boardwork) (Video) (Solutions)
 - Project 2: Nonholonomic Control (due 2/28)
 
 <a id="Week6"></a>

@@ -6,7 +6,7 @@ days:
     description:  ([Slides](./assets/lec/steering-nonholo.pdf)) (Boardwork)
   - topic: Steering, Optimal Control, and MPC
     date: 2023-02-16
-    description:  (Slides) (Boardwork)
+    description:  ([Slides](./assets/lec/steering-nonholo.pdf)) (Boardwork)
 ---
 
 - Discussion 5: Nonholonomic Steering ([Worksheet](./assets/disc/Discussion_5_Kinematic_Constraints.pdf)) (Boardwork) (Video) (Solutions)

@@ -13,6 +13,6 @@ title: Week 5
 
 - Project 2 released (due 2/28)
 
-<a href="#Week4">Jump to Week 5 </a>
+<a href="#Week5">Jump to Week 5 </a>
 
 {: .fs-5 }

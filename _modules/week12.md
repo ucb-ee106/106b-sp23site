@@ -11,6 +11,6 @@ days:
 
 - Discussion 10: Reinforcement Learning
 - Project 5: Soft Robots (due 4/18)
-- Homework 6: Optimal Control & RL (due 4/18)
+- Homework 6: Optimal Control & RL (due 4/25)
 
 <a id="Week13"></a>

@@ -10,6 +10,5 @@ days:
 ---
 
 - Discussion 7: SLAM and Filtering (Worksheet) (Boardwork) (Video) (Solutions)
-- Project 3: State Estimation (due 3/14)
 
 <a id="Week8"></a>

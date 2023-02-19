@@ -9,6 +9,7 @@ days:
     description: (Slides) (Boardwork) (Video)
 ---
 
-- No discussion
+- Project 4: Decentralized Multi-Agent Control (due 4/11)
+
 
 <a id="Week12"></a>

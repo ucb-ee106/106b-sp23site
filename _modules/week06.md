@@ -10,6 +10,6 @@ days:
 ---
 
 - Discussion 6: Review of Computer Vision, Reconstruction (Worksheet) (Boardwork) (Video) (Solutions)
-- Homework 4: Computer Vision, SLAM, and Kalman Filtering (due 3/7)
+- Homework 4: Computer Vision, SLAM, and Kalman Filtering (due 3/14)
 
 <a id="Week7"></a>

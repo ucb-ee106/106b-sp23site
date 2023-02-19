@@ -10,6 +10,6 @@ days:
 ---
 
 - Discussion 8: Grasping (Worksheet) (Boardwork) (Video) (Solutions)
-- Homework 5: Grasping (due 3/21)
+- Project 3: State Estimation (due 3/14)
 
 <a id="Week9"></a>

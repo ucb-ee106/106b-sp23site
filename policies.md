@@ -44,10 +44,10 @@ We will hold **weekly homework/project parties**! They will be held each Monday 
 | **Homework** | **Date Assigned** | **Due Date** |
 |Homework 1: Dynamical Systems| 1/18 | 1/24 |
 |Homework 2: Controls| 1/25 | 2/7 |
-|Homework 3: Path Planning| 2/8 | 2/21 |
-|Homework 4: Filtering and Vision| 2/22 | 3/7|
-|Homework 5: Grasping | 3/8 | 3/21 |
-|Homework 6: Optimal Control & RL | 4/5 | 4/18 |
+|Homework 3: Path Planning| 2/8 | 2/22 |
+|Homework 4: Filtering and Vision| 2/22 | 3/14|
+|Homework 5: Grasping | 3/15 | 4/7 |
+|Homework 6: Optimal Control & RL | 4/5 | 4/25 |
 
 
 ## Projects
@@ -67,10 +67,10 @@ Similar to homeworks, each student is allocated **5 total slip days**, with **no
 |Lab 0: Review of ROS | 1/18 | N/A |
 |Project 1A: Trajectory Tracking with Sawyer | 1/18 | 1/31 |
 |Project 1B: Trajectory Tracking with Sawyer | 2/1 | 2/14 |
-|Project 2: Nonholonomic Control | 2/15 | 2/28 |
-|Project 3: State Estimation | 3/1 | 3/14 |
-|Project 4: Decentralized Multi-Agent Control | 3/15 | 4/11 |
-|Project 5: Soft Robotics | 4/3 | 4/18 |
+|Project 2: Nonholonomic Control | 2/15 | 3/7 |
+|Project 3: State Estimation | 3/8 | 3/21 |
+|Project 4: Decentralized Multi-Agent Control | 3/22 | 4/11 |
+|Project 5: Soft Robotics | 4/5 | 4/18 |
 
 ## Midterm
 

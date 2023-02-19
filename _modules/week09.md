@@ -10,6 +10,6 @@ days:
 ---
 
 - Discussion 9: Control Barrier Functions
-- Project 4: Decentralized Multi-Agent Control (due 4/11)
+- Homework 5: Grasping (due 4/7)
 
 <a id="Week10"></a>

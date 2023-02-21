@@ -44,12 +44,6 @@ schedule:
         start: 2:00 PM
         end: 3:30 PM
         location: North Gate 105
-      - name: Lab/Content/Admin OH
-        class: loh
-        start: 5:00 PM
-        end: 6:00 PM
-        tas: Tarun
-        location: Cory 105
         
   - name: Wednesday
     events:
@@ -96,6 +90,12 @@ schedule:
         start: 2:00 PM
         end: 3:30 PM
         location: North Gate 105
+      - name: Lab/Content/Admin OH
+        class: loh
+        start: 5:00 PM
+        end: 6:00 PM
+        tas: Tarun
+        location: Cory 105
         
   - name: Friday
     events:

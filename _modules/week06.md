@@ -9,7 +9,7 @@ days:
     description: (Slides) (Boardwork) (Video) 
 ---
 
-- Discussion 6: Review of Computer Vision, Reconstruction (Worksheet) (Boardwork) (Video) (Solutions)
+- Discussion 6: Probability and Computer Vision (Worksheet) (Boardwork) (Video) (Solutions)
 - Homework 4: Computer Vision, SLAM, and Kalman Filtering (due 3/14)
 
 <a id="Week7"></a>

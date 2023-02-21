@@ -10,6 +10,6 @@ days:
 ---
 
 - Discussion 5: Nonholonomic Steering ([Worksheet](./assets/disc/Discussion_5_Kinematic_Constraints.pdf)) ([Boardwork](./assets/disc/217_disc.pdf)) ([Video](https://youtu.be/O4yJjwGmpuk)) ([Solutions](./assets/disc/Discussion_5_Kinematic_Constraints_Solns.pdf))
-- Project 2: Nonholonomic Control (due 3/7)
+- [Project 2: Nonholonomic Control](./assets/proj/proj2.pdf) (due 3/7)
 
 <a id="Week6"></a>

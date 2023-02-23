@@ -6,10 +6,9 @@ days:
     description: (Slides) (Boardwork) (Video) 
   - topic: SLAM Part 1 (with Frank Chiu)
     date: 2023-02-23
-    description: (Slides) (Boardwork) (Video) 
+    description: ([Slides](./assets/lec/SLAM.pdf)) (Boardwork) (Video) 
 ---
 
 - Discussion 6: Probability and Computer Vision ([Worksheet](./assets/disc/Discussion_6_Probability_Computer_Vision.pdf)) (Boardwork) (Video) (Solutions)
-- Homework 4: Computer Vision, SLAM, and Kalman Filtering (due 3/14)
 
 <a id="Week7"></a>

@@ -7,7 +7,7 @@ title: Week 6
 
 - [Paper presentations](https://docs.google.com/spreadsheets/d/1R_x_skHDTk3o6-p1RcqvzdAZNXh3GBEzwrG-fD-mpQ0/edit#gid=490407880) continue
 
-- Discussion 6: Probability and Computer Vision
+- [Discussion 6: Probability and Computer Vision](https://ucb-ee106.github.io/106b-sp23site/assets/disc/Discussion_6_Probability_Computer_Vision.pdf)
 
 <a href="#Week6">Jump to Week 6 </a>
 

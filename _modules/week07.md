@@ -10,5 +10,6 @@ days:
 ---
 
 - Discussion 7: SLAM and Filtering (Worksheet) (Boardwork) (Video) (Solutions)
+- Homework 4: Computer Vision, SLAM, and Kalman Filtering (due 3/14)
 
 <a id="Week8"></a>

@@ -6,7 +6,7 @@ days:
     description: (Slides) (Boardwork) (Video) 
   - topic: SLAM Part 1 (with Frank Chiu)
     date: 2023-02-23
-    description: ([Slides](./assets/lec/SLAM.pdf)) (Boardwork) (Video) 
+    description: ([Slides](https://drive.google.com/file/d/1RyL-efDhTcLTBARAYvMZ1nqo_FmoSqDx/view)) (Boardwork) (Video) 
 ---
 
 - Discussion 6: Probability and Computer Vision ([Worksheet](./assets/disc/Discussion_6_Probability_Computer_Vision.pdf)) ([Boardwork](./assets/disc/Discussion_6_Probability_Computer_Vision_Boardwork.pdf)) (Video) (Solutions)

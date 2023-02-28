@@ -9,6 +9,6 @@ days:
     description: ([Slides](./assets/lec/SLAM.pdf)) (Boardwork) (Video) 
 ---
 
-- Discussion 6: Probability and Computer Vision ([Worksheet](./assets/disc/Discussion_6_Probability_Computer_Vision.pdf)) (Boardwork) (Video) (Solutions)
+- Discussion 6: Probability and Computer Vision ([Worksheet](./assets/disc/Discussion_6_Probability_Computer_Vision.pdf)) ([Boardwork](./assets/disc/Discussion_6_Probability_Computer_Vision_Boardwork.pdf)) (Video) (Solutions)
 
 <a id="Week7"></a>

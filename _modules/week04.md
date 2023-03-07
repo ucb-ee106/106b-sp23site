@@ -6,7 +6,7 @@ days:
     description:  (Boardwork) (Video)  <br /> Reading - MLS Chapter 8
   - topic: Introduction to Nonholonomic Motion Planning
     date: 2023-02-09
-    description:  ([Slides](./assets/lec/eecs106b-nonholo.pdf)) (Boardwork) (Video)  <br /> Reading - MLS
+    description:  ([Slides](./assets/lec/eecs106b-nonholo.pdf)) ([Boardwork](./assets/lec/boardwork_2_9.pdf)) (Video)  <br /> Reading - MLS
 ---
 
 - Discussion 4: Model Predictive Control ([Worksheet](./assets/disc/Discussion_4_Model_Predictive_Control.pdf)) ([Boardwork](./assets/disc/208_disc.pdf)) ([Video](https://youtu.be/Vb2zNSTM_oM)) ([Solutions](./assets/disc/Discussion_4_Model_Predictive_Control_Solns.pdf))

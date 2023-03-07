@@ -10,5 +10,6 @@ days:
 ---
 
 - Midterm
+- Project 5: Soft Robots (due 4/28)
 
 <a id="Week15"></a>

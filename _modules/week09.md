@@ -10,6 +10,6 @@ days:
 ---
 
 - Discussion 9: Control Barrier Functions
-- Homework 5: Grasping (due 4/7)
+- Project 3: State Estimation (due 4/7)
 
 <a id="Week10"></a>

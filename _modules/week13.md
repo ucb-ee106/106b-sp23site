@@ -10,6 +10,7 @@ days:
 ---
 
 - Discussion 11: Optimal Control
+- Homework 6: Optimal Control & RL (due 4/28)
 - Start Final Projects
 
 <a id="Week14"></a>

@@ -10,6 +10,6 @@ days:
 ---
 
 - Discussion 8: Grasping (Worksheet) (Boardwork) (Video) (Solutions)
-- Project 3: State Estimation (due 3/21)
+- Homework 4: Computer Vision, SLAM, and Kalman Filtering (due 3/21)
 
 <a id="Week9"></a>

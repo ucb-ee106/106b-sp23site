@@ -9,7 +9,7 @@ days:
     description: (Slides) (Boardwork) (Video)
 ---
 
-- Project 4: Decentralized Multi-Agent Control (due 4/11)
+- Homework 5: Grasping (due 4/11)
 
 
 <a id="Week12"></a>

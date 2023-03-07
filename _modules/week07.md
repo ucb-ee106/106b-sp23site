@@ -9,7 +9,7 @@ days:
     description:  ([Slides](./assets/lec/SLAM_Presentation___106B_2023.pdf)) (Boardwork) (Video)
 ---
 
-- Discussion 7: SLAM ([Worksheet](./assets/disc/Discussion_7_SLAM.pdf)) (Boardwork) (Video) (Solutions)
+- Discussion 7: SLAM ([Worksheet](./assets/disc/Discussion_7_SLAM.pdf)) (Boardwork) ([Video](https://youtu.be/3NnFNL2UGwQ)) (Solutions)
 - Homework 4: Computer Vision, SLAM, and Kalman Filtering (due 3/14)
 
 <a id="Week8"></a>

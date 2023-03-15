@@ -9,7 +9,7 @@ days:
     description: ([Slides](./assets/lec/eecs106b-handcontrol.pdf)) (Boardwork) (Video) 
 ---
 
-- Discussion 9: Control Barrier Functions
+- Discussion 9: Grasping ([Worksheet](./assets/disc/Discussion_9_Grasping.pdf))
 - Project 3: State Estimation (due 4/7)
 
 <a id="Week10"></a>

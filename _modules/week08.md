@@ -9,7 +9,7 @@ days:
     description: ([Slides](./assets/lec/grasping_intro.pdf)) (Boardwork) (Video) 
 ---
 
-- Discussion 8: Midsemester Review and Wrenches ([Worksheet](./assets/disc/Discussion_8_Midsemester_Review_and_Wrenches.pdf)) (Boardwork) (Video) (Solutions)
+- Discussion 8: Midsemester Review ([Worksheet](./assets/disc/Discussion_8_Midsemester_Review.pdf)) ([Boardwork](./assets/disc/Discussion_8_Midsemester_Review_Boardwork.pdf)) ([Video](https://youtu.be/bMQONBueEgU)) (Solutions)
 - [Homework 4: Computer Vision, SLAM, and Kalman Filtering](./assets/hw/Homework_4__Vision_and_Estimation.pdf) (due 3/21)
 
 <a id="Week9"></a>

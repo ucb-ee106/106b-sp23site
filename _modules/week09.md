@@ -10,6 +10,6 @@ days:
 ---
 
 - Discussion 9: Grasping ([Worksheet](./assets/disc/Discussion_9_Grasping.pdf))
-- Project 3: State Estimation (due 4/7)
+- [Project 3: State Estimation](./assets/proj/proj3.pdf) (due 4/7)
 
 <a id="Week10"></a>

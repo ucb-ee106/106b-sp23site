@@ -8,7 +8,7 @@ title: Week 8
 
 - [Discussion 9: Grasping](https://ucb-ee106.github.io/106b-sp23site/assets/disc/Discussion_9_Grasping.pdf)
 
-- Project 5 due 4/7
+- [Project 3](https://ucb-ee106.github.io/106b-sp23site/assets/proj/proj3.pdf) due 4/7
 
 - [Paper presentations](https://docs.google.com/spreadsheets/d/1R_x_skHDTk3o6-p1RcqvzdAZNXh3GBEzwrG-fD-mpQ0/edit#gid=490407880) continue
 

@@ -3,7 +3,7 @@ title: Week 9 - Grasping and Hands
 days:
   - topic: Grasping Control
     date: 2023-03-14
-    description: ([Slides](./assets/lec/eecs106b-handcontrol.pdf)) (Boardwork) (Video) 
+    description: ([Slides](./assets/lec/eecs106b-handcontrol.pdf)) ([Boardwork](./assets/lec/boardwork_pi.pdf)) (Video) 
   - topic: Hand Dynamics and Control
     date: 2023-03-16
     description: ([Slides](./assets/lec/eecs106b-handcontrol.pdf)) (Boardwork) (Video) 

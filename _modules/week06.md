@@ -9,6 +9,6 @@ days:
     description: ([Slides](./assets/lec/SLAM_Presentation___106B_2023.pdf)) (Boardwork) (Video) 
 ---
 
-- Discussion 6: Probability and Computer Vision ([Worksheet](./assets/disc/Discussion_6_Probability_Computer_Vision.pdf)) ([Boardwork](./assets/disc/Discussion_6_Probability_Computer_Vision_Boardwork.pdf)) ([Video](https://youtu.be/3YS_KcxBut0)) (Solutions)
+- Discussion 6: Probability and Computer Vision ([Worksheet](./assets/disc/Discussion_6_Probability_Computer_Vision.pdf)) ([Boardwork](./assets/disc/Discussion_6_Probability_Computer_Vision_Boardwork.pdf)) ([Video](https://youtu.be/3YS_KcxBut0)) ([Solutions](./assets/disc/Discussion_6_Probability_Computer_Vision_Solns.pdf))
 
 <a id="Week7"></a>

@@ -6,9 +6,8 @@ days:
     description: (Slides) (Boardwork) (Video)
   - topic: CBFs (with Jason Choi)
     date: 2023-03-23
-    description: (Slides) (Boardwork) (Video)
+    description: ([Slides](./assets/lec/230323-EECS206B_Guest_Lecture.pdf)) (Boardwork) (Video)
 ---
-
 - Homework 5: Grasping (due 4/11)
 
 

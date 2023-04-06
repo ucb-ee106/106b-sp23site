@@ -10,6 +10,7 @@ days:
 ---
 
 - Discussion 10: Control Barrier Functions ([Worksheet](./assets/disc/Discussion_10_Control_Barrier_Functions.pdf)) (Boardwork) (Video) (Solutions)
+- [Homework 5: Grasping](./assets/hw/Homework_5__Grasping.pdf) (due 4/18)
 - Project 4: Decentralized Multi-Agent Control (due 4/18)
 
 <a id="Week13"></a>

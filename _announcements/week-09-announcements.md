@@ -1,5 +1,5 @@
 ---
-title: Week 8
+title: Week 9
 ---
 
 - [Project 2](https://ucb-ee106.github.io/106b-sp23site/assets/proj/proj2.pdf) due Tuesday

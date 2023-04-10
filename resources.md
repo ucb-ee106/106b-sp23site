@@ -47,42 +47,7 @@ Other material will be drawn from:
 - [Modern Robotics: videos](https://www.youtube.com/watch?v=jVu-Hijns70&list=PLggLP4f-rq02vX0OQQ5vrCxbJrzamYDfx)
 - [The Kinematics of Contact and Grasp, Montana](assets/misc/David Montana.1988.pdf)
 
-## Scribing
-- [Sign Up Sheet](https://docs.google.com/spreadsheets/d/19ZnrGzym7u1ieQ_kDXKwOcLRFRhPp-rywk5e4XF7gzs/edit?usp=sharing)
-- [LaTex Template](assets/template.tex)
-- [Scribing Notes Example](assets/Linear_Systems___Professor_Ma.pdf)
-
-## Scribed Notes
-- [Lecture 1, 1/19](assets/scribe/scribe_lec1.pdf)
-- [Lecture 2, 1/21](assets/scribe/scribe_lec2.pdf)
-- [Lecture 3, 1/26](assets/scribe/scribe_lec3.pdf)
-- [Lecture 4, 1/28](assets/scribe/scribe_lec4.pdf)
-- [Lecture 5, 2/2](assets/scribe/scribe_lec5.pdf)
-- [Lecture 6, 2/4](assets/scribe/scribe_lec6.pdf)
-- [Lecture 7, 2/9](assets/scribe/scribe_lec7.pdf)
-- [Lecture 8, 2/11](assets/scribe/scribe_lec8.pdf)
-- [Lecture 9, 2/16](assets/scribe/scribe_lec9.pdf)
-- [Lecture 10, 2/18](assets/scribe/scribe_lec10.pdf)
-- [Lecture 11, 2/23](assets/scribe/scribe_lec11.pdf)
-- [Lecture 12, 2/25](assets/scribe/scribe_lec12.pdf)
-- No Lecture 13 scribed notes
-- [Lecture 14, 3/4](assets/scribe/scribe_lec14.pdf)
-- [Lecture 15, 3/9](assets/scribe/scribe_lec15.pdf)
-- [Lecture 16, 3/11](assets/scribe/scribe_lec16.pdf)
-- No Lecture 17 scribed notes
-- [Lecture 18, 3/18](assets/scribe/scribe_lec18.pdf)
-- [Lecture 19, 3/30](assets/scribe/scribe_lec19.pdf)
-- [Lecture 20, 4/1](assets/scribe/scribe_lec20.pdf)
-- No Lecture 21 scribed notes
-- [Lecture 22, 4/8](assets/scribe/scribe_lec22.pdf)
-- [Lecture 23, 4/13](assets/scribe/scribe_lec23.pdf)
-- [Lecture 24, 4/15](assets/scribe/scribe_lec24.pdf)
-- [Lecture 25, 4/20](assets/scribe/scribe_lec25.pdf)
-- No Lecture 26 scribed notes
-- [Lecture 27, 4/27](assets/scribe/scribe_lec27.pdf)
-- [Lecture 28, 4/29](assets/scribe/scribe_lec28.pdf)
-
 ## Final Project Resources
-- [Sp 2020 Project Guidelines](assets/proj/ProjectGuidelines.pdf)
-- [Previous Years' Final Projects](assets/proj/prevProjects.zip)
+- [Final Project Guidelines](assets/final_proj/C106B_Final_Project_Guidelines.pdf)
+- [Report Template](assets/final_proj/template.zip)
 

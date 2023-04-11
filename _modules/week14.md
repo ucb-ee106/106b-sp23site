@@ -10,6 +10,6 @@ days:
 ---
 
 - Midterm
-- Project 5: Soft Robots (due 4/28)
+- Discussion 11: Optimal Control and Reinforcement Learning
 
 <a id="Week15"></a>

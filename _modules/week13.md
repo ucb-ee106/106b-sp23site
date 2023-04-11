@@ -9,7 +9,7 @@ days:
     description: (Slides) (Boardwork) (Video)
 ---
 
-- Discussion 11: Optimal Control and Reinforcement Learning
 - [Final Project Guidelines](./assets/final_proj/C106B_Final_Project_Guidelines.pdf)
+- No discussion this week
 
 <a id="Week14"></a>

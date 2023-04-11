@@ -9,7 +9,7 @@ days:
     description: ([Slides](./assets/lec/eecs106b-handcontrol.pdf)) (Boardwork) (Video) 
 ---
 
-- Discussion 9: Grasping ([Worksheet](./assets/disc/Discussion_9_Grasping.pdf))
+- Discussion 9: Grasping ([Worksheet](./assets/disc/Discussion_9_Grasping.pdf)) ([Solutions](./assets/disc/Discussion_9_Grasping_Solns.pdf))
 - [Project 3: State Estimation](./assets/proj/proj3.pdf) (due 4/7)
 
 <a id="Week10"></a>

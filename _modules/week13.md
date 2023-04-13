@@ -3,10 +3,10 @@ title: Week 13 - More Soft Robots and RL
 days:
   - topic: Soft Robotics Part II (Isabella Huang)
     date: 2023-04-11
-    description: (Slides) (Boardwork) (Video)
+    description: ([Slides](https://docs.google.com/presentation/d/1bDF4kEDzpO44N1kxcDIoFjYKF103OcwWE5CnjR4hJ5E/edit)) (Boardwork) (Video)
   - topic: Optimal Control and RL
     date: 2023-04-13
-    description: ([Slides](https://docs.google.com/presentation/d/1bDF4kEDzpO44N1kxcDIoFjYKF103OcwWE5CnjR4hJ5E/edit)) (Boardwork) (Video)
+    description: (Slides) (Boardwork) (Video)
 ---
 
 - [Final Project Guidelines](./assets/final_proj/C106B_Final_Project_Guidelines.pdf)

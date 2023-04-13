@@ -6,7 +6,7 @@ days:
     description: ([Slides](https://docs.google.com/presentation/d/1bDF4kEDzpO44N1kxcDIoFjYKF103OcwWE5CnjR4hJ5E/edit)) (Boardwork) (Video)
   - topic: Optimal Control and RL
     date: 2023-04-13
-    description: [(RL Intro Slides](https://docs.google.com/presentation/d/1DjYaorybxiScYVv49kLXN_7sqNqiUv-ShWuuvC2JcBQ/edit?usp=sharing)) (Boardwork) (Video)
+    description: ([RL Intro Slides](https://docs.google.com/presentation/d/1DjYaorybxiScYVv49kLXN_7sqNqiUv-ShWuuvC2JcBQ/edit?usp=sharing)) (Boardwork) (Video)
 ---
 
 - [Final Project Guidelines](./assets/final_proj/C106B_Final_Project_Guidelines.pdf)

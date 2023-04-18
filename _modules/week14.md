@@ -11,5 +11,6 @@ days:
 
 - Midterm
 - Discussion 11: Optimal Control and Reinforcement Learning
+- Homework 6: Optimal Control and Reinforcement Learning
 
 <a id="Week15"></a>

@@ -69,8 +69,7 @@ Similar to homeworks, each student is allocated **5 total slip days**, with **no
 |Project 1B: Trajectory Tracking with Sawyer | 2/1 | 2/14 |
 |Project 2: Nonholonomic Control | 2/15 | 3/14 |
 |Project 3: State Estimation | 3/15 | 4/7 |
-|Project 4: Decentralized Multi-Agent Control | 4/5 | 4/18 |
-|Project 5: Soft Robotics | 4/19 | 4/28 |
+|Project 4: Decentralized Multi-Agent Control | 4/5 | 4/25 |
 
 ## Midterm
 

@@ -6,7 +6,7 @@ title: Week 14
 
 - [Project 4](https://ucb-ee106.github.io/106b-sp23site/assets/proj/Spring_2023_EECS106B_Project_4.pdf), due 4/25
 
-- Discussion 11: Optimal Control and Reinforcement Learning
+- [Discussion 11: Optimal Control and Reinforcement Learning](https://ucb-ee106.github.io/106b-sp23site/assets/disc/Discussion_11_OCRL.pdf)
 
 - Homework 6: Optimal Control and Reinforcement Learning
 

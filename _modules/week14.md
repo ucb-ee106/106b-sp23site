@@ -11,6 +11,6 @@ days:
 
 - Midterm
 - Discussion 11: Optimal Control and Reinforcement Learning ([Worksheet](./assets/disc/Discussion_11_OCRL.pdf))
-- Homework 6: Optimal Control and Reinforcement Learning
+- Homework 6: Optimal Control and Reinforcement Learning, due 5/7
 
 <a id="Week15"></a>

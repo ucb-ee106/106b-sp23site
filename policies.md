@@ -47,7 +47,7 @@ We will hold **weekly homework/project parties**! They will be held each Monday 
 |Homework 3: Path Planning| 2/8 | 2/22 |
 |Homework 4: Filtering and Vision| 3/8 | 3/21|
 |Homework 5: Grasping | 3/22 | 4/18 |
-|Homework 6: Optimal Control & RL | 4/12 | 4/28 |
+|Homework 6: Optimal Control & RL | 4/20 | 5/7 |
 
 
 ## Projects
@@ -69,7 +69,7 @@ Similar to homeworks, each student is allocated **5 total slip days**, with **no
 |Project 1B: Trajectory Tracking with Sawyer | 2/1 | 2/14 |
 |Project 2: Nonholonomic Control | 2/15 | 3/14 |
 |Project 3: State Estimation | 3/15 | 4/7 |
-|Project 4: Decentralized Multi-Agent Control | 4/5 | 4/25 |
+|Project 4: Decentralized Multi-Agent Control | 4/5 | 4/28 |
 
 ## Midterm
 

@@ -58,7 +58,7 @@ The lab in Cory 105 is open for use for the projects and the final project. The 
 
 Projects will be done in groups of 3, but groups of 2 are also acceptable. Each team may only reserve 2 hours at a time and can only make a new reservation once all of the team’s existing reservation times have ended. If a team is caught abusing this policy and overbooking, a 50% penalty will be deducted from the group’s project grade. Each project team will be assigned to a robot. Please reserve times on the following calendars:
 - [Arm Robot Calendars](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUI5cjdCWXBYRUlOfGRlZmF1bHR8OTZhMTUwZjIxMzJjNTk1ZDJhNjkwMzdkODQ4MjU5Yjk)
-- Turtlebot Calendars
+- [Turtlebot Calendars](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UU5TVWdkRl9QT3FYfGRlZmF1bHR8MGExODU4NjFhNzQ2NTU4MzUxNDJiZDc2MmJkOWM5OGE)
 - Soft Robot Calendars
 
 Similar to homeworks, each student is allocated **5 total slip days**, with **no more than 2 extension days for a single project.** These are counted separately from homework slip days.

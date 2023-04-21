@@ -22,6 +22,7 @@ description: >-
 
 ## Project Resources
 
+- [Robot Usage Guide](https://ucb-ee106.github.io/106b-sp23site/assets/proj/robot_usage_guide_sp23.pdf)
 - [Python Intro](assets/labs/resources/python_intro.pdf)
 - [ROS Cheat Sheet](assets/labs/resources/ROS_cheat_sheet.pdf)
 - [Linux Intro](assets/labs/resources/linux_intro.pdf)

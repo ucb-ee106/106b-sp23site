@@ -1,12 +1,12 @@
 ---
 title: Week 14 - Intro to Legged Robots
 days:
-  - topic: Introduction to Legged Robots, Modeling and Dynamics of Legged Robots (Professor Koushil Sreenath)
+  - topic: Introduction to Legged Robots, Modeling and Dynamics of Legged Robots (Jason Choi)
     date: 2023-04-18
-    description: (Slides) (Boardwork) (Video)
-  - topic: Control of Legged Robots (Professor Koushil Sreenath)
+    description: ([Slides](./assets/lec/legged-lec-1.pdf)) (Boardwork) (Video)
+  - topic: Control of Legged Robots (Bike Zhang)
     date: 2023-04-20
-    description: (Slides) (Boardwork) (Video)
+    description: ([Slides](./assets/lec/legged-lec-2.pdf)) (Boardwork) (Video)
 ---
 
 - Midterm

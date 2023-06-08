@@ -1,24 +1,20 @@
 ---
-title: Week 1
-weekNumber: 1
+title: Week 1 - New Vistas in Robotics and Linear Control
 days:
-- date: 2023-01-17
-  events:
-    ? '**Lecture 1**{: .label .label-lecture } [Introduction](lecture/lec01)'
-    : '[Note 1](https://ds100.org/course-notes/intro_lec/introduction.html)'
-    ? '**Lecture Participation 1**{: .label .label-survey } <base target="_blank"> [Lecture Participation 1](https://app.sli.do/event/dkf81ojXdToAXJBzQsrMm2/embed/polls/9dd4dd70-7a4d-4182-81e2-f3214568f2e4)'
-    ? '**Survey**{: .label .label-survey } <base target="_blank"> [Pre-Semester Survey](https://forms.gle/V87pcQVmxufPn9as8) (due 1/20)'
-    : ''
-- date: 2023-01-19
-  events:
-    ? '**Lecture 2**{: .label .label-lecture } [Pandas I](lecture/lec02)'
-    : '[Note 2](https://ds100.org/course-notes/pandas_1/pandas_1.html)'
-    ? '**Lecture Participation 2**{: .label .label-survey } <base target="_blank"> [Lecture Participation 2](https://app.sli.do/event/bAdFQfFVvdGZTe2c7xFqat/embed/polls/8c9c73bb-3dcd-4751-b375-aecfbbac0761)'
-    : ''
-- date: 2023-01-20
-  events:
-      ? '**Lab 1**{: .label .label-lab } <base target="_blank"> [Prerequisite Refresher](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp23&branch=main&urlpath=lab%2Ftree%2Fsp23%2Flab%2Flab01%2Flab01.ipynb) (due Jan 24)'
-      ? '**Homework 1A**{: .label .label-hw } [Plotting and the Permutation Test](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsp23&branch=main&urlpath=lab%2Ftree%2Fsp23%2Fhw%2Fhw01%2Fhw01.ipynb) (due Jan 26)'
-      ? '**Homework 1B**{: .label .label-hw } [Prerequisite Math](https://drive.google.com/file/d/1BE-3g86cS8T2EHGukrC3y964d9YZDaJd/view?usp=sharing) (due Jan 26)'
-      : ''
+  - topic: Course Logistics, New Vistas in Robotics
+    date: 2023-01-17
+    description: ([Slides](https://drive.google.com/drive/u/2/folders/1spew-p4xjaw9b4sscoe43aCJNNkMhyVH)) <br /> Reading - MLS 2.1-2.5, 3.1-3.3 <br /> Optional Reading - MLS Appendix A.3
+  - topic: Introduction to Control with Quadrotors
+    date: 2023-01-19
+    description: ([Slides](./assets/lec/lec2_quadrotor_dynamics.pdf)) <br /> Reading - MLS Ch 3.4, 4.1-4.3
 ---
+- Discussion 1: Dynamical Systems & Linear Control ([Worksheet](./assets/disc/Discussion_1_Dynamical_Systems.pdf)) ([Boardwork](./assets/disc/118_disc.pdf)) ([Video](https://youtu.be/dl4FUx3xLGQ)) ([Solutions](./assets/disc/Discussion_1_Dynamical_Systems_Solution.pdf))
+- [Homework 1: Dynamical Systems](./assets/hw/Homework_1__Dynamical_Systems.pdf) (due 1/24)
+- [Project 1A: Trajectory Tracking with Sawyer](./assets/proj/proj1a.pdf) (due 1/31): [Intro Video](https://drive.google.com/file/d/14kXjrhVwFEnd246zD-2rUZuiXTEHf2mc/view)
+- [Lab Slides](./assets/proj/lab1.pdf)
+- Optional [Project 0 (ROS Review)](./assets/proj/proj0.pdf)
+- [Assessment](./assets/misc/Background_Assessment.pdf) (if you haven't taken 106A - due 1/20)
+- ["Reading a scientific or engineering paper"](https://youtu.be/0nwFSCAacWk), presented by Professor Terry Johnson
+- [“How to read all of research (a lit review)”](https://youtu.be/y9rAzM30EDw) - presented by David McPherson
+
+<a id="Week2"></a>
